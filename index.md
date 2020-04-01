@@ -1,3 +1,3 @@
 # Index.md file
 
-[Link to another page](./contact)
+[Link to another page](./contact.html)
