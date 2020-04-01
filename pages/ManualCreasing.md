@@ -19,8 +19,7 @@ permalink: /manual-soft-creasing/
 
 1. Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
 
-![](./)
-
+![Instructions Image Test](../assets/images/instructionsTestImage1.jpg)
 
 2. Place your transparent sheet on the template. Mark the holes location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol.  
 
