@@ -8,5 +8,5 @@
 
 ## Templates
 
-[Contact](./contact.html)
+[Contact](./contact.md)
 
