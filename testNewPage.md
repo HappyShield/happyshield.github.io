@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "testNewPage"
+permalink: /testnewpage/
 ---
 
 # This is a new page
