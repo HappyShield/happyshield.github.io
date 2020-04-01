@@ -17,7 +17,7 @@ permalink: /manual-soft-creasing/
 
 ## Instructions
 
-1. Download your tracing template format ([A4](https://github.com/smileyFaceShield/smileyfaceshield/raw/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf) for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
+1. Download your tracing template format ([A4 for A3 shields](https://github.com/smileyFaceShield/smileyfaceshield/raw/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf), Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
 
 ![Instructions Image Test](../assets/images/instructionsTestImage1.jpg)
 
