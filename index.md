@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Smiley Face Shield
-tagline: Tagline
 description: Description.
 ---
 
