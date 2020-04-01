@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Manual Soft Creasing
-description: Smiley Face Shield: Instructions for Manual Soft-Creased Version:
+title: Manual Soft Creasing Instructions
 ---
 
 # Smiley Face Shield: Instructions for Manual Soft-Creased Version:
