@@ -8,4 +8,4 @@ description: Description.
 
 Methods of Production:
 
-* [Manual Soft Creasing](pages/ManualCreasing.html)
+* [Manual Soft Creasing](./manual-soft-creasing/)
