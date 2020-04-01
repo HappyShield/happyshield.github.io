@@ -1,3 +1,12 @@
-# Index.md file
+# Index.md
 
-[Link to another page](./contact.html)
+## Instructions 
+
+* Manual Creasing:
+    + Straight-line method
+    + Channel Method
+
+## Templates
+
+[Contact](./contact.html)
+

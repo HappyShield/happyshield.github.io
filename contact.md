@@ -1,7 +1,10 @@
-# Smiley Face Shield
+---
+layout: page
+title: "contact"
+permalink: /contact/
+---
 
 
-## Test Header 
+# Contact 
 
-
-### Test Sub-Header
+Contact info.
