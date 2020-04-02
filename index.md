@@ -4,13 +4,7 @@ title: HappyShield
 description: Description.
 ---
 
-Test video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tp1zVKM3T54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Instructions
-
-Methods of Production:
 
 |                    | EN                                   | ZH | HI | ES | AR | PT | BN | RU | JA |   |   |   |   |
 |--------------------|--------------------------------------|----|----|----|----|----|----|----|----|---|---|---|---|
@@ -18,9 +12,10 @@ Methods of Production:
 | Automated Creasing |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
 | DIY Cardboard      |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
 
-<i class="em em-bird" aria-role="presentation" aria-label="BIRD"></i>
 
-<i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i>
+Test video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tp1zVKM3T54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 SVG:
