@@ -18,6 +18,10 @@ Methods of Production:
 | Automated Creasing |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
 | DIY Cardboard      |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
 
+<i class="em em-bird" aria-role="presentation" aria-label="BIRD"></i>
+
+<i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i>
+
 
 SVG:
 
