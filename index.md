@@ -11,7 +11,7 @@ Find instructions for your favourite way of making your own HappyShield in your 
 |   |                    | EN                                                                                                                                  | ZH | HI | ES | AR | PT | BN | RU | JA |   |   |   |   |
 |---|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|----|----|----|----|----|----|----|----|---|---|---|---|
 | <i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i> <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i> <i class="em em-printer" aria-role="presentation" aria-label=""></i> | Manual Creasing    | [<i class="em em-blush" aria-role="presentation" aria-label="SMILING FACE WITH SMILING EYES"></i>](./manual-soft-creasing/english/) |    |    |    |    |    |    |    |    |   |   |   |   |
-|   | Automated Creasing |                                                                                                                                     |    |    |    |    |    |    |    |    |   |   |   |   |
+| <i class="em em-boom" aria-role="presentation" aria-label="COLLISION SYMBOL"></i>  | Automated Creasing |                                                                                                                                     |    |    |    |    |    |    |    |    |   |   |   |   |
 |  <i class="em em-printer" aria-role="presentation" aria-label=""></i> | DIY Cardboard      |                                                                                                                                     |    |    |    |    |    |    |    |    |   |   |   |   |
 
 
