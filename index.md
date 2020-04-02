@@ -12,11 +12,11 @@ Test video:
 
 Methods of Production:
 
-|                    | Tools | EN | ZH | HI | ES | AR | PT | BN | RU | JA |   |   |   |   |
-|--------------------|-------|---------|--------------------|-------|---------|--------|------------|---------|---------|----------|---|---|---|---|
-| Manual Creasing    |       |   [X](./manual-soft-creasing/english/)    |                    |       |         |        |            |         |         |          |   |   |   |   |
-| Automated Creasing |       |         |                    |       |         |        |            |         |         |          |   |   |   |   |
-| DIY Cardboard      |       |         |                    |       |         |        |            |         |         |          |   |   |   |   |
+|                    | EN                                   | ZH | HI | ES | AR | PT | BN | RU | JA |   |   |   |   |
+|--------------------|--------------------------------------|----|----|----|----|----|----|----|----|---|---|---|---|
+| Manual Creasing    | [*](./manual-soft-creasing/english/) |    |    |    |    |    |    |    |    |   |   |   |   |
+| Automated Creasing |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
+| DIY Cardboard      |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
 
 
 SVG:
