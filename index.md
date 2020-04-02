@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Smiley Face Shield
+title: Happy Shield
 description: Description.
 ---
 
