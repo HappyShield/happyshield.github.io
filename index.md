@@ -14,7 +14,7 @@ Methods of Production:
 
 |                    | EN                                   | ZH | HI | ES | AR | PT | BN | RU | JA |   |   |   |   |
 |--------------------|--------------------------------------|----|----|----|----|----|----|----|----|---|---|---|---|
-| Manual Creasing    | [*](./manual-soft-creasing/english/) |    |    |    |    |    |    |    |    |   |   |   |   |
+| Manual Creasing    | [<i class="em em-blush" aria-role="presentation" aria-label="SMILING FACE WITH SMILING EYES"></i>](./manual-soft-creasing/english/) |    |    |    |    |    |    |    |    |   |   |   |   |
 | Automated Creasing |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
 | DIY Cardboard      |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
 
