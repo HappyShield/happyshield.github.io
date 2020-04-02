@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Happy Shield
+title: HappyShield
 description: Description.
 ---
 
