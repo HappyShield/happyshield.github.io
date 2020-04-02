@@ -6,14 +6,13 @@ description: Description.
 
 ## Instructions
 
-|                    | EN                                   | ZH | HI | ES | AR | PT | BN | RU | JA |   |   |   |   |
-|--------------------|--------------------------------------|----|----|----|----|----|----|----|----|---|---|---|---|
-| Manual Creasing    | [<i class="em em-blush" aria-role="presentation" aria-label="SMILING FACE WITH SMILING EYES"></i>](./manual-soft-creasing/english/) |    |    |    |    |    |    |    |    |   |   |   |   |
-| Automated Creasing |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
-| DIY Cardboard      |                                      |    |    |    |    |    |    |    |    |   |   |   |   |
+|   |                    | EN                                                                                                                                  | ZH | HI | ES | AR | PT | BN | RU | JA |   |   |   |   |
+|---|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|----|----|----|----|----|----|----|----|---|---|---|---|
+| <i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i> <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i> <i class="em em-printer" aria-role="presentation" aria-label=""></i> | Manual Creasing    | [<i class="em em-blush" aria-role="presentation" aria-label="SMILING FACE WITH SMILING EYES"></i>](./manual-soft-creasing/english/) |    |    |    |    |    |    |    |    |   |   |   |   |
+|   | Automated Creasing |                                                                                                                                     |    |    |    |    |    |    |    |    |   |   |   |   |
+|  <i class="em em-printer" aria-role="presentation" aria-label=""></i> | DIY Cardboard      |                                                                                                                                     |    |    |    |    |    |    |    |    |   |   |   |   |
 
-
-Test video:
+## Test video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tp1zVKM3T54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
