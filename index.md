@@ -33,4 +33,8 @@ Test video:
 
 Methods of Production:
 
-* [Manual Soft Creasing](./manual-soft-creasing/)
+|                    | Tools | English | Chinese (Mandarin) | Hindi | Spanish | Arabic | Portuguese | Bengali | Russian | Japanese |   |   |   |   |
+|--------------------|-------|---------|--------------------|-------|---------|--------|------------|---------|---------|----------|---|---|---|---|
+| Manual Creasing    |       |   [O](./manual-soft-creasing/english/)    |                    |       |         |        |            |         |         |          |   |   |   |   |
+| Automated Creasing |       |         |                    |       |         |        |            |         |         |          |   |   |   |   |
+| DIY Cardboard      |       |         |                    |       |         |        |            |         |         |          |   |   |   |   |

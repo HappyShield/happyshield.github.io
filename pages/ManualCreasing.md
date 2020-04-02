@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Method: Manual Soft Creasing"
-permalink: /manual-soft-creasing/
+permalink: /manual-soft-creasing/english/
 ---
 
 ## Materials
