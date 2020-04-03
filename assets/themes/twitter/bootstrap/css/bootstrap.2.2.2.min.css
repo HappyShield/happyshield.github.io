@@ -235,7 +235,7 @@ th {
     border-bottom: solid 1px black;
 }
 td,th,tr{
-    padding: 4px;
+    padding: 8px;
 }
 form{margin:0 0 20px;}
 fieldset{padding:0;margin:0;border:0;}
