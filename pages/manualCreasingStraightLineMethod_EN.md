@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Method: Manual Soft Creasing"
-permalink: /manual-soft-creasing/english/
+title: "Method: Manual Creasing: Straight Line Method"
+permalink: /manual-creasing-straight-line-method/en/
 ---
 
 ## Materials

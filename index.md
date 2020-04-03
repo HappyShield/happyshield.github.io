@@ -3,13 +3,13 @@ layout: page
 description: Description.
 ---
 
-![HappyShieldGif](./assets/0_MD_Instruction Files/HS_GIF/HS_Concept_00.gif)
+![HappyShieldGif](./assets/0_MD_Instruction Files/HS_GIF/HS_GIF_01.gif)
 
 ## Instructions
 
 | Method                            | Tools | Materials | Setting | Web | Print | Video |
 |-----------------------------------|-------|-----------|---------|--------------|-------|-------|
-| DIY Manual Creasing |       |           |         |          [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./pages/ManualCreasing.md)   |       |       |
+| DIY Manual Creasing |       |           |         |          [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./pages/manual-creasing-straight-line/en/)   |       |       |
 | Lasercut + Soft Crease Press            |       |           |         |              |       |       |
 | Lasercut Only (Dashed Lines)           |       |           |         |              |       |       |
 | DIY Cardboard  |       |           |         |              |       |       |
