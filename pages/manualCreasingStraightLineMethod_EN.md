@@ -5,21 +5,21 @@ tagline: "Manual Creasing: Straight Line Method"
 permalink: /hand-creasing/en/
 ---
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
-
 # 1 
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
 
 Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_02.jpg)
-
 # 2
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_02.jpg)
 
 Place your transparent sheet on the template. Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_03.jpg)
-
 # 3
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_03.jpg)
 
 Mark the strap holders and the lower and upper round corners for cutting.
 
