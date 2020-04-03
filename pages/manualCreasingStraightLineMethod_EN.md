@@ -47,13 +47,13 @@ With a ruler and the ballpoint pen, trace the straight segments of the first cur
 
 # 7 
 
-Flip the transparent sheet.  Fix the sheet and the template again
+Flip the transparent sheet.  Fix the sheet and the template again.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_08.jpg)
 
 # 8	
 
-Trace the second curve with the ruler and the pen 
+Trace the second curve with the ruler and the pen.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_13.jpg)
 
@@ -77,7 +77,7 @@ Fix the strap using the holders you cut from the template.
 
 # 12
 
-Clean and use, clean and place in zip bag for shipping
+Clean and use, clean and place in zip bag for shipping.
 
 
 
