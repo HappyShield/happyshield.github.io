@@ -11,6 +11,8 @@ permalink: /hand-creasing/en/
 
 Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
 
+<code><p><span class="firstcharacter">D</span>rop Cap, [...] </p> </code>
+
 # 2
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_02.jpg)
