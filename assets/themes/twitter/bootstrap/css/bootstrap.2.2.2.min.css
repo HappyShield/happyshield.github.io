@@ -185,7 +185,11 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .label-inverse[href],.badge-inverse[href]{background-color:#1a1a1a;}
 .btn .label,.btn .badge{position:relative;top:-1px;}
 .btn-mini .label,.btn-mini .badge{top:0;}
-table{max-width:100%;background-color:transparent;border-collapse:collapse;border-spacing:0;}
+td {
+    border: 1px solid black;
+}
+table{max-width:100%;background-color:transparent;border-collapse:collapse;border-spacing:0;
+}
 .table{width:100%;margin-bottom:20px;}.table th,.table td{padding:8px;line-height:20px;text-align:left;vertical-align:top;border-top:1px solid #dddddd;}
 .table th{font-weight:bold;}
 .table thead th{vertical-align:bottom;}
