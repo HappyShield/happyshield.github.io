@@ -7,6 +7,8 @@ description: Description.
 
 ## Instructions
 
+<div style="overflow-x:auto;">
+
 | Method                            | Tools | Materials | Setting | Web | Print | Video |
 |-----------------------------------|-------|-----------|---------|--------------|-------|-------|
 | DIY Manual Creasing |       |           |         |          [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-straight-line/en/)   |       |       |
@@ -17,3 +19,4 @@ description: Description.
 |                                   |       |           |         |              |       |       |
 |                                   |       |           |         |              |       |       |
 
+</div>
