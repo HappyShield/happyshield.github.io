@@ -7,7 +7,7 @@ description: Description.
 
 ## Instructions
 
-| Method                            | Tools | Materials | Setting | Web / Mobile | Print | Video |
+| Method                            | Tools | Materials | Setting | Web | Print | Video |
 |-----------------------------------|-------|-----------|---------|--------------|-------|-------|
 | Manual Creasing (Straight Lines)  |   <i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i> <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i> (<i class="em em-printer" aria-role="presentation" aria-label=""></i>)    |           |         |              |       |       |
 | Manual Creasing (Channel Scoring) |       |           |         |              |       |       |
