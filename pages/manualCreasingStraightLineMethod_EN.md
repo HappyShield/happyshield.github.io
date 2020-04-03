@@ -2,7 +2,7 @@
 layout: page
 title: <i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE">:</i>
 tagline: "Manual Creasing: Straight Line Method"
-permalink: /manual-creasing-straight-line/en/
+permalink: /hand-creasing/en/
 ---
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
@@ -32,29 +32,68 @@ Now, let’s score a smile on that face!
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_05.jpg)
 
-# 5
+---
+
+## Creasing Method A
+
+# 5A
 
 Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_06.jpg)
 
-# 6	
+# 6A
 
 With a ruler and the ballpoint pen, trace the straight segments of the first curve with multiple strokes until scored. 
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_07.jpg)
 
-# 7 
+# 7A
 
 Flip the transparent sheet.  Fix the sheet and the template again.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_08.jpg)
 
-# 8	
+# 8A
 
 Trace the second curve with the ruler and the pen.
 
+
+---
+
+## Creasing Method B
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_09.jpg)
+
+
+# 5B	
+
+Trace the folding curves with a pen
+
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_10.jpg)
+
+
+# 6B
+
+Make a 2-5 mm gap in a wooden piece. You can also use the gaps between floorboards, kitchen top, dining table. Use the gap as a channel and crease with the dull side of a butter knife.
+
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_11.jpg)
+
+
+# 7B
+
+Flip the mask
+
+# 8B
+
+Do the second curve on the other side. 
+
+---
+
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_13.jpg)
+
 
 # 9
 
