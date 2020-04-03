@@ -116,7 +116,7 @@ Do the second curve on the other side.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_13.jpg)
 
-To fold the first curve, start with one corner, if some segments does not fold, score again with the pen and ruler. 
+To fold the first curve, start with one corner, if some segments do not fold, repeat the creasing procedure. 
 
 
 ---
