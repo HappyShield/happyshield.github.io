@@ -227,9 +227,12 @@ table td[class*="span"],table th[class*="span"],.row-fluid table td[class*="span
 .table-hover tbody tr.warning:hover td{background-color:#faf2cc;}
 .table-hover tbody tr.info:hover td{background-color:#c4e3f3;}
 tr { border: none; }
-td {
-  border-right: solid 1px #f00; 
-  border-left: solid 1px #f00;
+td,th {
+  border-right: solid 1px black; 
+  border-left: solid 1px black;
+}
+th {
+    border-bottom: solid 1px black;
 }
 form{margin:0 0 20px;}
 fieldset{padding:0;margin:0;border:0;}
