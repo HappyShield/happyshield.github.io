@@ -11,8 +11,7 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 | Production Method                     | Web                                                                                                                    | Print | Video | Templates |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
-| Straight Line Creasing | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-straight-line/en/) |       |       |           |
-| Channel Creasing      | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-channel/en/)       |       |       |           |
+| Hand Creasing | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./hand-creasing/en/) |       |       |           |
 | Laser-cut + Pressure Creasing          |                                                                                                                        |       |       |           |
 | Laser-cut           |                                                                                                                        |       |       |           |
 | Cardboard                       |                                                                                                                        |       |       |           |
