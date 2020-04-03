@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Method: Manual Creasing: Straight Line Method"
-permalink: /manual-creasing-straight-line-method/en/
+permalink: /manual-creasing-straight-line/en/
 ---
 
 ## Materials
