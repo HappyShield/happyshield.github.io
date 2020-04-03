@@ -7,15 +7,21 @@ permalink: /manual-creasing-straight-line/en/
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
 
-1: Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
+## 1 
+
+Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_02.jpg)
 
-2:	Place your transparent sheet on the template. Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
+### 2
+
+Place your transparent sheet on the template. Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_03.jpg)
 
-3:	Mark the strap holders and the lower and upper round corners for cutting.
+#### 3
+
+Mark the strap holders and the lower and upper round corners for cutting.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_04.jpg)
 
