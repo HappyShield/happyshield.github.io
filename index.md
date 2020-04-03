@@ -5,7 +5,7 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 ---
 
 
-![HappyShieldGif](./assets/0_MD_Instruction Files/HS_GIF/HS_Concept_00.gif)
+![HappyShieldGif](./assets/0_MD_Instruction Files/HS_GIF/HS_Concept_00_NonLooping2xSlower.gif)
 
 ## Instructions
 
