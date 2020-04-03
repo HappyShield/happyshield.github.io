@@ -13,6 +13,6 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
 | Straight Line Creasing | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-straight-line/en/) |       |       |           |
 | Channel Creasing      | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-channel/en/)       |       |       |           |
-| Lasercut + Pressure Creasing          |                                                                                                                        |       |       |           |
-| Lasercut           |                                                                                                                        |       |       |           |
+| Laser-cut + Pressure Creasing          |                                                                                                                        |       |       |           |
+| Laser-cut           |                                                                                                                        |       |       |           |
 | Cardboard                       |                                                                                                                        |       |       |           |
