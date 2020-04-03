@@ -81,52 +81,62 @@ Trace the second curve with the ruler and the pen.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_09.jpg)
 
-Trace the folding curves with a pen
+Trace the folding curves with a pen.
 
-
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_10.jpg)
-
+---
 
 # 6B
 
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_10.jpg)
+
 Make a 2-5 mm gap in a wooden piece. You can also use the gaps between floorboards, kitchen top, dining table. Use the gap as a channel and crease with the dull side of a butter knife.
 
-
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_11.jpg)
-
+---
 
 # 7B
 
-Flip the mask
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_11.jpg)
+
+Flip the shield over.
+
+---
 
 # 8B
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_12.jpg)
 
 Do the second curve on the other side. 
 
 ---
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_13.jpg)
-
-
 # 9
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_13.jpg)
 
 To fold the first curve, start with one corner, if some segments does not fold, score again with the pen and ruler. 
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_14.jpg)
+
+---
 
 # 10
 
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_14.jpg)
+
 Fold the second curve.
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_15.jpg)
+---
 
 # 11	
 
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_15.jpg)
+
 Fix the strap using the holders you cut from the template.
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_16.jpg)
+---
 
-# 12
+# 12 
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_16.jpg)
 
 Clean and use, clean and place in zip bag for shipping.
 
