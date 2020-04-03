@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Method: Manual Creasing: Straight Line Method"
-tagline: "tagline would go here"
+title: "Instructions"
+tagline: "Manual Creasing: Straight Line Method"
 permalink: /manual-creasing-straight-line/en/
 ---
 
