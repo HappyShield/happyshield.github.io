@@ -185,11 +185,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .label-inverse[href],.badge-inverse[href]{background-color:#1a1a1a;}
 .btn .label,.btn .badge{position:relative;top:-1px;}
 .btn-mini .label,.btn-mini .badge{top:0;}
-td {
-    border: 1px solid black;
-}
-table{max-width:100%;background-color:transparent;border-collapse:collapse;border-spacing:0;
-}
+table{max-width:100%;background-color:transparent;border-collapse:collapse;border-spacing:0;}
 .table{width:100%;margin-bottom:20px;}.table th,.table td{padding:8px;line-height:20px;text-align:left;vertical-align:top;border-top:1px solid #dddddd;}
 .table th{font-weight:bold;}
 .table thead th{vertical-align:bottom;}
@@ -230,6 +226,11 @@ table td[class*="span"],table th[class*="span"],.row-fluid table td[class*="span
 .table-hover tbody tr.error:hover td{background-color:#ebcccc;}
 .table-hover tbody tr.warning:hover td{background-color:#faf2cc;}
 .table-hover tbody tr.info:hover td{background-color:#c4e3f3;}
+tr { border: none; }
+td {
+  border-right: solid 1px #f00; 
+  border-left: solid 1px #f00;
+}
 form{margin:0 0 20px;}
 fieldset{padding:0;margin:0;border:0;}
 legend{display:block;width:100%;padding:0;margin-bottom:20px;font-size:21px;line-height:40px;color:#333333;border:0;border-bottom:1px solid #e5e5e5;}legend small{font-size:15px;color:#999999;}
