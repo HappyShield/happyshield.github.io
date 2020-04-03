@@ -9,8 +9,7 @@ description: Description.
 
 | Method                            | Tools | Materials | Setting | Web | Print | Video |
 |-----------------------------------|-------|-----------|---------|--------------|-------|-------|
-| DIY Manual Creasing (Straight Lines)  |   <i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i> <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i> (<i class="em em-printer" aria-role="presentation" aria-label=""></i>)    |           |         |           <i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>   |       |       |
-| DIY Manual Creasing (Channel Scoring) |       |           |         |          [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./pages/ManualCreasing.md)   |       |       |
+| DIY Manual Creasing |       |           |         |          [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./pages/ManualCreasing.md)   |       |       |
 | Lasercut + Soft Crease Press            |       |           |         |              |       |       |
 | Lasercut Only (Dashed Lines)           |       |           |         |              |       |       |
 | DIY Cardboard  |       |           |         |              |       |       |
