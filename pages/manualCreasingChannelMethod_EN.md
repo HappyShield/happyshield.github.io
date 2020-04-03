@@ -2,7 +2,7 @@
 layout: page
 title: "HappyShield"
 tagline: "Manual Creasing: Channel Method"
-permalink: /manual-creasing-straight-line/en/
+permalink: /manual-creasing-channel/en/
 ---
 
 
