@@ -9,10 +9,10 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 ## Instructions
 
-| Production Method                     | Tools | Materials | Web                                                                                                                          | Print | Video | Templates |
-|---------------------------------------|-------|-----------|------------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
-| Manual Creasing: Straight Line Method |       |           | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-straight-line/en/)       |       |       |           |
-| Manual Creasing: Channel Method       |       |           | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-channel/en/) |       |       |           |
-| Lasercut + Soft Crease Press          |       |           |                                                                                                                              |       |       |           |
-| Lasercut Only (Dashed Lines)          |       |           |                                                                                                                              |       |       |           |
-| DIY Cardboard                         |       |           |                                                                                                                              |       |       |           |
+| Production Method                     | Web                                                                                                                    | Print | Video | Templates |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
+| Manual Creasing: Straight Line Method | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-straight-line/en/) |       |       |           |
+| Manual Creasing: Channel Method       | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./manual-creasing-channel/en/)       |       |       |           |
+| Lasercut + Soft Crease Press          |                                                                                                                        |       |       |           |
+| Lasercut Only (Dashed Lines)          |                                                                                                                        |       |       |           |
+| DIY Cardboard                         |                                                                                                                        |       |       |           |
