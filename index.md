@@ -4,6 +4,8 @@ title: HappyShield
 description: Description.
 ---
 
+![HappyShieldGif](./assets/0_MD_Instruction Files/HS_GIF/HS_Concept_00.gif)
+
 ## Instructions
 
 Find instructions for your favourite way of making your own HappyShield in your language below! Click the <i class="em em-blush" aria-role="presentation" aria-label="SMILING FACE WITH SMILING EYES"></i> to proceed! 
