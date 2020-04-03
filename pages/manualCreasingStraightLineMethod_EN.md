@@ -41,6 +41,8 @@ Now, let’s score a smile on that face!
 
 ## Creasing Method A
 
+---
+
 # 5A
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_05.jpg)
@@ -76,6 +78,7 @@ Trace the second curve with the ruler and the pen.
 
 ## Creasing Method B
 
+---
 
 # 5B	
 
