@@ -19,11 +19,18 @@ permalink: /manual-creasing-straight-line/en/
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_04.jpg)
 
-4.	With scissors or a cutter trim the corners. Cut the strap holders and make the holes, you can use a paper puncher if you have. 
+4:	With scissors or a cutter trim the corners. Cut the strap holders and make the holes, you can use a paper puncher if you have. 
 Now, let’s score a smile on that face!
 
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_05.jpg)
+
+
 SCORING OPTION 1
-5.	Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
+5: 	Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
+
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_06.jpg)
+
+
 6.	With a ruler and the ballpoint pen, trace the straight segments of the first curve with multiple strokes until scored. 
 7.	Flip the transparent sheet.  Fix the sheet and the template again
 8.	Trace the second curve with the ruler and the pen 
