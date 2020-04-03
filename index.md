@@ -3,7 +3,7 @@ layout: page
 description: Description.
 ---
 
-![HappyShieldGif](./assets/0_MD_Instruction Files/HS_GIF/HS_GIF_01.gif)
+![HappyShieldGif](./assets/0_MD_Instruction Files/HS_GIF/HS_Concept_00.gif)
 
 ## Instructions
 
