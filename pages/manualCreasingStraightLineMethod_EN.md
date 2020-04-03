@@ -4,27 +4,42 @@ title: "Method: Manual Creasing: Straight Line Method"
 permalink: /manual-creasing-straight-line/en/
 ---
 
-## Materials
 
-1. 1x A3 Acetate / PET Sheet
-2. 
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
 
-## Tools 
+1: Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
 
-1. Ballpoint pen
-2. Scissors 
-3. 
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_02.jpg)
 
-## Instructions
+2:	Place your transparent sheet on the template. Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
 
-1. Download your tracing template format ([A4 for A3 shields](https://github.com/smileyFaceShield/smileyfaceshield/raw/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf), Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_03.jpg)
 
-![Instructions Image Test](../assets/images/instructionsTestImage1.jpg)
+3:	Mark the strap holders and the lower and upper round corners for cutting.
 
-2. Place your transparent sheet on the template. Mark the holes location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol.  
+![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_04.jpg)
+
+4.	With scissors or a cutter trim the corners. Cut the strap holders and make the holes, you can use a paper puncher if you have. 
+Now, let’s score a smile on that face!
+
+SCORING OPTION 1
+5.	Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
+6.	With a ruler and the ballpoint pen, trace the straight segments of the first curve with multiple strokes until scored. 
+7.	Flip the transparent sheet.  Fix the sheet and the template again
+8.	Trace the second curve with the ruler and the pen 
+
+SCORING OPTION 2
+9.	Trace the folding curves with a pen
+10.	Make a 2-5 mm gap in a wooden piece. You can also use the gaps between floorboards, kitchen top, dining table. Use the gap as a channel and crease with the dull side of a butter knife.
+11.	Flip the mask
+12.	Do the second curve on the other side. 
+
+
+13.	To fold the first curve, start with one corner, if some segments does not fold, score again with the pen and ruler. 
+14.	Fold the second curve.
+15.	Fix the strap using the holders you cut from the template.
+16.	Clean and use, clean and place in zip bag for shipping
 
 
 
-3. Mark strap holders and the lower and upper corner rounds for cutting. 
 
-4. 
