@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Method: Manual Creasing: Straight Line Method"
+description: "description would go here"
 permalink: /manual-creasing-straight-line/en/
 ---
 
