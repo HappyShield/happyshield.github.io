@@ -7,7 +7,6 @@ description: Description.
 
 ## Instructions
 
-<div style="overflow-x:auto;">
 
 | Method                            | Tools | Materials | Setting | Web | Print | Video |
 |-----------------------------------|-------|-----------|---------|--------------|-------|-------|
@@ -19,4 +18,3 @@ description: Description.
 |                                   |       |           |         |              |       |       |
 |                                   |       |           |         |              |       |       |
 
-</div>
