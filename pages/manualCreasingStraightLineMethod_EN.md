@@ -1,7 +1,6 @@
 ---
 layout: page
-title: <i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE">:</i>
-tagline: "Manual Creasing: Straight Line Method"
+title: Hand Creasing
 permalink: /hand-creasing/en/
 ---
 
