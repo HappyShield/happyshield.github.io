@@ -1,10 +1,9 @@
 ---
 layout: page
+title: <i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>
 tagline: "Manual Creasing: Straight Line Method"
 permalink: /manual-creasing-straight-line/en/
 ---
-
-# <i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
 
