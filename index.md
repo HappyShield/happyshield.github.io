@@ -9,10 +9,11 @@ description: Description.
 
 | Method                            | Tools | Materials | Setting | Web | Print | Video |
 |-----------------------------------|-------|-----------|---------|--------------|-------|-------|
-| Manual Creasing (Straight Lines)  |   <i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i> <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i> (<i class="em em-printer" aria-role="presentation" aria-label=""></i>)    |           |         |              |       |       |
-| Manual Creasing (Channel Scoring) |       |           |         |              |       |       |
-| Lasercut (Dashed Lines)           |       |           |         |              |       |       |
-|                                   |       |           |         |              |       |       |
+| DIY Manual Creasing (Straight Lines)  |   <i class="em em-scissors" aria-role="presentation" aria-label="BLACK SCISSORS"></i> <i class="em em-lower_left_ballpoint_pen" aria-role="presentation" aria-label=""></i> (<i class="em em-printer" aria-role="presentation" aria-label=""></i>)    |           |         |              |       |       |
+| DIY Manual Creasing (Channel Scoring) |       |           |         |              |       |       |
+| Lasercut Only (Dashed Lines)           |       |           |         |              |       |       |
+| Lasercut + Soft Crease Press (Dashed Lines)           |       |           |         |              |       |       |
+| DIY Cardboard  |       |           |         |              |       |       |
 |                                   |       |           |         |              |       |       |
 |                                   |       |           |         |              |       |       |
 |                                   |       |           |         |              |       |       |
