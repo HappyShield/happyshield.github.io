@@ -43,6 +43,7 @@ University of Cambridge Centre for Natural Material Innovation
 University of Queensland Folded Structures Lab
 
 Wesam Asali  
+Tom Bashford
 Aurimas Bukauskas  
 Will Hawkins  
 Joe Gattas  
