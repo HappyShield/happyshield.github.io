@@ -45,11 +45,12 @@ University of Queensland Folded Structures Lab
 Wesam Al Asali  
 Tom Bashford  
 Aurimas Bukauskas  
-Will Hawkins  
 Mutsuko Grant
 Joe Gattas  
 Ana Gatoo  
 Yelda Gin  
+Will Hawkins  
+Millie Hood  
 Aftab Jalia  
 Antiopi Koronaki   
 Jeff Lee  
@@ -57,6 +58,5 @@ Ana Maia
 Joshua Newman  
 Daniel Ottey  
 Michael Ramage  
-Millie Hood  
 Darshil Shah  
 
