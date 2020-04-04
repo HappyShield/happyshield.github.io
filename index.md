@@ -42,10 +42,11 @@ University of Cambridge Centre for Natural Material Innovation
 
 University of Queensland Folded Structures Lab
 
-Wesam Asali  
+Wesam Al Asali  
 Tom Bashford
 Aurimas Bukauskas  
 Will Hawkins  
+Mutsuko Grant
 Joe Gattas  
 Ana Gatoo  
 Yelda Gin  
