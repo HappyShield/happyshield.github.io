@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hand Creasing &nbsp <span class="instructionsTaglineEmojiLinks"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i> <a href = "https://github.com/HappyShield/HappyShield/blob/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
-tagline: 
+title: Hand Creasing
+tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i> <a href = "https://github.com/HappyShield/HappyShield/blob/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /hand-creasing/en/
 ---
 
