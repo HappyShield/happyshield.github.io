@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hand Creasing
+tagline: [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/blob/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf)
 permalink: /hand-creasing/en/
 ---
 
