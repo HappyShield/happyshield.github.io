@@ -10,6 +10,8 @@ permalink: /hand-creasing/en/
 
 ---
 
+<i class="em em-timer_clock" aria-role="presentation" aria-label=""></i>: 10-15 minutes
+
 # 1 
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
