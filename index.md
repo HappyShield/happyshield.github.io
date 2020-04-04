@@ -38,25 +38,30 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 #### Project Credits
 
-University of Cambridge Centre for Natural Material Innovation
+University of Cambridge, Department of Architecture  
+Centre for Natural Material Innovation
 
-University of Queensland Folded Structures Lab
+
+University of Queensland, School of Civil Engineering  
+Folded Structures Lab  
 
 Wesam Al Asali  
 Tom Bashford  
 Aurimas Bukauskas  
-Mutsuko Grant
+Mutsuko Grant  
 Joe Gattas  
 Ana Gatoo  
 Yelda Gin  
 Will Hawkins  
 Millie Hood  
 Aftab Jalia  
-Antiopi Koronaki   
+Antiopi Koronaki  
 Jeff Lee  
 Ana Maia  
+Andy Conway Morris  
 Joshua Newman  
 Daniel Ottey  
 Michael Ramage  
 Darshil Shah  
+
 
