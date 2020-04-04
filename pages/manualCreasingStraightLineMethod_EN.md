@@ -5,7 +5,7 @@ tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><i class="em em-video
 permalink: /hand-creasing/en/
 ---
 
-<i class="em em-timer_clock" aria-role="presentation" aria-label=""></i>: 10-15'
+<i class="em em-timer_clock" aria-role="presentation" aria-label=""></i>: 10-15′
 
 ---
 
