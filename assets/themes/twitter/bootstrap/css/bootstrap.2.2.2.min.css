@@ -186,7 +186,8 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .btn .label,.btn .badge{position:relative;top:-1px;}
 .btn-mini .label,.btn-mini .badge{top:0;}
 table{
-    max-width:100%;background-color:transparent;border-collapse:collapse;border-spacing:0;
+    width:100%;
+    background-color:transparent;border-collapse:collapse;border-spacing:0;
     display:block;
 }
 .table{width:100%;margin-bottom:20px;}.table th,.table td{padding:8px;line-height:20px;text-align:left;vertical-align:top;border-top:1px solid #dddddd;}
