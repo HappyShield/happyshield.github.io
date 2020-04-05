@@ -18,7 +18,7 @@ permalink: /hand-creasing/en/
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
 
-Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
+Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
 
 ---
 
@@ -26,7 +26,7 @@ Download your tracing template format (A4 for A3 shields, Letter for Tabloid shi
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_02.jpg)
 
-Place your transparent sheet on the template. Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
+Place your transparent sheet on the template. Mark the location of the strap holes with your pen or marker. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
 
 ---
 
@@ -34,7 +34,7 @@ Place your transparent sheet on the template. Mark the holes’ location with a 
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_03.jpg)
 
-Mark the strap holders and the lower and upper round corners for cutting.
+Trace out the boundary of the shield for cutting out. 
 
 ---
 
@@ -42,7 +42,10 @@ Mark the strap holders and the lower and upper round corners for cutting.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_04.jpg)
 
-With scissors or a cutter trim the corners. Cut the strap holders and make the holes, you can use a paper puncher if you have. 
+Cut the boundary shape of the shield out using scissors or a razor blade. Cut out the strap holes. You can use a hole-puncher as well to make these holes. 
+
+Next, cut out the friction clips using a razor blade.
+
 Now, let’s score a smile on that face!
 
 ---
@@ -65,7 +68,7 @@ Place your transparent sheet on the template. Fix with clips or tape for precise
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_06.jpg)
 
-With a ruler and the ballpoint pen, trace the straight segments of the first curve with multiple strokes until scored. 
+Using a ruler, and applying pressure, trace the straight segments between each consecutive point, using 2-3 strokes as needed until you see a visible indentation in the sheet.
 
 ---
 
@@ -81,8 +84,7 @@ Flip the transparent sheet.  Fix the sheet and the template again.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_08.jpg)
 
-Trace the second curve with the ruler and the pen.
-
+Trace the second curve in the same way as in step **6A**.
 
 ---
 
@@ -94,7 +96,7 @@ Trace the second curve with the ruler and the pen.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_09.jpg)
 
-Trace the folding curves with a pen.
+Trace the folding curves with a pen (no additional pressure is required here). If desired, fix the sheet to the template with clips or tape for more precise tracing.
 
 ---
 
@@ -102,7 +104,9 @@ Trace the folding curves with a pen.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_10.jpg)
 
-Make a 2-5 mm gap in a wooden piece. You can also use the gaps between floorboards, kitchen top, dining table. Use the gap as a channel and crease with the dull side of a butter knife.
+Find a 2-5 mm wide 2-3 mm deep channel at least 5 cm long on an immobile work surface or workpiece. Gaps between floorboards, segments of a dining table or kitchen countertop work well for this. Alternatively, make your own channel in a piece of wood or other material. Next, find a ballpoint pen or any other tool with a relatively dull end (any dull part of a butter knife, spoon, or chopstick can work here as well). 
+
+Using one hand to move the sheet as you might a piece of fabric through a sewing machine, use the other hand to repeatedly run the tool over the surface of the material over the channel, following one of the crease curves you have traced.
 
 ---
 
@@ -118,7 +122,7 @@ Flip the shield over.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_12.jpg)
 
-Do the second curve on the other side. 
+Repeat step 6B for the other crease curve.
 
 ---
 
@@ -126,7 +130,7 @@ Do the second curve on the other side.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_13.jpg)
 
-To fold the first curve, start with one corner, if some segments do not fold, repeat the creasing procedure. 
+Starting on end of the crease curve, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. If some segments do not fold easily, repeat the creasing procedure. 
 
 
 ---
@@ -135,7 +139,7 @@ To fold the first curve, start with one corner, if some segments do not fold, re
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_14.jpg)
 
-Fold the second curve.
+Repeat step 9 for the other curve, but this time, fold the sheet in the other direction. 
 
 ---
 
@@ -143,7 +147,7 @@ Fold the second curve.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_15.jpg)
 
-Fix the strap using the holders you cut from the template.
+Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
 
 ---
 
@@ -151,7 +155,7 @@ Fix the strap using the holders you cut from the template.
 
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_16.jpg)
 
-Clean and use, clean and place in zip bag for shipping.
+Clean the shield if necessary, and use. If preparing for transport, clean the shield, and pack into a sealable bag.
 
 
 
