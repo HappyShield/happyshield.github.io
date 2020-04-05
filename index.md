@@ -54,7 +54,7 @@ Antiopi Koronaki
 Jeff Lee  
 Ana Maia  
 Andy Conway Morris  
-Joshua Newman  
+Josh Newman  
 Daniel Ottey  
 Michael Ramage  
 Darshil Shah  
