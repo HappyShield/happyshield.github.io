@@ -8,6 +8,8 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 ## Features
 
+---
+
 * Single-sheet fluid-impermeable design with **extra protection from fluids and sprays from above**.   
 
 ---
@@ -25,6 +27,8 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 ---
 
 ## Instructions
+
+---
 
 | Production Method                     | Web                                                                                                                    | Print | Video | Templates |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
