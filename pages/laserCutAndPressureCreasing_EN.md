@@ -10,6 +10,40 @@ permalink: /pressure-creasing/en/
 
 ---
 
+## 3-Part Press Jig 
+
+---
+
+# 1 	
+
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_03.jpg)
+
+Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) 
+Choose any sheet material at least 4 mm deep with hardness similar to MDF or other wood, fibre, or plastic products for use in the jig. Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+
+---
+
+# 2
+
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_04.jpg)
+
+Remove the 3 parts of the press jig from the laser-cutter. Select a metal wire between 1-3 mm in diameter. Cut the wire to the length of the dashed curves in parts A and C of the template.
+Tape the metal wire onto the dashed curve the groove of the parts A and C of the press jig, being sure not to deviate from the dashed curve, and not to extend beyond the ends of the dashed curve. 
+
+---
+
+# 3
+
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_05.jpg)
+
+Attach Part B to top A using short wood screws, or any other method. Attach the combined Part A and B to a block as needed to distribute pressure evenly across the jig surface. Do the same for Part C.
+
+--- 
+
+## Shield
+
+---
+
 # 1
 
 ![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_01.jpg)
@@ -28,50 +62,24 @@ Once cut, remove the resulting shields and friction clips from the laser-cutter 
 
 --- 
 
-# 3 	
+# 3
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_03.jpg)
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_06.jpg)
 
-Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) 
-Choose any sheet material at least 4 mm deep with hardness similar to MDF or other wood, fibre, or plastic products for use in the jig. Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+Insert shield into the 3-part press jig and press to create the curved creases.
 
 ---
 
 # 4	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_04.jpg)
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_07.jpg)
 
-Remove the 3 parts of the press jig from the laser-cutter. Select a metal wire between 1-3 mm in diameter. Cut the wire to the length of the dashed curves in parts A and C of the template.
-Tape the metal wire onto the dashed curve the groove of the parts A and C of the press jig, being sure not to deviate from the dashed curve, and not to extend beyond the ends of the dashed curve. 
+Cut a 400 mm length of elastic strap. Thread the strap through the friction clips on both ends.
 
 ---
 
 # 5	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_05.jpg)
-
-Attach part A on the bottom surface of the press and place the transparent shield on it, using the band slots for alignment. Interlock parts B+C and attach them on the top surface of the press. Use the slots again to make sure it is aligned to part A!
-
----
-
-# 6
-
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_06.jpg)
-
-Press the shield between the 3-part press jig to create the curved creases.
-
----
-
-# 7	
-
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_07.jpg)
-
-Fix the strap using the laser-cut clips.
-
----
-
-# 8	
-
 ![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_08.jpg)
 
-Insert the clips in the slots of the curved shield.
+Pass the threaded friction clips through the holes in the shield from back to front. 
