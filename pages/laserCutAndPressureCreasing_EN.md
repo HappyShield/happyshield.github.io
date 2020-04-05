@@ -14,7 +14,7 @@ permalink: /pressure-creasing/en/
 
 ![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_01.jpg)
 
-Download the laser-cutting template for the shield that fits in the bed of your laser-cutting machine – dimensions are described in the file names! Use a flexible transparent material.
+Download the HappyShield laser-cutting template which fits in the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.)
 
 ---
 
@@ -22,7 +22,9 @@ Download the laser-cutting template for the shield that fits in the bed of your 
 
 ![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_02.jpg)
 
-Wipe the edges of the shields and clips with alcohol. 
+Choose a flexible transparent sheet material for cutting. (These instructions have been tested for 0.5 mm PET and 0.5 mm acetate.) Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+
+Once cut, remove the resulting shields and friction clips from the laser-cutter bed. If desired, wipe the edges of the shields and clips with alcohol, or wash with any soap to remove any laser-cutting residues from the sheet. 
 
 --- 
 
@@ -30,7 +32,8 @@ Wipe the edges of the shields and clips with alcohol.
 
 ![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_03.jpg)
 
-Download the laser-cutting template for the 3-part press jig according to the bed-size of your laser-cutting machine – dimensions are described in the file names! Use a hard material, such as mdf or plywood.
+Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) 
+Choose any sheet material at least 4 mm deep with hardness similar to MDF or other wood, fibre, or plastic products for use in the jig. Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
 
 ---
 
@@ -38,7 +41,8 @@ Download the laser-cutting template for the 3-part press jig according to the be
 
 ![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_04.jpg)
 
-Tape the metal wire along the groove of the parts A and C of the press jig.
+Remove the 3 parts of the press jig from the laser-cutter. Select a metal wire between 1-3 mm in diameter. Cut the wire to the length of the dashed curves in parts A and C of the template.
+Tape the metal wire onto the dashed curve the groove of the parts A and C of the press jig, being sure not to deviate from the dashed curve, and not to extend beyond the ends of the dashed curve. 
 
 ---
 
