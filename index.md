@@ -9,8 +9,11 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 ## Features
 
 * Single-sheet fluid-impermeable design with **extra protection from fluids and sprays from above**. 
+
 * Easy **non-destructive decontamination for reuse** over high numbers of shifts. 
+
 * Form-fitting and adjustable geometry allowing for **comfortable wearing for extended periods**.
+
 * **Flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions.
 
 
