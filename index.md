@@ -96,8 +96,7 @@ Darshil Shah
             <i class="fab fa-instagram" style="font-size:24px; color:black;"></i>
         </a>  
     </span> 
-    <span style="font-size:16px;" style="display: inline-block;">    
-        ✉️ : <a href="natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">natmat@aha.cam.ac.uk
-        </a>
+    <span style="font-size:18px;" style="display: inline-block;">    
+        <a href="natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">natmat@aha.cam.ac.uk</a>
     </span>
 </span>
