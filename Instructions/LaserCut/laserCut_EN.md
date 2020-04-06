@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Laser-cut 
+title: Laser-Cut 
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i> <a href = "https://github.com/HappyShield/HappyShield/blob/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /laser-cut/en/
 ---
