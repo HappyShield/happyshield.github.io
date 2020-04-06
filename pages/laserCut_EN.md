@@ -15,7 +15,7 @@ permalink: /laser-cut/en/
 ![](../assets/0_MD_Instruction Files/HS_LC_Instructions/STEPS/HS_LC_01.jpg)
 
 Download and use our laser cutting template. Place the plastic sheet and laser cut. The mask cutting area is 297x320mm, You can use A3 sheets if large plastic sheets are not available. 
-
+jfsdal;kjfls
 ---
 
 # 2	
