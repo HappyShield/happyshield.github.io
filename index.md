@@ -32,7 +32,7 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 | Production Method                     | Web                                                                                                                    | Print | Video | Templates |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
-| Hand Creasing                         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./hand-creasing/en/)       |    |    <i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>   |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
+| Hand Creasing                         | [📱](./hand-creasing/en/)       |    |    <i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>   |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
 | Laser-cut + Pressure Creasing         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./pressure-creasing/en/)   | |       |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
 | Laser-cut                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./laser-cut/en/)           |   |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
 | Laminated                             |                                                                                                                        |       |       |           |
@@ -88,5 +88,3 @@ Darshil Shah
 
 <script src="https://kit.fontawesome.com/688367e949.js" crossorigin="anonymous"></script>
 <span class = "socialMediaIcons"><a href = "https://twitter.com/happy_PPE"><i class="fab fa-twitter" style="color:black;"></i></a>  <a href ="https://www.instagram.com/happyppe/"><i class="fab fa-instagram" style="color:black;"></i></a> <i class="em em-email" aria-role="presentation" aria-label="ENVELOPE"></i>: <a href="natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry"></a></span>
-
-✉️
