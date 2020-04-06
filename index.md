@@ -88,15 +88,15 @@ Darshil Shah
 
 <script src="https://kit.fontawesome.com/688367e949.js" crossorigin="anonymous"></script>
 <span>
-    <span class="socialMediaIcons">
+    <span style="display: inline-block;">
         <a href = "https://twitter.com/happy_PPE">
-            <i class="fab fa-twitter" ></i>
+            <i class="fab fa-twitter" style="font-size:24px; color:black;"></i>
         </a>
         <a href ="https://www.instagram.com/happyppe/">
-            <i class="fab fa-instagram"></i>
+            <i class="fab fa-instagram" style="font-size:24px; color:black;"></i>
         </a>  
     </span> 
-    <span style="font-size:16px;">    
+    <span style="font-size:16px;" style="display: inline-block;">    
         ✉️ : <a href="natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">natmat@aha.cam.ac.uk
         </a>
     </span>
