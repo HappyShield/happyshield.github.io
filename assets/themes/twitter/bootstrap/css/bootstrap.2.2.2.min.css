@@ -809,4 +809,5 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
 .socialMediaIcons{
     font-size:24px; 
     color:black;
+    padding:10px;
 }
