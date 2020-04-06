@@ -14,27 +14,38 @@ permalink: /hand-creasing/en/
 
 ---
 
+---
+
 ## Disclaimer
 
-Disclaimer text here. 
+---
 
-Temporary disclaimer: the face shields associated with these instructions have not yet been clinically approved by medical professionals. Please follow the guidance of the relevant authorities to ensure the safety of yourself and others. This design has been tested for the following materials, tools, and methods. If you do choose to use materials, tools, or methods not described here, please do so at your own risk.
+Finalised disclaimer text will go here. 
+
+**Temporary disclaimer**: the face shields associated with these instructions have not yet been clinically approved by medical professionals. Please follow the guidance of the relevant authorities to ensure the safety of yourself and others. This design has been tested for the following materials, tools, and methods. If you do choose to use materials, tools, or methods not described here, please do so at your own risk.
 
 --- 
 
-### Tools
+## Tools
 
-### Materials
+---
 
-* **3-Part Press Jig**
+* Scissors or razor blade
+* Ballpoint pen
 
-* 4 mm MDF
-* 1 mm steel wire rope   
+---
 
-* **Shield**
+## Materials
 
-* 0.5 mm thick Polyethylene terephthalate(PET) or Acetate sheet
+---
+
+**Shield**
+
+* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
 * 20 mm wide knit elastic strap (70% polyester 30% rubber)
+* Tape
+
+---
 
 ---
 
