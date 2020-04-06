@@ -52,7 +52,7 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 ---
 
-Finalised disclaimer text will go here. 
+*Finalised disclaimer text will go here.* 
 
 **Temporary disclaimer**: the face shields associated with these instructions have not yet been clinically approved by medical professionals. Please follow the guidance of the relevant authorities to ensure the safety of yourself and others. 
 
