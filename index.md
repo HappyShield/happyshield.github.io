@@ -36,6 +36,7 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 | Laser-cut + Pressure Creasing         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./pressure-creasing/en/)   | |       |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
 | Laser-cut                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./laser-cut/en/)           |   |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
 | Laminated                             |                                                                                                                        |       |       |           |
+| WaveShield                            |                                                                                                                        |       |       |           |
 
 ---
 
