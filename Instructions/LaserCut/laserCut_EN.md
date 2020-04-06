@@ -14,6 +14,34 @@ permalink: /laser-cut/en/
 
 Disclaimer text here. 
 
+Temporary disclaimer: the face shields associated with these instructions have not yet been clinically approved by medical professionals. Please follow the guidance of the relevant authorities to ensure the safety of yourself and others. This design has been tested for the following materials, tools, and methods. If you do choose to use materials, tools, or methods not described here, please do so at your own risk.
+
+--- 
+
+### Tools
+
+### Materials
+
+* **3-Part Press Jig**
+
+* 4 mm MDF
+* 1 mm steel wire rope   
+
+* **Shield**
+
+* 0.5 mm thick Polyethylene terephthalate(PET) or Acetate sheet
+* 20 mm wide knit elastic strap (70% polyester 30% rubber)
+
+---
+
+# Instructions
+
+---
+
+## Disclaimer
+
+Disclaimer text here. 
+
 Temporary disclaimer: the face shields associated with these instructions have not yet been clinically approved by medical professionals. Please follow the guidance of the relevant authorities to ensure the safety of yourself and others.
 
 ---
