@@ -86,4 +86,8 @@ Daniel Ottey
 Michael Ramage  
 Darshil Shah  
 
+---
+
+<script src="https://kit.fontawesome.com/688367e949.js" crossorigin="anonymous"></script>
+<a href = "https://twitter.com/happy_PPE"><i class="fab fa-twitter"></i></a>
 
