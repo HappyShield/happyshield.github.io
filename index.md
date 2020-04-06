@@ -97,6 +97,6 @@ Darshil Shah
         </a>  
     </span> 
     <span style="font-size:16px; display: inline-block;">    
-        <a href="natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">  natmat@aha.cam.ac.uk</a>
+        <a href="mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">  natmat@aha.cam.ac.uk</a>
     </span>
 </span>
