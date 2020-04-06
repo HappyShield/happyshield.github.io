@@ -30,14 +30,8 @@ This design has been tested for the following materials, tools, and methods. If 
 
 ### Sheet Materials
 
-#### 3-Part Jig
-
-* 4 mm MDF
-
-#### Shield
-
-* 0.5 mm polyasdfsd(PET)
-* 0.5 mm acetate
+* 0.5 mm thick polyethylene terephthalate (PET)
+* 0.5 mm thick acetate
 
 ### Strap
 
