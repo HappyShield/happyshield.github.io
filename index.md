@@ -89,5 +89,5 @@ Darshil Shah
 ---
 
 <script src="https://kit.fontawesome.com/688367e949.js" crossorigin="anonymous"></script>
-<span style="font-size: 12px;"><a href = "https://twitter.com/happy_PPE"><i class="fab fa-twitter"></i></a></span>
+<span style="font-size: 12px;"><a href = "https://twitter.com/happy_PPE"><i class="fab fa-twitter"></i></a><a href ="https://www.instagram.com/happyppe/"><i class="fab fa-instagram"></i></a></span>
 
