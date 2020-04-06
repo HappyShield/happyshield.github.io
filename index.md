@@ -87,4 +87,4 @@ Darshil Shah
 ---
 
 <script src="https://kit.fontawesome.com/688367e949.js" crossorigin="anonymous"></script>
-<span class = "socialMediaIcons"><a href = "https://twitter.com/happy_PPE"><i class="fab fa-twitter" style="color:black;"></i></a>  <a href ="https://www.instagram.com/happyppe/"><i class="fab fa-instagram" style="color:black;"></i></a> <i class="em em-email" aria-role="presentation" aria-label="ENVELOPE"></i>: <a href="natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry"></a></span>
+<span class = "socialMediaIcons"><a href = "https://twitter.com/happy_PPE"><i class="fab fa-twitter" style="color:black;"></i></a>  <a href ="https://www.instagram.com/happyppe/"><i class="fab fa-instagram" style="color:black;"></i></a> ✉️: <a href="natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry"></a></span>
