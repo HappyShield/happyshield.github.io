@@ -90,7 +90,7 @@ Darshil Shah
 <span>
     <span class="socialMediaIcons">
         <a href = "https://twitter.com/happy_PPE">
-            <i class="fab fa-twitter"></i>
+            <i class="fab fa-twitter" ></i>
         </a>
         <a href ="https://www.instagram.com/happyppe/">
             <i class="fab fa-instagram"></i>
