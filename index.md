@@ -14,7 +14,7 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 ---
 
-* Easy **non-destructive decontamination for reuse** over high numbers of shifts.   
+* Easy **decontamination for reuse** over high numbers of shifts.   
 
 ---
 
@@ -22,7 +22,7 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 
 ---
 
-* **Flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions.  
+* **Fast, flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions.  
 
 ---
 
