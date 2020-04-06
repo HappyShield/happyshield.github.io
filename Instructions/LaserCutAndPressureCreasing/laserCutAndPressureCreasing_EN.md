@@ -16,7 +16,7 @@ permalink: /pressure-creasing/en/
 
 # 1 	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_01.jpg)
+![](./Assets/Output/Steps/01)
 
 Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) 
 Choose any sheet material at least 4 mm deep with hardness similar to MDF or other wood, fibre, or plastic products for use in the jig. Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
@@ -25,7 +25,7 @@ Choose any sheet material at least 4 mm deep with hardness similar to MDF or oth
 
 # 2
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_02.jpg)
+![](./Assets/Output/Steps/02)
 
 Remove the 3 parts of the press jig from the laser-cutter. Select a metal wire between 1-3 mm in diameter. Cut the wire to the length of the dashed curves in parts A and C of the template.
 Tape the metal wire onto the dashed curve the groove of the parts A and C of the press jig, being sure not to deviate from the dashed curve, and not to extend beyond the ends of the dashed curve. 
@@ -34,7 +34,7 @@ Tape the metal wire onto the dashed curve the groove of the parts A and C of the
 
 # 3
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_03.jpg)
+![](./Assets/Output/Steps/03)
 
 Attach Part B to top A using short wood screws, or any other method. Attach the combined Part A and B to a block as needed to distribute pressure evenly across the jig surface. Do the same for Part C.
 
@@ -46,7 +46,7 @@ Attach Part B to top A using short wood screws, or any other method. Attach the 
 
 # 1
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_04.jpg)
+![](./Assets/Output/Steps/04)
 
 Download the HappyShield laser-cutting template which fits in the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.)
 
@@ -54,7 +54,7 @@ Download the HappyShield laser-cutting template which fits in the bed of your la
 
 # 2	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_05.jpg)
+![](./Assets/Output/Steps/05)
 
 Choose a flexible transparent sheet material for cutting. (These instructions have been tested for 0.5 mm PET and 0.5 mm acetate.) Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
 
@@ -64,7 +64,7 @@ Once cut, remove the resulting shields and friction clips from the laser-cutter 
 
 # 3
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_06.jpg)
+![](./Assets/Output/Steps/06)
 
 Insert shield into the 3-part press jig and press to create the curved creases.
 
@@ -72,7 +72,7 @@ Insert shield into the 3-part press jig and press to create the curved creases.
 
 # 4	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_07.jpg)
+![](./Assets/Output/Steps/07)
 
 Cut a 400 mm length of elastic strap. Thread the strap through the friction clips on both ends.
 
@@ -80,6 +80,6 @@ Cut a 400 mm length of elastic strap. Thread the strap through the friction clip
 
 # 5	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_08.jpg)
+![](./Assets/Output/Steps/08)
 
 Pass the threaded friction clips through the holes in the shield from back to front. 
