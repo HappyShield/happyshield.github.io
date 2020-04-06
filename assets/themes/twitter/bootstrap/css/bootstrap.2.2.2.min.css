@@ -813,3 +813,7 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
     color:black;
     padding:10px;
 }
+
+.table-wrapper{
+    width:100%;
+}
