@@ -95,13 +95,13 @@ Darshil Shah
 <span>
     <span style="display: inline-block;">
         <a href = "https://twitter.com/happy_PPE">
-            <i class="fab fa-twitter" style="font-size:24px; color:black;"></i>
+            <i class="fab fa-twitter" style="font-size:24px; color:black; display: inline-block;"></i>
         </a>
         <a href ="https://www.instagram.com/happyppe/">
-            <i class="fab fa-instagram" style="font-size:24px; color:black;"></i>
+            <i class="fab fa-instagram" style="font-size:24px; color:black; display: inline-block;"></i>
         </a>  
-        <a href = "https://www.youtube.com/channel/UCDa1gQhlIV2P2we6HI_X34Q">
-            <i class="fab fa-youtube" style="font-size:24px; color:black;"></i>
+        <a href ="https://www.youtube.com/channel/UCDa1gQhlIV2P2we6HI_X34Q">
+            <i class="fab fa-youtube" style="font-size:24px; color:black; display: inline-block;"></i>
         </a>
     </span> 
     <span style="font-size:16px; display: inline-block;">    
