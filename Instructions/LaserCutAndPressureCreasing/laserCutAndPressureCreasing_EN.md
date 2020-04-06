@@ -5,11 +5,6 @@ tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><i class="em em-video
 permalink: /pressure-creasing/en/
 ---
 
-<script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/810066" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
-
----
-
 ## Disclaimer
 
 ---
@@ -19,6 +14,12 @@ Finalised disclaimer text will go here.
 **Temporary disclaimer**: the face shields associated with these instructions have not yet been clinically approved by medical professionals. Please follow the guidance of the relevant authorities to ensure the safety of yourself and others. This design has been tested for the following materials, tools, and methods. If you do choose to use materials, tools, or methods not described here, please do so at your own risk.
 
 --- 
+---
+
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/810066" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+
+---
 
 ### Tools
 
@@ -28,6 +29,8 @@ Finalised disclaimer text will go here.
 
 * 4 mm MDF
 * 1 mm steel wire rope   
+* 6-20 mm wood screws
+* Clear plastic tape
 
 **Shield**
 
