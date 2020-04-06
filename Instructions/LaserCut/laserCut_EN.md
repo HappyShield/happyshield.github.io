@@ -75,7 +75,7 @@ This design has been tested for the following materials, tools, and methods. If 
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download and use our laser cutting template. Place the plastic sheet and laser cut. The mask cutting area is 297x320mm, You can use A3 sheets if large plastic sheets are not available. 
+Laser-cut the clear plastic sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
 
 ---
 
@@ -83,7 +83,7 @@ Download and use our laser cutting template. Place the plastic sheet and laser c
 
 ![](./Assets/Output/Steps/02.jpg)
 
-To fold the first curve, start with one corner, if some segments does not fold, score again with a pen and ruler.
+Starting on end of one of the crease curves, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. 
 
 --- 
 
@@ -91,7 +91,7 @@ To fold the first curve, start with one corner, if some segments does not fold, 
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Fold the second curve.
+Fold the second curve using the same procedure as in Step 2.
 
 ---
 
@@ -99,5 +99,6 @@ Fold the second curve.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Fix the strap using the holders you cut from the template. Clean and use or clean and place in a ziploc bag for shipping.
+Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
+
 

@@ -81,7 +81,7 @@ Tape the metal wire onto the dashed curve the groove of the parts A and C of the
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Attach Part B to top A using short wood screws, or any other method. Attach the combined Part A and B to a block as needed to distribute pressure evenly across the jig surface. Do the same for Part C.
+Attach Part B to top A using short wood screws. Attach the combined Part A and B to a block as needed to distribute pressure evenly across the jig surface. Do the same for Part C.
 
 --- 
 
@@ -101,7 +101,7 @@ Download the HappyShield laser-cutting template which fits in the bed of your la
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Choose a flexible transparent sheet material for cutting. (These instructions have been tested for 0.5 mm PET and 0.5 mm acetate.) Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+Laser-cut the clear plastic sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
 
 Once cut, remove the resulting shields and friction clips from the laser-cutter bed. If desired, wipe the edges of the shields and clips with alcohol, or wash with any soap to remove any laser-cutting residues from the sheet. 
 
