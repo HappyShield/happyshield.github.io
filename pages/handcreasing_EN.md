@@ -19,7 +19,7 @@ permalink: /hand-creasing/en/
 ![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
 
 Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
-
+Katevaste to arxeio apo ton yp
 ---
 
 # 2
