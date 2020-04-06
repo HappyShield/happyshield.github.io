@@ -18,7 +18,8 @@ permalink: /pressure-creasing/en/
 
 ![](./Assets/Output/Steps/01.jpg)
 
- the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) 
+ 
+Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) 
 Choose any sheet material at least 4 mm deep with hardness similar to MDF or other wood, fibre, or plastic products for use in the jig. Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
 This is a change in the text.
 ---
