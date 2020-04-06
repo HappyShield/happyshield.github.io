@@ -46,31 +46,6 @@ Finalised disclaimer text will go here.
 
 ---
 
-## Disclaimer
-
-Disclaimer text here. 
-
-Temporary disclaimer: the face shields associated with these instructions have not yet been clinically approved by medical professionals. Please follow the guidance of the relevant authorities to ensure the safety of yourself and others.
-
----
-
-This design has been tested for the following materials, tools, and methods. If you do choose to use materials, tools, or methods not described here, please do so at your own risk.
-
-## Tools
-
-## Materials
-
-### Sheet Materials
-
-* 0.5 mm thick polyethylene terephthalate (PET)
-* 0.5 mm thick acetate
-
-### Strap
-
-* 20 mm wide Knit Elastic (70% polyester 30% rubber)
-
----
-
 # 1
 
 ![](./Assets/Output/Steps/01.jpg)
