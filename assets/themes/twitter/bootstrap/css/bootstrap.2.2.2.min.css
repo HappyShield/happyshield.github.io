@@ -806,3 +806,7 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
 .instructionsTaglineEmojiLinks{
     margin-bottom: 10 px;
 }
+.socialMediaIcons{
+    font-size:24px; 
+    color:black;
+}
