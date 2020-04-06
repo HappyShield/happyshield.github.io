@@ -36,8 +36,6 @@ tagline: Curved Crease Origami Face Shield For Infection Control
 | Laser-cut + Pressure Creasing         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./pressure-creasing/en/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./assets/0_MD_Instruction Files/HS_Instructions_PDFs/HS_Factory Production.pdf)              |       |           |
 | Laser-cut                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./laser-cut/en/)           | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./assets/0_MD_Instruction Files/HS_Instructions_PDFs/HS_Lasercut.pdf)                        |       |           |
 | Laminated                       |                                                                                                                        |       |       |           |
-| Cardboard                       |                                                                                                                        |       |       |           |
-
 
 ---
 
