@@ -12,7 +12,7 @@ permalink: /laser-cut/en/
 
 # 1
 
-![](../assets/0_MD_Instruction Files/HS_LC_Instructions/STEPS/HS_LC_01.jpg)
+![](./Assets/Output/Steps/01.jpg)
 
 Download and use our laser cutting template. Place the plastic sheet and laser cut. The mask cutting area is 297x320mm, You can use A3 sheets if large plastic sheets are not available. 
 
@@ -20,7 +20,7 @@ Download and use our laser cutting template. Place the plastic sheet and laser c
 
 # 2	
 
-![](../assets/0_MD_Instruction Files/HS_LC_Instructions/STEPS/HS_LC_02.jpg)
+![](./Assets/Output/Steps/02.jpg)
 
 To fold the first curve, start with one corner, if some segments does not fold, score again with a pen and ruler.
 
@@ -28,7 +28,7 @@ To fold the first curve, start with one corner, if some segments does not fold, 
 
 # 3 	
 
-![](../assets/0_MD_Instruction Files/HS_LC_Instructions/STEPS/HS_LC_03.jpg)
+![](./Assets/Output/Steps/03.jpg)
 
 Fold the second curve.
 
@@ -36,7 +36,7 @@ Fold the second curve.
 
 # 4	
 
-![](../assets/0_MD_Instruction Files/HS_LC_Instructions/STEPS/HS_LC_04.jpg)
+![](./Assets/Output/Steps/04.jpg)
 
 Fix the strap using the holders you cut from the template. Clean and use or clean and place in a ziploc bag for shipping.
 
