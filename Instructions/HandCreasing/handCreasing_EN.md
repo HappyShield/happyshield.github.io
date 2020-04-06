@@ -188,13 +188,6 @@ Repeat step 9 for the other curve, but this time, fold the sheet in the other di
 
 Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
 
----
-
-# 12 
-
-![](./Assets/Output/Steps/16.jpg)
-
-Clean the shield if necessary, and use. If preparing for transport, clean the shield, and pack into a sealable bag.
 
 
 
