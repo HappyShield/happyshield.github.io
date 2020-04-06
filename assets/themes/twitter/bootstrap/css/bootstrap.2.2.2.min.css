@@ -187,7 +187,6 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .btn-mini .label,.btn-mini .badge{top:0;}
 table{
     width:100%;
-    table-layout: auto;
     background-color:transparent;border-collapse:collapse;border-spacing:0;
     display:block;
 }
