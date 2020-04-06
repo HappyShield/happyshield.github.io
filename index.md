@@ -100,6 +100,9 @@ Darshil Shah
         <a href ="https://www.instagram.com/happyppe/">
             <i class="fab fa-instagram" style="font-size:24px; color:black;"></i>
         </a>  
+        <a href = "https://www.youtube.com/channel/UCDa1gQhlIV2P2we6HI_X34Q">
+            <i class="fab fa-youtube" style="font-size:24px; color:black;"></i>
+        </a>
     </span> 
     <span style="font-size:16px; display: inline-block;">    
         <a href="mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">  natmat@aha.cam.ac.uk</a>
