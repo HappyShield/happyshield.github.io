@@ -16,7 +16,7 @@ permalink: /pressure-creasing/en/
 
 # 1 	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_03.jpg)
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_01.jpg)
 
 Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) 
 Choose any sheet material at least 4 mm deep with hardness similar to MDF or other wood, fibre, or plastic products for use in the jig. Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
@@ -25,7 +25,7 @@ Choose any sheet material at least 4 mm deep with hardness similar to MDF or oth
 
 # 2
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_04.jpg)
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_02.jpg)
 
 Remove the 3 parts of the press jig from the laser-cutter. Select a metal wire between 1-3 mm in diameter. Cut the wire to the length of the dashed curves in parts A and C of the template.
 Tape the metal wire onto the dashed curve the groove of the parts A and C of the press jig, being sure not to deviate from the dashed curve, and not to extend beyond the ends of the dashed curve. 
@@ -34,7 +34,7 @@ Tape the metal wire onto the dashed curve the groove of the parts A and C of the
 
 # 3
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_05.jpg)
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_03.jpg)
 
 Attach Part B to top A using short wood screws, or any other method. Attach the combined Part A and B to a block as needed to distribute pressure evenly across the jig surface. Do the same for Part C.
 
@@ -46,7 +46,7 @@ Attach Part B to top A using short wood screws, or any other method. Attach the 
 
 # 1
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_01.jpg)
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_04.jpg)
 
 Download the HappyShield laser-cutting template which fits in the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.)
 
@@ -54,7 +54,7 @@ Download the HappyShield laser-cutting template which fits in the bed of your la
 
 # 2	
 
-![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_02.jpg)
+![](../assets/0_MD_Instruction Files/HS_FP_Instructions/STEPS/HS_FP_05.jpg)
 
 Choose a flexible transparent sheet material for cutting. (These instructions have been tested for 0.5 mm PET and 0.5 mm acetate.) Laser-cut the sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
 
