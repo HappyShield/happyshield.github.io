@@ -30,3 +30,5 @@ You can repeat this process any number of times. When you would like your work t
 
 1. Create Pull Request
 2. Add any helpful description along with your Pull Request to explain to others what you have added or changed to the text.
+
+Auri will review and approve the pull request, and then merge these into the main repository, where they should be rendered on the live website within 3-5 minutes. 
