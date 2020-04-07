@@ -22,11 +22,11 @@ To translate (or edit an existing translation),
 2. Click "Edit this File"
 3. Type any changes you would like to make to the text in the file. 
 4. Add a description explaining the changes you have made.
-5. Commit the changes.
+5. Commit the changes ("Propose File Change")
 
 You can see this process explained nicely here! https://guides.github.com/activities/hello-world/#commit
 
 You can repeat this process any number of times. When you would like your work to be incorporated into the main repository. 
 
-1. Click Pull Request.
-2. 
+1. Create Pull Request
+2. Add any helpful description along with your Pull Request to explain to others what you have added or changed to the text.
