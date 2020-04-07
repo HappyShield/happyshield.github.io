@@ -820,3 +820,9 @@ a.socialMediaIcons{
 .table-wrapper{
     width:100%;
 }
+.socialMediaIconsFooter {
+    width:100%;
+}
+.socialMediaIconsFooter a {
+    padding-right: 10px;
+}
