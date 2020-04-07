@@ -5,5 +5,5 @@ permalink: /languages/
 ---
 
 
-[EN](./)
-[TR](./tr/)
+[EN](../)
+[TR](../tr/)
