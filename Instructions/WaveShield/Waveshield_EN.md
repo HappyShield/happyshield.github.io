@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: WaveSHIELD
-tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href=""><i class="em em-video_camera" aria-role="" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
+tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /wave-shield/en/
 ---
 
@@ -51,6 +51,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 # 1 
 
 ![](./Assets/Output/Steps/01.jpg)
+
 Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
 ---
 
