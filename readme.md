@@ -2,9 +2,9 @@
 
 ## Translations
 
-Thanks for your help translating the HappyShield website and instructions!
+### Introduction
 
-Here's how to contribute translations!
+Thanks for your help translating the HappyShield website and instructions!
 
 We hope to translate the following files in this website (XX is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language): 
 
@@ -16,11 +16,15 @@ We hope to translate the following files in this website (XX is the [ISO 639-1 c
 * Instructions/WaveShield/waveShield_XX.md (WaveShield production method instructions)
 ```
 
+### Instructions
+
+Here's how to contribute translations!
+
 1. Navigate to this repository, making sure that you are viewing the main version of the repository: "HappyShield/happyshield.github.io" 
 
 To translate (or edit an existing translation):
 
-If the file already exists:
+#### If the translation file already exists:
 
 1. Navigate to the relevant file in this repository.
 2. Click "Edit this File"
@@ -30,7 +34,7 @@ If the file already exists:
 
 You can see this process explained nicely here! https://guides.github.com/activities/hello-world/#commit
 
-If the translation file does not yet exist:
+#### If the translation file does not yet exist:
 
 1. Navigate to the English version of the file (for example: `Instructions/HandCreasing/handCreasing_EN.md`) which you will be translating into another language. 
 2. Click the edit button.
