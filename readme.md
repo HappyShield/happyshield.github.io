@@ -24,6 +24,8 @@ To translate (or edit an existing translation),
 4. Add a description explaining the changes you have made.
 5. Commit the changes.
 
+You can see this process explained nicely here! https://guides.github.com/activities/hello-world/#commit
+
 You can repeat this process any number of times. When you would like your work to be incorporated into the main repository. 
 
 1. Click Pull Request.
