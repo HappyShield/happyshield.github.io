@@ -45,7 +45,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 **Shield**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
+* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet
 * 20 mm wide knit elastic strap (70% polyester 30% rubber)
 
 ---
