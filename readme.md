@@ -1,4 +1,4 @@
-# HappyShield.github.io 
+# happyshield.github.io Contribution Guide
 
 ## Translations
 
