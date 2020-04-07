@@ -85,7 +85,7 @@ Jeff Lee
 Ana Maia  
 Andy Conway Morris  
 Josh Newman  
-Daniel Ottey  
+Daniel Ott  
 Michael Ramage  
 Darshil Shah  
 
