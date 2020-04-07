@@ -32,7 +32,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 * Scissors or razor blade
 * Ballpoint pen
-* Ruller
+* Ruler
 * Butter Knife
 * Printer
 
