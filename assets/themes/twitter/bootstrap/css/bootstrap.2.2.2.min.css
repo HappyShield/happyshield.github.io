@@ -222,7 +222,7 @@ table td[class*="span"],table th[class*="span"],.row-fluid table td[class*="span
 .table td.span10,.table th.span10{float:none;width:764px;margin-left:0;}
 .table td.span11,.table th.span11{float:none;width:844px;margin-left:0;}
 .table td.span12,.table th.span12{float:none;
-    width:100%;
+    width:940px;
     margin-left:0;
 }
 .table tbody tr.success td{background-color:#dff0d8;}
@@ -237,7 +237,7 @@ tr {
     width: 100%; 
     border-bottom: solid 1px black}
 td,th {
- width: 100%;
+  width: 100%;
   border-right: solid 1px black; 
   border-left: solid 1px black;
 }
