@@ -9,11 +9,11 @@ Here's how to contribute translations!
 We hope to translate the following files in this website (XX is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language): 
 
 ```
-index_XX.md (Homepage)
-Instructions/HandCreasing/handCreasing_XX.md (Hand creasing method instructions)
-Instructions/LaserCut/laserCut_XX.md (Laser-cut method instructions)
-Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_XX.md (Laser-cut and pressure-creasing method instructions)
-Instructions/WaveShield/waveShield_XX.md (WaveShield production method instructions)
+* index_XX.md (Homepage)
+* Instructions/HandCreasing/handCreasing_XX.md (Hand creasing method instructions)
+* Instructions/LaserCut/laserCut_XX.md (Laser-cut method instructions)
+* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_XX.md (Laser-cut and pressure-creasing method instructions)
+* Instructions/WaveShield/waveShield_XX.md (WaveShield production method instructions)
 ```
 
 1. Navigate to this repository, making sure that you are viewing the main version of the repository: "HappyShield/happyshield.github.io" 
