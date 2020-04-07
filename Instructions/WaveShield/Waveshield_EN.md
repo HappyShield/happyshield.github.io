@@ -53,6 +53,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 ![](./Assets/Output/Steps/01.jpg)
 
 Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
+
 ---
 
 # 2
