@@ -85,28 +85,7 @@ Most especially, however, we are **currently seeking partnerships and collaborat
 
 Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
 
-Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
-
----
-
-## Health Care Workers
-
-Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
-
----
-
-## Translators
-
-Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
-
----
----
-
-# How-To
-
----
-
-The following are web, print, and video **instructions for the manufacturing methods** which have been developed for HappyShield and related face shields designs as part of this project. **Template files** are also included so that anyone is able to get started producing HappyShields straight away.
+Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways (shown below) for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
 
 ---
 
@@ -119,6 +98,19 @@ The following are web, print, and video **instructions for the manufacturing met
 | WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./wave-shield/en/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |       |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
 
 ---
+
+## Health Care Workers
+
+Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
+
+---
+
+## Translators
+
+---
+
+Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
+
 
 ---
 
