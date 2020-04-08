@@ -11,9 +11,11 @@ permalink: /wave-shield/en/
 
 ---
 
-## Disclaimer
+## 免责声明（Disclaimer）
 
 ---
+剑桥大学（UC）和昆士兰大学（UQ）对HappyShield的设计，特征，耐用性，正确使用或性能不做任何形式的明示或暗示保证，包括但不限于以下隐含保证：适销性和适合任何特定目的。 HappyShield旨在最大程度减少液体和喷雾的接触，但是UC和UQ不保证HappyShield可以保护用户免受COVID-19感染或任何其他传染病的侵害。本材料中的任何内容均不构成医学建议，就HappyShield是否适合其预期用途以及是否能与任何其他医学手段或策略联用，用户须自行征询医学建议。在法律允许的最大范围内，UC和UQ排除所有隐含的担保，保证，条款和条件。 UC和UQ对因使用HappyShield而引起的任何索赔，要求，损害或伤害不承担任何责任，包括但不限于财产损失，人身伤害或疾病，死亡，间接，特殊或附带损失（以下简称“索赔”）。HappyShield的用户不得对UC和UQ及其官员，雇员，承包商和代理商提起以上“索赔”。（具体声明以英文版为准）
+
 
 The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
 
@@ -21,30 +23,30 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-## Tools
+## 工具
 
 ---
 
-* Scissors or razor blade
-* Ballpoint pen
+* 剪刀 或 刻刀
+* 圆珠笔
 
 ---
 
-## Materials
+## 材料
 
 ---
 
-**Shield**
+**护罩**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-* Tape
-
----
+* 0.5 毫米厚的PET聚酯塑片 或者至少是 醋酸纤维塑片 (Acetate sheet) 
+* 20 毫米宽的针织松紧带(70%聚酯，30%橡胶)
+* 胶带
 
 ---
 
-# Instructions
+---
+
+# 制作步骤
 
 ---
 
@@ -52,7 +54,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
+下载临摹模板。A4大小(210毫米x297毫米)的模板用于制作A3大小(297毫米x420毫米)的护罩。信纸大小(Letter-sized,216毫米x279毫米)模板用于制作小报大小(Tabloid-sized,279毫米x432毫米)的护罩。如果没有打印机，可按模板上标注的尺寸自行绘制。
 
 ---
 
@@ -60,7 +62,7 @@ Download your tracing template format (A4 for A3 shields, Letter for Tabloid shi
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Place your transparent sheet on the template. 
+将准备的透明塑片放在模板上。
 
 ---
 
@@ -68,7 +70,8 @@ Place your transparent sheet on the template.
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. Mark the lines and the lower round corners for cutting. 
+用马克笔或圆珠笔标记两边松紧带孔的位置。不用担心画在塑片上的笔墨，可以用布蘸酒精将其擦去。
+标记各线条和下部圆角以用于后续切割。 
 
 ---
 
@@ -76,7 +79,7 @@ Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it
 
 ![](./Assets/Output/Steps/04.jpg)
 
-With scissors or a cutter cut the sheets and trim the corners of the shield.
+用剪刀或刻刀剪切塑片并修剪护罩的边角。
 
 ---
 
@@ -85,7 +88,7 @@ With scissors or a cutter cut the sheets and trim the corners of the shield.
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Cut the holes. You can use a paper or leather punch¬er if you have.
+切孔。也可使用纸张或皮革的打孔器打孔。
 
 ---
 
@@ -93,7 +96,7 @@ Cut the holes. You can use a paper or leather punch¬er if you have.
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Tape the middle of strip 1 and 2, check the M shape the two strips made when the holes are aligned. It should be symmetrical.
+用胶带将条带1和2的中间缠上，当强行把两条带孔对齐时看是否形成字母M的形状。它们应该是对称的。
 
 ---
 
@@ -101,7 +104,7 @@ Tape the middle of strip 1 and 2, check the M shape the two strips made when the
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Align the holes together strips. The order from inside to outside is: 1,2,3, face-shield, and top cover. Tie the sheets with the elastic band. It should come out from upper hole and go in the lower hole.
+将所有孔对齐在一起。从内到外的顺序是：1、2、3，面罩和顶盖。用松紧带绑住这些塑片。松紧带应该从上孔出来然后进入下孔。
 
 ---
 
@@ -109,7 +112,7 @@ Align the holes together strips. The order from inside to outside is: 1,2,3, fac
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Your mask is ready now.
+你的护罩就做好了！
 
 ---
 
