@@ -26,7 +26,7 @@ HappyShield is a new **open-source** design for a **simple, foldable face shield
 
 ---
 
-Healthcare workers need face shields in addition to masks and goggles to provide protection from splashes and sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. There is currently a **significant shortage of face shields globally**, which is likely to be **particularly severe in less wealthy regions** without the ability to buy or manufacture necessary PPE as easily or quickly as wealthy countries. 
+Healthcare workers need face shields in addition to masks and goggles to provide protection from splashes and sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. There is currently a **significant shortage of face shields globally**, which is likely to be **particularly severe in less wealthy regions** without the ability to buy or manufacture necessary Personal Protective Equipment (PPE) as easily or quickly as wealthy countries. 
 
 ---
 
