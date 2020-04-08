@@ -103,7 +103,7 @@ Here's how you can help:
 
 ---
 
-The following are the manufacturing pathways which have been developed for HappyShield and related face shields designs as part of this project:
+The following are web, print, and instructions for the manufacturing pathways which have been developed for HappyShield and related face shields designs as part of this project. Template files are also included so that anyone is able to get started producing HappyShields straight away.
 
 ---
 
