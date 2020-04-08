@@ -112,6 +112,12 @@ Are you responsible for **procurement of PPE for healthcare workers** and do you
 Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
 
 ---
+
+#### _Thank you so much for your help! Stay safe and well!_
+
+**_-HappyShield Team_**
+
+---
 ---
 
 ## Disclaimer
