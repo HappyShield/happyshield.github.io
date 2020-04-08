@@ -79,7 +79,7 @@ We have **begun production of HappyShields in the UK**, and are hoping to **rapi
 
 ---
 
-## 1. Manufacturers and Makers
+## 1. 🏭 Manufacturers and Makers
 
 Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
 
