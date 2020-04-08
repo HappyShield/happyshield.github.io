@@ -113,9 +113,7 @@ Are you comfortable writing technically in a language other than English? We nee
 
 ---
 
-#### _Thank you so much for your help! Stay safe and well!_
-
-**_-HappyShield Team_**
+### _Thank you and looking forward to connecting!_
 
 ---
 ---
