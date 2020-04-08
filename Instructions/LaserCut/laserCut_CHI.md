@@ -10,9 +10,10 @@ permalink: /laser-cut/en/
 
 ---
 
-## Disclaimer
+## 免责声明（Disclaimer）
 
 ---
+剑桥大学（UC）和昆士兰大学（UQ）对HappyShield的设计，特征，耐用性，正确使用或性能不做任何形式的明示或暗示保证，包括但不限于以下隐含保证：适销性和适合任何特定目的。 HappyShield旨在最大程度减少液体和喷雾的接触，但是UC和UQ不保证HappyShield可以保护用户免受COVID-19感染或任何其他传染病的侵害。本材料中的任何内容均不构成医学建议，就HappyShield是否适合其预期用途以及是否能与任何其他医学手段或策略联用，用户须自行征询医学建议。在法律允许的最大范围内，UC和UQ排除所有隐含的担保，保证，条款和条件。 UC和UQ对因使用HappyShield而引起的任何索赔，要求，损害或伤害不承担任何责任，包括但不限于财产损失，人身伤害或疾病，死亡，间接，特殊或附带损失（以下简称“索赔”）。HappyShield的用户不得对UC和UQ及其官员，雇员，承包商和代理商提起以上“索赔”。（具体声明以英文版为准）
 
 The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
 
@@ -20,29 +21,29 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-## Tools
+## 工具
 
 ---
 
-* Laser-cutter
-* Scissors or razor blade
+* 激光切割机
+* 剪刀 或 刻刀
 
 ---
 
-## Materials
+## 材料
 
 ---
 
-**Shield**
+**面罩**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-
----
+* 0.5 毫米厚的PET聚酯塑片 或者至少是 醋酸纤维塑片 (Acetate sheet) 
+* 20 毫米宽的针织松紧带(70%聚酯，30%橡胶)
 
 ---
 
-# Instructions
+---
+
+# 制作步骤
 
 ---
 
@@ -50,7 +51,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Laser-cut the clear plastic sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+按照模板文件激光切割透明塑片。注意调整激光切割机的功率和速度设定，确保其能够切穿整个塑片材料。
 
 ---
 
@@ -58,7 +59,7 @@ Laser-cut the clear plastic sheet material using the template file, ensuring tha
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Starting on end of one of the crease curves, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. 
+沿褶线从一边向另一边轻轻地捏折直到塑片完全弯折到一侧。
 
 --- 
 
@@ -66,7 +67,7 @@ Starting on end of one of the crease curves, and working your way to the other e
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Fold the second curve using the same procedure as in Step 2.
+沿另外一条褶线重复步骤2，不过这次是将它向相反方向弯折。
 
 ---
 
@@ -74,6 +75,6 @@ Fold the second curve using the same procedure as in Step 2.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
+将松紧带与两个防滑固定夹连接。将连接好的防滑夹从面罩带孔向前穿出。
 
 
