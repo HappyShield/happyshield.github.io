@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-HappyShield is a new open-source design for a simple, foldable face shield for infection control for the Covid-19 pandemic. 
+HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control in the context of the Covid-19 pandemic. 
 
 ---
 
@@ -35,7 +35,7 @@ Healthcare workers need face shields in addition to masks and goggles to provide
 
 ---
 
-The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are safe, cheap, easy to mass-produce quickly using locally available materials and equipment, easy to reuse, and comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded HappyShield, which successfully meets these design goals. The features of the HappyShield design are listed below.
+The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are **safe**, **cheap**, **easy to mass-produce** quickly using locally available materials and equipment, easy to **reuse**, and **comfortable** enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded **HappyShield**, which successfully meets these design goals. The features of the HappyShield design are listed below:
 
 ---
 
@@ -103,7 +103,7 @@ Here's how you can help:
 
 ---
 
-The following are the manufacturing pathways which have been developed for HappyShield and related face shields designs as part of this project.
+The following are the manufacturing pathways which have been developed for HappyShield and related face shields designs as part of this project:
 
 ---
 
