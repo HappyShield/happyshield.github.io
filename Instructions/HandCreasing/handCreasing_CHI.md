@@ -17,7 +17,6 @@ permalink: /hand-creasing/en/
 ---
 
 ## 免责声明
-[//]:# (## Disclaimer）
 
 ---
 
@@ -27,33 +26,33 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-## Tools
+## 工具
 
 ---
 
-* Scissors or razor blade
-* Ballpoint pen
-* Ruler
-* Butter Knife
-* Printer
+* 剪刀 或 刻刀
+* 圆珠笔
+* 直尺
+* 黄油刀
+* 打印机
 
 ---
 
-## Materials
+## 材料
 
 ---
 
-**Shield**
+**面罩**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-* Tape
-
----
+* 0.5 毫米厚的PET聚酯塑片 或者至少是 醋酸纤维塑片 (Acetate sheet) 
+* 20 毫米宽的针织松紧带(70%聚酯，30%橡胶)
+* 胶带
 
 ---
 
-# Instructions
+---
+
+# 制作步骤
 
 ---
 
@@ -61,7 +60,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
+下载临摹模板。A4大小(210毫米x297毫米)的模板用于制作A3大小(297毫米x420毫米)的面罩。信纸大小(Letter-sized,216毫米x279毫米)模板用于制作小报大小(Tabloid-sized,279毫米x432毫米)的面罩。如果没有打印机，可按模板上标注的尺寸自行绘制。
 
 ---
 
@@ -69,7 +68,7 @@ Download your tracing template. A4-sized templates are available for A3-sized sh
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Place your transparent sheet on the template. Mark the location of the strap holes with your pen or marker. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
+将准备的透明塑片放在模板上。用马克笔或圆珠笔标记两边松紧带孔的位置。不用担心画在塑片上的笔墨，可以用布蘸酒精将其擦去。
 
 ---
 
@@ -77,7 +76,7 @@ Place your transparent sheet on the template. Mark the location of the strap hol
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Trace out the boundary of the shield for cutting out. 
+按模板描边用于裁剪面罩。
 
 ---
 
@@ -85,17 +84,16 @@ Trace out the boundary of the shield for cutting out.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Cut the boundary shape of the shield out using scissors or a razor blade. Cut out the strap holes. You can use a hole-puncher as well to make these holes. 
+用剪刀或刻刀沿描边裁出面罩的形状。按之前标记的位置抠剪或抠刻出松紧带孔。也可以用打孔器打孔。
 
-Next, cut out the friction clips using a razor blade.
+接着，用刀刻出防滑固定夹(friction clips)。
 
-Now, let’s score a smile on that face!
+现在，我们可以在面罩上做“笑脸”了！
 
 ---
 
 
-
-## Creasing Method A
+## 压褶方法A
 
 ---
 
@@ -103,7 +101,7 @@ Now, let’s score a smile on that face!
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
+将透明塑片放于模板上，用回形针或胶带对齐固定。
 
 ---
 
@@ -111,7 +109,7 @@ Place your transparent sheet on the template. Fix with clips or tape for precise
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Using a ruler, and applying pressure, trace the straight segments between each consecutive point, using 2-3 strokes as needed until you see a visible indentation in the sheet.
+用直尺沿着圆点连接的直线（如图中加粗线）施加压力，多刮划几次直到面罩上出现肉眼可见的凹痕为止。
 
 ---
 
@@ -119,7 +117,7 @@ Using a ruler, and applying pressure, trace the straight segments between each c
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Flip the transparent sheet.  Fix the sheet and the template again.
+将透明塑片翻面，重新与模板对齐固定。
 
 ---
 
@@ -127,11 +125,11 @@ Flip the transparent sheet.  Fix the sheet and the template again.
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Trace the second curve in the same way as in step **6A**.
+采用与步骤**6A**一样的方法沿着第二条曲线压褶。
 
 ---
 
-## Creasing Method B
+## 压褶方法B
 
 ---
 
@@ -139,7 +137,7 @@ Trace the second curve in the same way as in step **6A**.
 
 ![](./Assets/Output/Steps/09.jpg)
 
-Trace the folding curves with a pen (no additional pressure is required here). If desired, fix the sheet to the template with clips or tape for more precise tracing.
+用笔在面罩上描出需要弯折的曲线（无须施加压力）。如果不好描准，可以用回形针或胶带对齐固定塑片和模板。
 
 ---
 
@@ -147,9 +145,9 @@ Trace the folding curves with a pen (no additional pressure is required here). I
 
 ![](./Assets/Output/Steps/10.jpg)
 
-Find a 2-5 mm wide 2-3 mm deep channel at least 5 cm long on an immobile work surface or workpiece. Gaps between floorboards, segments of a dining table or kitchen countertop work well for this. Alternatively, make your own channel in a piece of wood or other material. Next, find a ballpoint pen or any other tool with a relatively dull end (any dull part of a butter knife, spoon, or chopstick can work here as well). 
+找一个固定台面或面板，面上须有2-5毫米宽、2-3毫米深和至少5厘米长凹沟。可以是地砖接缝、有凹陷条案的餐桌或厨房台面。另外，也可以在木头或其他材料的表面上自己做一个这样的凹沟。接着，找个圆珠笔或者末端比较钝的工具（可以是黄油刀，铁勺或细筷子）。
 
-Using one hand to move the sheet as you might a piece of fabric through a sewing machine, use the other hand to repeatedly run the tool over the surface of the material over the channel, following one of the crease curves you have traced.
+与用缝纫机缝布的操作类似，一只手推动塑片沿画好的折线在台面上移动，并保证凹沟始终对准折线，另一只手用钝工具反复将塑片向凹沟按压。
 
 ---
 
@@ -157,7 +155,7 @@ Using one hand to move the sheet as you might a piece of fabric through a sewing
 
 ![](./Assets/Output/Steps/11.jpg)
 
-Flip the shield over.
+将塑片翻面。
 
 ---
 
@@ -165,7 +163,7 @@ Flip the shield over.
 
 ![](./Assets/Output/Steps/12.jpg)
 
-Repeat step 6B for the other crease curve.
+沿另外一条折线重复步骤6B的操作。
 
 ---
 
@@ -173,8 +171,7 @@ Repeat step 6B for the other crease curve.
 
 ![](./Assets/Output/Steps/13.jpg)
 
-Starting on end of the crease curve, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. If some segments do not fold easily, repeat the creasing procedure. 
-
+沿压好的褶线从一边向另一边轻轻地捏折直到塑片完全弯折到一侧。如果有些部分无法捏折，可以重复之前的压褶步骤。
 
 ---
 
@@ -182,7 +179,7 @@ Starting on end of the crease curve, and working your way to the other end of th
 
 ![](./Assets/Output/Steps/14.jpg)
 
-Repeat step 9 for the other curve, but this time, fold the sheet in the other direction. 
+沿另外一条褶线重复步骤9，不过这次是将它向相反方向弯折。
 
 ---
 
@@ -190,8 +187,7 @@ Repeat step 9 for the other curve, but this time, fold the sheet in the other di
 
 ![](./Assets/Output/Steps/15.jpg)
 
-Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
-
+将松紧带与两个防滑固定夹连接。将连接好的防滑夹从面罩带孔向前穿出。
 
 
 
