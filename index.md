@@ -97,7 +97,7 @@ Are you a **maker / DIY enthusiast**? We have developed and documented a small n
 
 ---
 
-## 2. 🏥 Health Care Workers
+## 2. 🏥 Healthcare Workers
 
 ---
 
