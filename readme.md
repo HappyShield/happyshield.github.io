@@ -52,4 +52,4 @@ When you are ready for your work to be incorporated into the main repository:
 2. Add any helpful description along with your Pull Request to explain to others what you have added or changed to the text.
 3. Submit your Pull Request. 
 
-Auri will review and approve the pull request, and then merge these into the main repository, where they should be rendered on the live website within 3-5 minutes. 
+Auri (or whoever is managing the repository!) will review and approve the pull request, and then merge these into the main repository, where they should be rendered on the live website within 3-5 minutes. : ) 
