@@ -15,19 +15,31 @@ redirect_from:
 
 ---
 
-**What?** HappyShield is a new open-source design for a simple, foldable face shield for infection control for the Covid-19 pandemic. 
+# What? 
 
 ---
 
-**Why?** Healthcare workers need face shields in addition to masks and goggles to provide protection from splashes and sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. There is currently a significant global shortage of face shields globally, which is likely to be particularly severe in less wealthy regions without the ability to buy or manufacture necessary PPE as easily or quickly as wealthy countries. 
+HappyShield is a new open-source design for a simple, foldable face shield for infection control for the Covid-19 pandemic. 
 
 ---
 
-**How?** The aim of this project is to develop, disseminate, and mass-manufacture a design for a face shield which is safe, cheap, easy to mass-produce quickly using locally available materials and equipment, easy to reuse, and comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort.
+# Why?
 
 ---
 
-## Features
+Healthcare workers need face shields in addition to masks and goggles to provide protection from splashes and sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. There is currently a **significant shortage of face shields globally**, which is likely to be **particularly severe in less wealthy regions** without the ability to buy or manufacture necessary PPE as easily or quickly as wealthy countries. 
+
+---
+
+# How? 
+
+---
+
+The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are safe, cheap, easy to mass-produce quickly using locally available materials and equipment, easy to reuse, and comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded HappyShield, which successfully meets these design goals.
+
+---
+
+## HappyShield Features
 
 ---
 
@@ -39,7 +51,7 @@ redirect_from:
 
 ---
 
-* Form-fitting and adjustable geometry allowing for **comfortable wearing for extended periods**.   
+* Form-fitting and adjustable shape allowing for **comfortable wearing for extended periods**.   
 
 ---
 
@@ -47,7 +59,43 @@ redirect_from:
 
 ---
 
-## Instructions
+## Gallery
+
+---
+
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/810063" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+
+---
+---
+
+# How can I help? 
+
+---
+
+1. Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
+
+---
+
+2. Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
+
+---
+
+3. Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
+
+---
+
+4. Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions without the ability to buy or manufacture PPE as easily as wealthy countries. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
+
+---
+
+---
+
+# How-To
+
+---
+
+The following are the manufacturing pathways which have been developed for HappyShield and related face shields designs as part of this project.
 
 ---
 
@@ -60,29 +108,6 @@ redirect_from:
 | WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](./wave-shield/en/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |       |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
 
 ---
-
-## Gallery
-
----
-
-<script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/810063" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
-
----
-
----
-
-## How can I help? 
-
----
-
-1. Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
-
-2. Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
-
-3. Are you a **maker / DIY enthusiast**? We have developed and documented a few manufacturing pathways for HappyShield, but because of the simplicity of the design, we anticipate there being dozens of effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that manufacturers all over the world can ramp up production using materials and equipment that they already have! All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests encouraged!
-
-4. Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions without the ability to buy or manufacture PPE as easily as wealthy countries. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
 
 ---
 
