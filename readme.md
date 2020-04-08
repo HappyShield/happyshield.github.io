@@ -27,7 +27,9 @@ To translate (or edit an existing translation):
 
 ### Creating and Editing Translation Files
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/QILiHiTD3uc' frameborder='0' allowfullscreen></iframe></div>
+Watch our video explaining how to create and edit translations files for HappyShield.Github.io here!
+
+The instructions are also shown below: 
 
 ##### If the translation file already exists:
 
@@ -53,7 +55,11 @@ You can see this process explained nicely here! https://guides.github.com/activi
 
 ### Submitting a Pull Request for Your Translation
 
-When you are ready for your work to be incorporated into the main repository:
+When you are ready for your work to be incorporated into the main repository, you will submit a pull request, which is a request to have these changes incorporated into the live website.
+
+Watch our video explaining how to submit a pull request for your translations files for HappyShield.Github.io here! 
+
+The instructions are also shown below: 
 
 1. Click Create Pull Request
 2. Add any helpful description along with your Pull Request to explain to others what you have added or changed to the text.
