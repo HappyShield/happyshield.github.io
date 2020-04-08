@@ -81,7 +81,7 @@ Most especially, however, we are **currently seeking partnerships and collaborat
 
 ---
 
-## Manufacturers and Makers
+## 1. Manufacturers and Makers
 
 Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
 
@@ -99,13 +99,13 @@ Are you a **maker / DIY enthusiast**? We have developed and documented a small n
 
 ---
 
-## Health Care Workers
+## 2. Health Care Workers
 
 Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
 
 ---
 
-## Translators
+## 3. Translators
 
 ---
 
