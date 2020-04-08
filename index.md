@@ -79,7 +79,7 @@ We have **begun production of HappyShields in the UK**, and are hoping to **rapi
 
 Most especially, however, we are **currently seeking partnerships and collaborations** which can help us to disseminate the HappyShield design and related production methods to **less wealthy countries** and jump-start mass-production of face shields there as quickly as possible.
 
-Here's how you can help:
+**Here's how you can help:**
 
 ---
 
