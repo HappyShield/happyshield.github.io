@@ -105,7 +105,7 @@ Most especially, however, we are **currently seeking partnerships and collaborat
 
 ---
 
-The following are web, print, and instructions for the manufacturing pathways which have been developed for HappyShield and related face shields designs as part of this project. Template files are also included so that anyone is able to get started producing HappyShields straight away.
+The following are web, print, and video **instructions for the manufacturing methods** which have been developed for HappyShield and related face shields designs as part of this project. **Template files** are also included so that anyone is able to get started producing HappyShields straight away.
 
 ---
 
