@@ -1,4 +1,4 @@
-# happyshield.github.io Contribution Guide
+# HappyShield.GitGub.io Contribution Guide
 
 ## Translations
 
