@@ -35,11 +35,11 @@ Healthcare workers need face shields in addition to masks and goggles to provide
 
 ---
 
-The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are safe, cheap, easy to mass-produce quickly using locally available materials and equipment, easy to reuse, and comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded HappyShield, which successfully meets these design goals.
+The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are safe, cheap, easy to mass-produce quickly using locally available materials and equipment, easy to reuse, and comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded HappyShield, which successfully meets these design goals. The features of the HappyShield design are listed below.
 
 ---
 
-## HappyShield Features
+## Features
 
 ---
 
@@ -73,6 +73,14 @@ The aim of this project is to develop, disseminate, and mass-manufacture a set o
 
 ---
 
+We have begun production of HappyShields in the UK, and are hoping to rapidly expand our production and distribution capacity here. 
+
+Most especially, however, we are currently seeking partnerships and collaborations which can help us to disseminate the HappyShield design and related production methods to less wealthy countries and jump-start mass-production of face shields there as quickly as possible.
+
+Here's how you can help:
+
+---
+
 1. Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
 
 ---
@@ -85,7 +93,7 @@ The aim of this project is to develop, disseminate, and mass-manufacture a set o
 
 ---
 
-4. Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions without the ability to buy or manufacture PPE as easily as wealthy countries. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
+4. Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
 
 ---
 
