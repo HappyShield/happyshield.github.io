@@ -20,12 +20,14 @@ We hope to translate the following files in this website (XX is the [ISO 639-1 c
 
 Here's how to contribute translations!
 
-1. Create a free GitHub account. (If you use an academic email address)
+### 1. Create a Free GitHub Account
+
+1. Create a free GitHub account. (If you sign up using an academic email address you are eligible for a free 2-year upgrade to GitHub Pro, but this is not necessary for creating and editing translations to happyshield.github.io).
 2. Navigate to this repository, making sure that you are viewing the main version of the repository: "HappyShield/happyshield.github.io" 
 
 To translate (or edit an existing translation):
 
-### Creating and Editing Translation Files
+### 2. Create and Edit Translation Files
 
 Watch [our video explaining how to create and edit translations files for HappyShield.Github.io here!](https://youtu.be/XLiHhSyrW8A)
 
@@ -39,7 +41,7 @@ The instructions are also shown below:
 4. Add a description explaining the changes you have made.
 5. Commit the changes ("Propose File Change")
 
-You can see this process explained nicely here! https://guides.github.com/activities/hello-world/#commit
+You can also see this process explained nicely here! https://guides.github.com/activities/hello-world/#commit
 
 ##### If the translation file does not yet exist:
 
@@ -53,7 +55,7 @@ You can see this process explained nicely here! https://guides.github.com/activi
 8. Edit this text, replacing English with your translated text.
 7. If you want to save your progress at any point, commit the changes, and provide a description of the changed made since the previous commit.  
 
-### Submitting a Pull Request for Your Translation
+### 3. Submit a Pull Request for Your Translation
 
 When you are ready for your work to be incorporated into the main repository, you will submit a pull request, which is a request to have these changes incorporated into the live website.
 
