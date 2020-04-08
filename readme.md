@@ -20,11 +20,16 @@ We hope to translate the following files in this website (XX is the [ISO 639-1 c
 
 Here's how to contribute translations!
 
-1. Navigate to this repository, making sure that you are viewing the main version of the repository: "HappyShield/happyshield.github.io" 
+1. Create a free GitHub account. (If you use an academic email address)
+2. Navigate to this repository, making sure that you are viewing the main version of the repository: "HappyShield/happyshield.github.io" 
 
 To translate (or edit an existing translation):
 
-#### If the translation file already exists:
+### Creating and Editing Translation Files
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/QILiHiTD3uc' frameborder='0' allowfullscreen></iframe></div>
+
+##### If the translation file already exists:
 
 1. Navigate to the relevant file in this repository.
 2. Click "Edit this File"
@@ -34,7 +39,7 @@ To translate (or edit an existing translation):
 
 You can see this process explained nicely here! https://guides.github.com/activities/hello-world/#commit
 
-#### If the translation file does not yet exist:
+##### If the translation file does not yet exist:
 
 1. Navigate to the English version of the file (for example: `Instructions/HandCreasing/handCreasing_EN.md`) which you will be translating into another language. 
 2. Click the edit button.
@@ -45,6 +50,8 @@ You can see this process explained nicely here! https://guides.github.com/activi
 7. Paste.
 8. Edit this text, replacing English with your translated text.
 7. If you want to save your progress at any point, commit the changes, and provide a description of the changed made since the previous commit.  
+
+### Submitting a Pull Request for Your Translation
 
 When you are ready for your work to be incorporated into the main repository:
 
