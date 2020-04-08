@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hand Creasing
-tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i> <a href = "https://github.com/HappyShield/HappyShield/blob/master/TemplatesAndCNCFilesForScoringFoldingCutting/ShieldScoringFoldingCutting/DIYFromHome/SmileyFaceShieldCuttingTemplate_A4.pdf" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
+tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /hand-creasing/en/
 ---
 
@@ -14,9 +14,51 @@ permalink: /hand-creasing/en/
 
 ---
 
+---
+
+## Disclaimer
+
+---
+
+The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
+
+---
+
+--- 
+
+## Tools
+
+---
+
+* Scissors or razor blade
+* Ballpoint pen
+* Ruler
+* Butter Knife
+* Printer
+
+---
+
+## Materials
+
+---
+
+**Shield**
+
+* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
+* 20 mm wide knit elastic strap (70% polyester 30% rubber)
+* Tape
+
+---
+
+---
+
+# Instructions
+
+---
+
 # 1 
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_01.jpg)
+![](./Assets/Output/Steps/01.jpg)
 
 Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
 
@@ -24,7 +66,7 @@ Download your tracing template. A4-sized templates are available for A3-sized sh
 
 # 2
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_02.jpg)
+![](./Assets/Output/Steps/02.jpg)
 
 Place your transparent sheet on the template. Mark the location of the strap holes with your pen or marker. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
 
@@ -32,7 +74,7 @@ Place your transparent sheet on the template. Mark the location of the strap hol
 
 # 3
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_03.jpg)
+![](./Assets/Output/Steps/03.jpg)
 
 Trace out the boundary of the shield for cutting out. 
 
@@ -40,7 +82,7 @@ Trace out the boundary of the shield for cutting out.
 
 # 4
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_04.jpg)
+![](./Assets/Output/Steps/04.jpg)
 
 Cut the boundary shape of the shield out using scissors or a razor blade. Cut out the strap holes. You can use a hole-puncher as well to make these holes. 
 
@@ -58,7 +100,7 @@ Now, let’s score a smile on that face!
 
 # 5A
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_05.jpg)
+![](./Assets/Output/Steps/05.jpg)
 
 Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
 
@@ -66,7 +108,7 @@ Place your transparent sheet on the template. Fix with clips or tape for precise
 
 # 6A
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_06.jpg)
+![](./Assets/Output/Steps/06.jpg)
 
 Using a ruler, and applying pressure, trace the straight segments between each consecutive point, using 2-3 strokes as needed until you see a visible indentation in the sheet.
 
@@ -74,7 +116,7 @@ Using a ruler, and applying pressure, trace the straight segments between each c
 
 # 7A
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_07.jpg)
+![](./Assets/Output/Steps/07.jpg)
 
 Flip the transparent sheet.  Fix the sheet and the template again.
 
@@ -82,7 +124,7 @@ Flip the transparent sheet.  Fix the sheet and the template again.
 
 # 8A
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_08.jpg)
+![](./Assets/Output/Steps/08.jpg)
 
 Trace the second curve in the same way as in step **6A**.
 
@@ -94,7 +136,7 @@ Trace the second curve in the same way as in step **6A**.
 
 # 5B	
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_09.jpg)
+![](./Assets/Output/Steps/09.jpg)
 
 Trace the folding curves with a pen (no additional pressure is required here). If desired, fix the sheet to the template with clips or tape for more precise tracing.
 
@@ -102,7 +144,7 @@ Trace the folding curves with a pen (no additional pressure is required here). I
 
 # 6B
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_10.jpg)
+![](./Assets/Output/Steps/10.jpg)
 
 Find a 2-5 mm wide 2-3 mm deep channel at least 5 cm long on an immobile work surface or workpiece. Gaps between floorboards, segments of a dining table or kitchen countertop work well for this. Alternatively, make your own channel in a piece of wood or other material. Next, find a ballpoint pen or any other tool with a relatively dull end (any dull part of a butter knife, spoon, or chopstick can work here as well). 
 
@@ -112,7 +154,7 @@ Using one hand to move the sheet as you might a piece of fabric through a sewing
 
 # 7B
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_11.jpg)
+![](./Assets/Output/Steps/11.jpg)
 
 Flip the shield over.
 
@@ -120,7 +162,7 @@ Flip the shield over.
 
 # 8B
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_12.jpg)
+![](./Assets/Output/Steps/12.jpg)
 
 Repeat step 6B for the other crease curve.
 
@@ -128,7 +170,7 @@ Repeat step 6B for the other crease curve.
 
 # 9
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_13.jpg)
+![](./Assets/Output/Steps/13.jpg)
 
 Starting on end of the crease curve, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. If some segments do not fold easily, repeat the creasing procedure. 
 
@@ -137,7 +179,7 @@ Starting on end of the crease curve, and working your way to the other end of th
 
 # 10
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_14.jpg)
+![](./Assets/Output/Steps/14.jpg)
 
 Repeat step 9 for the other curve, but this time, fold the sheet in the other direction. 
 
@@ -145,17 +187,10 @@ Repeat step 9 for the other curve, but this time, fold the sheet in the other di
 
 # 11	
 
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_15.jpg)
+![](./Assets/Output/Steps/15.jpg)
 
 Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
 
----
-
-# 12 
-
-![](../assets/0_MD_Instruction Files/HS_DIY_Instructions/STEPS/HS_DYI_16.jpg)
-
-Clean the shield if necessary, and use. If preparing for transport, clean the shield, and pack into a sealable bag.
 
 
 

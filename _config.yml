@@ -2,7 +2,7 @@
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
-exclude: [".rvmrc", ".rbenv-version", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "Rakefile", "changelog.md","readme.md","disclaimer.md"]
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
@@ -22,6 +22,9 @@ production_url : happyshield.github.io
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
+
+plugins:
+  - jemoji
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -105,3 +108,4 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
