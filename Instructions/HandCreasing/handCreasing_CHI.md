@@ -43,7 +43,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ---
 
-**面罩**
+**护罩**
 
 * 0.5 毫米厚的PET聚酯塑片 或者至少是 醋酸纤维塑片 (Acetate sheet) 
 * 20 毫米宽的针织松紧带(70%聚酯，30%橡胶)
@@ -61,7 +61,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-下载临摹模板。A4大小(210毫米x297毫米)的模板用于制作A3大小(297毫米x420毫米)的面罩。信纸大小(Letter-sized,216毫米x279毫米)模板用于制作小报大小(Tabloid-sized,279毫米x432毫米)的面罩。如果没有打印机，可按模板上标注的尺寸自行绘制。
+下载临摹模板。A4大小(210毫米x297毫米)的模板用于制作A3大小(297毫米x420毫米)的护罩。信纸大小(Letter-sized,216毫米x279毫米)模板用于制作小报大小(Tabloid-sized,279毫米x432毫米)的护罩。如果没有打印机，可按模板上标注的尺寸自行绘制。
 
 ---
 
@@ -77,7 +77,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/03.jpg)
 
-按模板描边用于裁剪面罩。
+按模板描边用于裁剪护罩。
 
 ---
 
@@ -85,11 +85,11 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/04.jpg)
 
-用剪刀或刻刀沿描边裁出面罩的形状。按之前标记的位置抠剪或抠刻出松紧带孔。也可以用打孔器打孔。
+用剪刀或刻刀沿描边裁出护罩的形状。按之前标记的位置抠剪或抠刻出松紧带孔。也可以用打孔器打孔。
 
 接着，用刀刻出防滑固定夹(friction clips)。
 
-现在，我们可以在面罩上做“笑脸”了！
+现在，我们可以在护罩上做“笑脸”了！
 
 ---
 
@@ -110,7 +110,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/06.jpg)
 
-用直尺沿着圆点连接的直线（如图中加粗线）施加压力，多刮划几次直到面罩上出现肉眼可见的凹痕为止。
+用直尺沿着圆点连接的直线（如图中加粗线）施加压力，多刮划几次直到护罩上出现肉眼可见的凹痕为止。
 
 ---
 
@@ -138,7 +138,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/09.jpg)
 
-用笔在面罩上描出需要弯折的曲线（无须施加压力）。如果不好描准，可以用回形针或胶带对齐固定塑片和模板。
+用笔在护罩上描出需要弯折的曲线（无须施加压力）。如果不好描准，可以用回形针或胶带对齐固定塑片和模板。
 
 ---
 
@@ -188,7 +188,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/15.jpg)
 
-将松紧带与两个防滑固定夹连接。将连接好的防滑夹从面罩带孔向前穿出。
+将松紧带与两个防滑固定夹连接。将连接好的防滑夹从护罩带孔向前穿出。
 
 
 
