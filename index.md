@@ -11,9 +11,21 @@ redirect_from:
 
 ---
 
-{{page.language}}
-
 ![HappyShieldGif](./assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
+
+---
+
+**What?** HappyShield is a new open-source design for a simple, foldable face shield for infection control for the Covid-19 pandemic. 
+
+---
+
+**Why?** Healthcare workers need face shields in addition to masks and goggles to provide protection from splashes and sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. There is currently a significant global shortage of face shields globally, which is likely to be particularly severe in less wealthy regions without the ability to buy or manufacture necessary PPE as easily or quickly as wealthy countries. 
+
+---
+
+**How?** The aim of this project is to develop, disseminate, and mass-manufacture a design for a face shield which is safe, cheap, easy to mass-produce quickly using locally available materials and equipment, easy to reuse, and comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort.
+
+---
 
 ## Features
 
