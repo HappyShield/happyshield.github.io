@@ -44,7 +44,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 * 6-20毫米 木螺钉
 * 透明胶带
 
-**面罩**
+**护罩**
 
 * 0.5 毫米厚的PET聚酯塑片 或者至少是 醋酸纤维塑片 (Acetate sheet) 
 * 20 毫米宽的针织松紧带(70%聚酯，30%橡胶)
@@ -85,7 +85,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-## 面罩
+## 护罩
 
 ---
 
@@ -103,7 +103,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 按照模板文件激光切割透明塑片。注意调整激光切割机的功率和速度设定，确保其能够切穿整个塑片材料。
 
-切割后，从激光切割机上卸下得到的防护罩和防滑夹。如果需要，用酒精擦拭面罩和夹子的边缘，或用任何肥皂清洗，以除去塑片上的激光切割残留物。
+切割后，从激光切割机上卸下得到的防护罩和防滑夹。如果需要，用酒精擦拭护罩和夹子的边缘，或用任何肥皂清洗，以除去塑片上的激光切割残留物。
 
 
 --- 
@@ -129,4 +129,4 @@ Insert shield into the 3-part press jig and press to create the curved creases.
 
 ![](./Assets/Output/Steps/08.jpg)
 
-将连接好的防滑夹从面罩带孔向前穿出。
+将连接好的防滑夹从护罩带孔向前穿出。
