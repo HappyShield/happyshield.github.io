@@ -73,9 +73,7 @@ The aim of this project is to develop, disseminate, and mass-manufacture a set o
 
 ---
 
-We have **begun production of HappyShields in the UK**, and are hoping to **rapidly expand** our production and distribution capacity here. 
-
-Most especially, however, we are **currently seeking partnerships and collaborations** which can help us to disseminate the HappyShield design and related production methods to **less wealthy countries** and jump-start mass-production of face shields there as quickly as possible.
+We have **begun production of HappyShields in the UK**, and are hoping to **rapidly expand** our production and distribution capacity here. Most especially, however, we are **currently seeking partnerships and collaborations** which can help us to disseminate the HappyShield design and related production methods to **less wealthy countries** and jump-start mass-production of face shields there as quickly as possible.
 
 **Here's how you can help:**
 
@@ -101,6 +99,8 @@ Are you a **maker / DIY enthusiast**? We have developed and documented a small n
 
 ## 2. Health Care Workers
 
+---
+
 Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
 
 ---
@@ -111,7 +111,7 @@ Are you responsible for **procurement of PPE for healthcare workers** and do you
 
 Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
 
-
+---
 ---
 
 ## Disclaimer
