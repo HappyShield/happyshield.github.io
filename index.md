@@ -97,7 +97,7 @@ Are you a **maker / DIY enthusiast**? We have developed and documented a small n
 
 ---
 
-## 2. Health Care Workers
+## 2. 🏥 Health Care Workers
 
 ---
 
@@ -105,7 +105,7 @@ Are you responsible for **procurement of PPE for healthcare workers** and do you
 
 ---
 
-## 3. Translators
+## 3. 🌐 Translators
 
 ---
 
