@@ -14,6 +14,7 @@ redirect_from:
 ![HappyShieldGif](./assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
 
 ---
+---
 
 # What? 
 
@@ -58,6 +59,7 @@ The aim of this project is to develop, disseminate, and mass-manufacture a set o
 * **Fast, flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions.  
 
 ---
+---
 
 ## Gallery
 
@@ -73,9 +75,9 @@ The aim of this project is to develop, disseminate, and mass-manufacture a set o
 
 ---
 
-We have begun production of HappyShields in the UK, and are hoping to rapidly expand our production and distribution capacity here. 
+We have **begun production of HappyShields in the UK**, and are hoping to **rapidly expand** our production and distribution capacity here. 
 
-Most especially, however, we are currently seeking partnerships and collaborations which can help us to disseminate the HappyShield design and related production methods to less wealthy countries and jump-start mass-production of face shields there as quickly as possible.
+Most especially, however, we are **currently seeking partnerships and collaborations** which can help us to disseminate the HappyShield design and related production methods to **less wealthy countries** and jump-start mass-production of face shields there as quickly as possible.
 
 Here's how you can help:
 
