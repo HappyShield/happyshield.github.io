@@ -63,8 +63,9 @@ Watch [our video explaining how to submit a pull request for your translations f
 
 The instructions are also shown below: 
 
-1. Click Create Pull Request
-2. Add any helpful description along with your Pull Request to explain to others what you have added or changed to the text.
+1. Click Pull Request. 
+2. Click Create Pull Request
+3. Add any helpful description along with your Pull Request to explain to others what you have added or changed to the text.
 3. Submit your Pull Request. 
 
 Auri (or whoever is managing the repository!) will review and approve the pull request, and then merge these into the main repository, where they should be rendered on the live website within 3-5 minutes. : ) 
