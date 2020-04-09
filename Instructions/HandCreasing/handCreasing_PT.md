@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hand Creasing
+title: Decalque Manual
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /hand-creasing/en/
 ---
@@ -20,7 +20,7 @@ permalink: /hand-creasing/en/
 
 ---
 
-A Universidade de Cambrigde (UC) e a Universidade de Queensland (UQ) não fazem qualquer garantia, expressa ou implícita, sobre o design, características, durabilidade, uso e desempenho do HappyShield, incluindo mas não limitado às garantias implícitas da sua comercialização e aplicação para qualquer uso particular. O HappyShield está desenhado para minimizar a exposição a fluídos e sprays, mas a UC e a UQ não garantem que o HappyShield proteja os seus utilizadores da infeção por COVID-19 ou qualquer outra doença infeciosa. Nada nestas instruções constitui conselhos médicos, e os utilizadores devem procurar o seus próprios conselhos médicos sobre se o HappyShield é adequado para o uso pretendido, e se o devem utilizar em conjunto com outros dispositivos médicos e estratégias. Na extensão mais completa da lei, a UC e a UQ excluem todas as garantias implícitas, garantias, termos e condições. A UC e a UQ não se responsabilizam por quaisquer queixas, reivindicações, estragos ou acidentes, incluindo mas não limitado a estragos materiais, danos físicos ou doenças, morte, (“Reclamações”) indiretas, específicas ou consequenciais da utilização do HappyShield, e os utilizadores do HappyShield ilibam a UC e a UQ e os seus administradores, empregados, contratos e agentes de todas as reivindicações.
+A Universidade de Cambrigde (UC) e a Universidade de Queensland (UQ) não fazem qualquer garantia, expressa ou implícita, sobre o design, características, durabilidade, uso e desempenho do HappyShield, incluindo mas não limitado às garantias implícitas da sua comercialização e aplicação para qualquer uso particular. O HappyShield está desenhado para minimizar a exposição a fluídos e sprays, mas a UC e a UQ não garantem que o HappyShield proteja os seus utilizadores da infeção por COVID-19 ou qualquer outra doença infeciosa. Nada nestas instruções constitui conselhos médicos, e os utilizadores devem procurar o seus próprios conselhos médicos sobre se o HappyShield é adequado para o uso pretendido, e se o devem utilizar em conjunto com outros dispositivos médicos e estratégias. Na extensão mais completa da lei, a UC e a UQ excluem todas as garantias implícitas, garantias, termos e condições. A UC e a UQ não se responsabilizam por quaisquer queixas, reivindicações, estragos ou acidentes, incluindo mas não limitado a estragos materiais, danos físicos ou doenças, morte, “Reclamações” indiretas, específicas ou consequenciais da utilização do HappyShield, e os utilizadores do HappyShield ilibam a UC e a UQ e os seus administradores, empregados, contratos e agentes de todas as reivindicações.
 
 ---
 
@@ -172,7 +172,7 @@ Repida o passo 6B para a outra curva dobrável.
 
 ![](./Assets/Output/Steps/13.jpg)
 
-Começando numa ponta da curva dobrável, e lentamente até à outra ponta, aperte gentilmente a folha para a dobrar ou longo da curva. Se alguns segmentos não dobrarem fácilmente, repita o precesso de decalque. 
+Começando numa ponta da curva dobrável, e lentamente até à outra ponta, aperte gentilmente a folha para a dobrar ao longo da curva. Se alguns segmentos não dobrarem fácilmente, repita o precesso de decalque. 
 
 
 ---
