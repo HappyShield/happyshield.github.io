@@ -189,7 +189,7 @@ Repita o passo 9 para a outra curva, mas desta vez, dobre a folha na direção c
 
 ![](./Assets/Output/Steps/15.jpg)
 
-Passe o elástico pelos clipes de fricção. Passe os clipes de fricção pelos orifífios na viseira de trás para a frente.
+Passe o elástico pelos clipes de fricção. Passe os clipes de fricção pelos orifícios na viseira de trás para a frente.
 
 
 
