@@ -3,6 +3,7 @@ layout: page
 title: Hand Creasing
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /hand-creasing/th/
+language: th
 ---
 
 <i class="em em-timer_clock" aria-role="presentation" aria-label=""></i>: 10-15′
@@ -20,9 +21,7 @@ permalink: /hand-creasing/th/
 
 ---
 
-
-มหาวิทยาลัยเคมบริดจ์ (UC) และมหาวิทยาลัยควีนส์แลนด์ (UQ) ไม่รับประกันใด ๆ ไม่ว่าโดยชัดแจ้งหรือโดยนัยเกี่ยวกับการออกแบบลักษณะความทนทานการใช้งานที่เหมาะสมหรือประสิทธิภาพของ Happy Shield รวมถึง แต่ไม่ จำกัด เพียงการรับประกันโดยนัยของ การค้าและความเหมาะสมสำหรับวัตถุประสงค์เฉพาะใด ๆ Happy Shield ออกแบบมาเพื่อลดการสัมผัสของเหลวและสเปรย์ให้น้อยที่สุด แต่ UC และ UQ ไม่รับประกันว่า Happy Shield จะปกป้องผู้ใช้จากการติดเชื้อ COVID-19 หรือโรคติดเชื้ออื่น ๆ ไม่มีสิ่งใดในเอกสารนี้ที่มีคำแนะนำทางการแพทย์และผู้ใช้ควรขอคำแนะนำทางการแพทย์ของตนเองว่า Happy Shield เหมสมกับการใช้งานที่พวกเขาต้องการหรือไม่และควรใช้ร่วมกับกลยุทธ์ทางการแพทย์อื่น ๆ หรือไม่ ตามขอบเขตสูงสุดที่กฎหมายอนุญาต UC และ UQ ไม่รวมการรับประกันการรับประกันข้อกำหนดและเงื่อนไขโดยนัยทั้งหมด UC และ UQ จะไม่รับผิดชอบต่อการเรียกร้องความต้องการความเสียหายหรือการบาดเจ็บใด ๆ รวมถึง แต่ไม่ จำกัด เฉพาะความเสียหายของทรัพย์สินการบาดเจ็บทางร่างกายหรือการเจ็บป่วยความตายทางอ้อมความเสียหายพิเศษหรือความเสียหายอื่น ๆ ที่เกิดขึ้น (“ การเรียกร้อง”) และผู้ใช้ Happy Shield จะเปิดตัว UC และ UQ รวมถึงเจ้าหน้าที่พนักงานผู้รับเหมาและตัวแทนจากการเรียกร้องทั้งหมด
-
+The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
 
 ---
 
