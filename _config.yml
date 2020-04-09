@@ -25,6 +25,7 @@ markdown: kramdown
 
 plugins:
   - jemoji
+  - jekyll-redirect-from
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
