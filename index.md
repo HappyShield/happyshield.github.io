@@ -2,7 +2,7 @@
 layout: page
 title: HappyShield
 tagline: Curved Crease Origami Face Shield For Infection Control
-permalink: /test/
+permalink: /en/
 language: en
 redirect_from: /
 ---
