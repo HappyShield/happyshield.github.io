@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Decalque Manual
+title: Vincar Manualmente
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /hand-creasing/en/
 ---
@@ -60,7 +60,7 @@ A Universidade de Cambrigde (UC) e a Universidade de Queensland (UQ) não fazem 
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Descarrege o modelo de decalque. Modelos de tamanho A4 estão disponíveis para viseiras de tamanho A3. Modelos de tamanho "tipo carta" estão disponíveis para viseiras de tamanho "tipo tablóide". Se não tiver acesso a uma impressora, pode desenhar o seu próprio modelo usando as dimensões ilustradas acima.
+Descarrege o modelo de vinco. Modelos de tamanho A4 estão disponíveis para viseiras de tamanho A3. Modelos de tamanho "tipo carta" estão disponíveis para viseiras de tamanho "tipo tablóide". Se não tiver acesso a uma impressora, pode desenhar o seu próprio modelo usando as dimensões ilustradas acima.
 
 ---
 
@@ -110,7 +110,7 @@ Coloque a folha transparente em cima do modelo. Fixe com clips ou fita adesiva p
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Usando a régua, e aplicando pressão, decalque as linhas entre cada ponto consecutivo, usando 2-3 golpes até ser visível um vinco na folha.
+Usando a régua, e aplicando pressão, vinque as linhas entre cada ponto consecutivo, usando 2-3 golpes até ser visível um vinco na folha.
 
 ---
 
@@ -148,7 +148,7 @@ Trace as curvas dobráveis com a caneta (aqui não é necessária pressão adici
 
 Encontre uma ranhura de 2-5 mm de largura, 2-3 mm de profundidade e pelo menos 5 cm de comprimento numa superfície imóvel ou mesa de trabalho. Ranhuras entre tábuas de chão, segmentos de uma mesa de jantar ou balcão de cozinha funcionam bem para este método. Alternativamente, faça a sua prórpia ranhura num pedaço de madeira ou outro material. Em seguida, utilize a caneta esferográfica ou outra ferramenta com uma ponta não cortante (faca de manteiga, colher ou pauzinho de comida chinesa podem resultar também). 
 
-Usando uma mão mova a folha como se tratasse de um pedaço de tecido numa máquina de costura, use a outra mão para repetidamente percorrer a ferramenta de decalque sobre a superfície do material ao longo da ranhura, seguindo uma das curvas dobráveis que traçou.
+Usando uma mão mova a folha como se tratasse de um pedaço de tecido numa máquina de costura, use a outra mão para repetidamente percorrer a ferramenta de vinco sobre a superfície do material ao longo da ranhura, seguindo uma das curvas dobráveis que traçou.
 
 ---
 
@@ -172,7 +172,7 @@ Repida o passo 6B para a outra curva dobrável.
 
 ![](./Assets/Output/Steps/13.jpg)
 
-Começando numa ponta da curva dobrável, e lentamente até à outra ponta, aperte gentilmente a folha para a dobrar ao longo da curva. Se alguns segmentos não dobrarem fácilmente, repita o precesso de decalque. 
+Começando numa ponta da curva dobrável, e lentamente até à outra ponta, aperte gentilmente a folha para a dobrar ao longo da curva. Se alguns segmentos não dobrarem fácilmente, repita o precesso de vinco. 
 
 
 ---
