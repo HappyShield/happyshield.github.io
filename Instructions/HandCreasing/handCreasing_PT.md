@@ -16,43 +16,43 @@ permalink: /hand-creasing/en/
 
 ---
 
-## Disclaimer
+## Aviso Legal
 
 ---
 
-The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
+A Universidade de Cambrigde (UC) e a Universidade de Queensland (UQ) não fazem qualquer garantia, expressa ou implícita, sobre o design, características, durabilidade, uso e desempenho do HappyShield, incluindo mas não limitado às garantias implícitas da sua comercialização e aplicação para qualquer uso particular. O HappyShield está desenhado para minimizar a exposição a fluídos e sprays, mas a UC e a UQ não garantem que o HappyShield proteja os seus utilizadores da infeção por COVID-19 ou qualquer outra doença infeciosa. Nada nestas instruções constitui conselhos médicos, e os utilizadores devem procurar o seus próprios conselhos médicos sobre se o HappyShield é adequado para o uso pretendido, e se o devem utilizar em conjunto com outros dispositivos médicos e estratégias. Na extensão mais completa da lei, a UC e a UQ exclui todas as garantias implícitas, garantias, termos e condições. A UC e a UQ não se responsabilizam por quaisquer queixas, reivindicações, estragos ou acidentes, incluindo mas não limitado a estragos materiais, danos físicos ou doenças, morte, (“Reclamações”) indiretas, específicas ou consequenciais da utilização do HappyShield, e os utilizadores do HappyShield ilibam a UC e a UQ e os seus administradores, empregados, contratos e agentes de todas as reivindicações.
 
 ---
 
 --- 
 
-## Tools
+## Ferramentas
 
 ---
 
-* Scissors or razor blade
-* Ballpoint pen
-* Ruler
-* Butter Knife
-* Printer
+* Tesoura ou lâmina de corte
+* Caneta esferográfica
+* Régua
+* Faca de manteiga
+* Impressora
 
 ---
 
-## Materials
+## Materiais
 
 ---
 
-**Shield**
+**Viseira**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-* Tape
-
----
+* Polietileno tereftalato (PET) com 0,5 mm de espessura ou como alternativa uma folha de acetato 
+* Fita elástica larga de 20 mm (70% poliéster 30% borracha)
+* Fita adesiva
 
 ---
 
-# Instructions
+---
+
+# Instruções
 
 ---
 
@@ -60,7 +60,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
+Descarrege o modelo de decalque. Modelos de tamanho A4 estão disponíveis para viseiras de tamanho A3. Modelos de tamanho "tipo carta" estão disponíveis para viseiras de tamanho "tipo tablóide". Se não tiver acesso a uma impressora, pode desenhar o seu próprio modelo usando as dimensões ilustradas acima.
 
 ---
 
@@ -68,7 +68,7 @@ Download your tracing template. A4-sized templates are available for A3-sized sh
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Place your transparent sheet on the template. Mark the location of the strap holes with your pen or marker. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
+Coloque a folha transparente em cima do modelo. Marque a localização dos furos de cinta com a caneta ou marcador. Não se preocupe com a tinta, pode ser removida posteriormente com um pano embebido em álcool.  
 
 ---
 
@@ -76,7 +76,7 @@ Place your transparent sheet on the template. Mark the location of the strap hol
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Trace out the boundary of the shield for cutting out. 
+Trace os limites da viseira para cortar. 
 
 ---
 
@@ -84,17 +84,17 @@ Trace out the boundary of the shield for cutting out.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Cut the boundary shape of the shield out using scissors or a razor blade. Cut out the strap holes. You can use a hole-puncher as well to make these holes. 
+Corte os limites da viseira usando a tesoura ou a lâmina de corte. Corte os furos de cinta. Também pode usar um furador para fazer estes furos. 
 
-Next, cut out the friction clips using a razor blade.
+Em seguida, corte os clipes de fricção usando a lâmina de corte.
 
-Now, let’s score a smile on that face!
+Agora, vamos desenhar um sorriso!
 
 ---
 
 
 
-## Creasing Method A
+## Método de Decalque A
 
 ---
 
@@ -102,7 +102,7 @@ Now, let’s score a smile on that face!
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
+Coloque a folha transparente em cima do modelo. Fixe com clips ou fita adesiva para um traçado mais preciso.
 
 ---
 
@@ -110,7 +110,7 @@ Place your transparent sheet on the template. Fix with clips or tape for precise
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Using a ruler, and applying pressure, trace the straight segments between each consecutive point, using 2-3 strokes as needed until you see a visible indentation in the sheet.
+Usando a régua, e aplicando pressão, decalque as linhas entre cada ponto consecutivo, usando 2-3 golpes até ser visivel um vinco na folha.
 
 ---
 
@@ -118,7 +118,7 @@ Using a ruler, and applying pressure, trace the straight segments between each c
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Flip the transparent sheet.  Fix the sheet and the template again.
+Vire a folha transparente.  Fixe a folha e o modelo novamente.
 
 ---
 
@@ -126,11 +126,11 @@ Flip the transparent sheet.  Fix the sheet and the template again.
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Trace the second curve in the same way as in step **6A**.
+Trace a segunda curva da mesma forma que no passo **6A**.
 
 ---
 
-## Creasing Method B
+## Método de Decalque B
 
 ---
 
@@ -138,7 +138,7 @@ Trace the second curve in the same way as in step **6A**.
 
 ![](./Assets/Output/Steps/09.jpg)
 
-Trace the folding curves with a pen (no additional pressure is required here). If desired, fix the sheet to the template with clips or tape for more precise tracing.
+Trace as curvas dobráveis com a caneta (aqui não é necessária pressão adicional). Se desejar, fixe a folha ao modelo com clipes ou fita adesiva para um traçado mais preciso.
 
 ---
 
