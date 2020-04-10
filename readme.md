@@ -92,7 +92,11 @@ language: <b>en</b>
 ---
 </pre>
 
-Please translate the `title` field, and update the `permalink` and `language` fields to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
+When translating instructions files please:
+
+1. Translate the `title` field
+2. Update the `permalink` field to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
+3. Update the `language` field to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
 
 For example, for Portguese ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)=`PT`), this would result in:
 
@@ -113,9 +117,9 @@ language: <b>pt</b>
 When translating the header for `index_XX.md`, please:
 
 1. Translate the `tagline` field.
-2. Update the `permalink` field.
-3. Update the `language` field. 
-4. Remove the `redirect_from` field. 
+2. Update the `permalink` field to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
+3. Update the `language` field to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
+3. Remove the `redirect_from` field. 
 
 (No need to translate the title "HappyShield"!) : )
 
