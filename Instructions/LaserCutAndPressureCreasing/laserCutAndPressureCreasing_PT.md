@@ -41,7 +41,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 * MDF de 4 mm
 * Cabo de aço com 1 mm   
-* Parafusos de mandeira de 6-20 mm
+* Parafusos de madeira de 6-20 mm
 * Fita adesiva transparente
 
 **Viseira**
@@ -74,7 +74,7 @@ Descarregue o modelo da estrutura de 3 peças para a prensa com as dimensões ap
 ![](./Assets/Output/Steps/02.jpg)
 
 Remova a estrutura de 3 peças para a prensa do cortador a laser. Corte o cabo de aço com o comprimento das curvas dobráveis das partes A e C do modelo.
-Com a fita adesiva, prenda o cabo de aço na ranhura da curva dobrável das partes A e C da estutura da prensa, garantindo que o cabo de aço não se desvia da curva dobrável, nem se estende para além da mesma. 
+Com a fita adesiva, prenda o cabo de aço na ranhura da curva dobrável das partes A e C da estrutura da prensa, garantindo que o cabo de aço não se desvia da curva dobrável, nem se estende para além da mesma. 
 
 ---
 
@@ -94,7 +94,7 @@ Junte a parte B ao topo da parte A usando parafusos de madeira curtos. Junte a c
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Descarregue o modelo da viseira com as dimensões apropriadas para a o seu cortador a laser. (As dimensãoes dos modelos de corte estão descritas no mome do ficheiro.)
+Descarregue o modelo da viseira com as dimensões apropriadas para a o seu cortador a laser. (As dimensões dos modelos de corte estão descritas no mome do ficheiro.)
 
 ---
 
@@ -102,7 +102,7 @@ Descarregue o modelo da viseira com as dimensões apropriadas para a o seu corta
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Corte a leaser a folha transparente usando o modelo do ficheiro, assegurando que as configurações da potência e velocidade do cortador a laser são as indicadas para cortar completamente o material na sua profundidade. 
+Corte a laser a folha transparente usando o modelo do ficheiro, assegurando que as configurações da potência e velocidade do cortador a laser são as indicadas para cortar completamente o material na sua profundidade. 
 
 Uma vez cortado, remova a viseira e os clipes de fricção do cortador a laser. Se desejar, limpe as margens da viseira e dos clipes de fricção com álcool, ou lave com água e sabão para remover quaisquer resíduos do cortador a laser. 
 
