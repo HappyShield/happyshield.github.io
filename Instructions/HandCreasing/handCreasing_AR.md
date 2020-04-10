@@ -17,20 +17,13 @@ language: ar
 
 ---
 
-## Disclaimer
+## إخلاء مسؤولية (Disclaimer)
 
 ---
 
 The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
 
 ---
-
-## إخلاء مسؤولية 
-ترجمة غير رسمية 
-لا تقدم جامعة كامبريدج (UC) وجامعة كوينزلاند (UQ) أي ضمان من أي نوع ، صريحًا أو ضمنيًا ، بشأن التصميم أو الخصائص أو المتانة أو الاستخدام السليم أو أداء HappyShield ، بما في ذلك على سبيل المثال لا الحصر ضمانات لـ القابلية للتسويق والتقديم لأي غرض معين. تم تصميم HappyShield لتقليل التعرض للسوائل والمبخات ، لكن UC و UQ لا تضمنان أن HappyShield سيحمي المستخدمين من عدوى COVID-19 أو أي مرض معدي آخر. لا يوجد أي شيء في هذا المنتج مما يشكل نصيحة طبية ، ويجب على المستخدمين طلب المشورة الطبية الخاصة بهم حول ما إذا كان HappyShield مناسبًا للاستخدام الذي ينوون القيام به ، وما إذا كان يجب عليهم استخدامه جنبًا إلى جنب مع أي استراتيجيات طبية أو استراتيجيات أخرى. إلى أقصى حد يسمح به القانون ، تستبعد شركة UC و UQ جميع الضمانات الأحكام الخاصة بها. لا تتحمل جامعتي UC و UQ مسؤولية أي مطالبات أو مطالب بأضرار أو إصابات ، بما في ذلك على سبيل المثال لا الحصر ، أضرار الممتلكات أو الإصابة أو المرض الجسدي أو الوفاة أو الأضرار غير المباشرة أو الخاصة أو الناشئة عن استخدام HappyShield ، يعفو مستخدمي  HappyShield   جامعة كامبريدج وجامعة كوينزلاند  مع موظفيهم والمقاولين والوكلاء من جميع المطالبات.
-
----
-
 
 --- 
 
