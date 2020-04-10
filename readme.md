@@ -4,8 +4,6 @@
 
 ### Introduction
 
----
-
 Thank you so much for your help translating the HappyShield website and instructions!
 
 We hope to translate the following files in this website (`XX` is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language): 
@@ -18,11 +16,7 @@ We hope to translate the following files in this website (`XX` is the [ISO 639-1
 * Instructions/WaveShield/waveShield_<b>XX</b>.md <i>(WaveShield production method instructions) </i>
 </pre>
 
----
-
 ### Instructions
-
----
 
 Here's how to contribute translations!
 
@@ -33,15 +27,12 @@ Here's how to contribute translations!
 
 To translate (or edit an existing translation):
 
----
-
 ### 2. Create and Edit Translation Files
 
 Watch [our video explaining how to create and edit translations files for HappyShield.Github.io here!](https://youtu.be/XLiHhSyrW8A)
 
 The instructions are also shown below: 
 
----
 
 ##### If the translation file already exists:
 
@@ -53,7 +44,7 @@ The instructions are also shown below:
 
 You can also see this process explained nicely here! https://guides.github.com/activities/hello-world/#commit
 
----
+
 
 ##### If the translation file does not yet exist:
 
@@ -67,7 +58,7 @@ You can also see this process explained nicely here! https://guides.github.com/a
 8. Edit this text, replacing English with your translated text.
 7. If you want to save your progress at any point, commit the changes, and provide a description of the changed made since the previous commit.  
 
----
+
 
 #### What should I translate? 
 
@@ -85,7 +76,7 @@ Please translate the following files from English (EN), into your language:
 
 When translating these files, please also modify the "header" of the file to correspond to your language:
 
----
+
 
 **Translating Instructions Files**
 
@@ -115,7 +106,7 @@ language: <b>pt</b>
 ---
 </pre>
 
----
+
 
 **Translating Homepage File**
 
@@ -153,7 +144,7 @@ language: <b>lt</b>
 ---
 </pre>
 
----
+
 
 ### 3. Submit a Pull Request for Your Translation
 
