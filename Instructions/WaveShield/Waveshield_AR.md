@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: WaveSHIELD
-tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/a7HmViDaAvk"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
+tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/9PSss8W73v0"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /wave-shield/ar/
 language: ar
 textdirection: rtl
