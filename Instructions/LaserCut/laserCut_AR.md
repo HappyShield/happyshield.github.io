@@ -4,6 +4,7 @@ title: القص بالليزر
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /laser-cut/ar/
 language: ar
+dir: rtl
 ---
 
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
@@ -21,7 +22,6 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ---
 
-<div dir="rtl">
 
 ## إخلاء مسؤولية 
 ترجمة غير رسمية
@@ -87,6 +87,4 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 مرر الشريط من خلال مستطيلات التثبيت. مرر المستطيلات عبر الفتحات الموجودة في غطاء من الجانب الخلفي إلى الأمام.
 
-
-</div>
 
