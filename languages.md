@@ -1,11 +1,9 @@
 ---
 layout: page
-title: 🌐Languages
+title: 🌐
 permalink: /languages/
 language: 
 ---
-
-## 🌐
 
 [EN](../en)
 [ZH](../zh/)
