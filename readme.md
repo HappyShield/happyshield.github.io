@@ -98,6 +98,40 @@ language: <b>pt</b>
 ---
 </pre>
 
+When translating the header for `index_XX.md`, please:
+
+1. Translate the `tagline` field.
+2. Update the `permalink` field.
+3. Update the `language` field. 
+4. Remove the `redirect_from` field. 
+
+(No need to translate the title "HappyShield"!) : )
+
+So for example, the header in the English version of the homepage (`index.md`) looks like this to begin with: 
+
+<pre>
+---
+layout: page
+title: HappyShield
+tagline: <b>Curved Crease Origami Face Shield For Infection Control</b>
+permalink: /<b>en</b>/
+language: <b>en</b>
+redirect_from: /
+---
+</pre>
+
+After translating to Lithuanian (`LT`) for example, the header should look like this: 
+
+<pre>
+---
+layout: page
+title: HappyShield
+tagline: <b>Origami Veido Skydai Infekcijos Kontrolei</b>
+permalink: /<b>lt</b>/
+language: <b>lt</b>
+---
+</pre>
+
 
 ### 3. Submit a Pull Request for Your Translation
 
