@@ -6,7 +6,7 @@
 
 Thank you so much for your help translating the HappyShield website and instructions!
 
-We hope to translate the following files in this website (XX is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language): 
+We hope to translate the following files in this website (`XX` is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language): 
 
 <pre>
 * index_<b>XX</b>.md <i>(Homepage)</i>
@@ -70,9 +70,9 @@ Please translate the following files from English (EN), into your language:
 * Instructions/WaveShield/waveShield_<b>XX</b>.md <i>(WaveShield production method instructions) </i>
 </pre>
 
-When translating these files, please also modify the header of the file to correspond to your language.
+When translating these files, please also modify the "header" of the file to correspond to your language:
 
-For example, if we are translating `Instructions/HandCreasing/handCreasing_XX.md` the header we would see to begin with would be:
+For example, if we are translating `Instructions/HandCreasing/handCreasing_EN.md` the header we would see to begin with would be:
 
 <pre>
 ---
