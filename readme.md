@@ -55,6 +55,48 @@ You can also see this process explained nicely here! https://guides.github.com/a
 8. Edit this text, replacing English with your translated text.
 7. If you want to save your progress at any point, commit the changes, and provide a description of the changed made since the previous commit.  
 
+#### What should I translate? 
+
+Please translate the following files from English (EN), into your language: 
+
+(Please note that because index.md is the English version of the homepage. When creating your translation for this page, please name your file `index_XX.md` where `XX` is your languages's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).)
+
+```
+* index.md (Homepage)
+* Instructions/HandCreasing/handCreasing_XX.md (Hand creasing method instructions)
+* Instructions/LaserCut/laserCut_XX.md (Laser-cut method instructions)
+* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_XX.md (Laser-cut and pressure-creasing method instructions)
+* Instructions/WaveShield/waveShield_XX.md (WaveShield production method instructions)
+```
+
+When editing these files, please modify the header of the file to correspond to your language.
+
+For example, if we are translating `Instructions/HandCreasing/handCreasing_XX.md` the header we would see to begin with would be:
+
+```
+---
+layout: page
+title: Hand Creasing
+tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
+permalink: /hand-creasing/en/
+language: en
+---
+```
+
+Please translate the `title` field, and update the `permalink` and `language` fields to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
+
+For example, for Portguese (ISO 639-1=`PT`), this would result in:
+
+```
+---
+layout: page
+title: Vincar Manualmente
+tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
+permalink: /hand-creasing/pt/
+language: pt
+---
+```
+
 ### 3. Submit a Pull Request for Your Translation
 
 When you are ready for your work to be incorporated into the main repository, you will submit a pull request, which is a request to have these changes incorporated into the live website.
