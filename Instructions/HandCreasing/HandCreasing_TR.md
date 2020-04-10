@@ -17,7 +17,7 @@ language: en
 
 ---
 
-## Disclaimer
+## Feragatname
 
 ---
 
@@ -28,33 +28,33 @@ Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın t
 
 --- 
 
-## Tools
+## Araçlar
 
 ---
 
-* Scissors or razor blade
-* Ballpoint pen
-* Ruler
-* Butter Knife
-* Printer
+* Makas ya da maket bıçağı
+* Tükenmez kalem
+* Cetvel
+* Yemek bıçağı
+* Yazıcı
 
 ---
 
-## Materials
+## Malzemeler
 
 ---
 
-**Shield**
+**Siperlik**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-* Tape
-
----
+* 0.5 mm kalınlığında polietilen tereftalat (PET) ya da asetat kağıdı 
+* 20 mm genişliğinde elastik kayış (70% polyester 30% kauçuk)
+* Bant
 
 ---
 
-# Instructions
+---
+
+# Talimatlar
 
 ---
 
@@ -62,7 +62,7 @@ Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın t
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
+Kopyalama şablonunu indirin. A4 boyutundaki şablonlar A3 boyutundaki siperlikler içindir. Letter boyutundaki şablonlar Tabloid boyutundaki siperlikler içindir. Eğer yazıcıya erişim imkanınız yoksa, şablonda gösterilen boyutlara göre kendi şablonunuzu çizebilirsiniz.
 
 ---
 
@@ -70,7 +70,7 @@ Download your tracing template. A4-sized templates are available for A3-sized sh
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Place your transparent sheet on the template. Mark the location of the strap holes with your pen or marker. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
+Şeffaf levhayı şablonun üzerine yerleştirin. Kaleminizle kayış deliklerini işaretleyin. Mürekkep konusunda endişelenmeyin, alkol damlatılmış bir parça bezle çıkarılabilir. 
 
 ---
 
@@ -78,7 +78,7 @@ Place your transparent sheet on the template. Mark the location of the strap hol
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Trace out the boundary of the shield for cutting out. 
+Kesmek için siperliğin sınırlarının üzerinden geçin. 
 
 ---
 
@@ -86,17 +86,17 @@ Trace out the boundary of the shield for cutting out.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Cut the boundary shape of the shield out using scissors or a razor blade. Cut out the strap holes. You can use a hole-puncher as well to make these holes. 
+Makas veya maket bıçağı yardımıyla siperliğin dış sınırlarını kesin. Kayış deliklerini kesip çıkartın. Bunun için bir delgeç de kullanabilirsiniz.
 
-Next, cut out the friction clips using a razor blade.
+Daha sonra maket bıçağı yardımıyla kayış tutacaklarını çıkartın.
 
-Now, let’s score a smile on that face!
+Şimdi o surata bir gülücük yerleştirelim!
 
 ---
 
 
 
-## Creasing Method A
+## Katlama Yöntemi A
 
 ---
 
@@ -104,7 +104,7 @@ Now, let’s score a smile on that face!
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
+Şeffaf levhanızı şablonun üzerine yerleştirin. İzleri düzgün takip edebilmek için klips ya da bantla sabitleyin.
 
 ---
 
@@ -112,7 +112,7 @@ Place your transparent sheet on the template. Fix with clips or tape for precise
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Using a ruler, and applying pressure, trace the straight segments between each consecutive point, using 2-3 strokes as needed until you see a visible indentation in the sheet.
+Bir cetvel kullanarak ve basınç uygulayarak, sayfada görünür bir girinti görene kadar gerekirse 2-3 defa üstünden geçerek birbirini izleyen her nokta arasındaki düz parçaların üzerinden geçin.
 
 ---
 
@@ -120,7 +120,7 @@ Using a ruler, and applying pressure, trace the straight segments between each c
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Flip the transparent sheet.  Fix the sheet and the template again.
+Şeffaf levhayı ters çevirin. Şablonu levhaya tekrar sabitleyin.
 
 ---
 
@@ -128,11 +128,11 @@ Flip the transparent sheet.  Fix the sheet and the template again.
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Trace the second curve in the same way as in step **6A**.
+İkinci eğrinin üzerinden de **6A** adımında olduğu gibi geçin.
 
 ---
 
-## Creasing Method B
+## Katlama Yöntemi B
 
 ---
 
@@ -140,7 +140,7 @@ Trace the second curve in the same way as in step **6A**.
 
 ![](./Assets/Output/Steps/09.jpg)
 
-Trace the folding curves with a pen (no additional pressure is required here). If desired, fix the sheet to the template with clips or tape for more precise tracing.
+Tükenmez kalemle katlama eğrilerinin üzerinden geçin (burda ek basınç uygulamaya gerek yoktur). İsterseniz levhayı şablona klips ya da bant yardımıyla sabitleyebilirsiniz.
 
 ---
 
@@ -148,9 +148,9 @@ Trace the folding curves with a pen (no additional pressure is required here). I
 
 ![](./Assets/Output/Steps/10.jpg)
 
-Find a 2-5 mm wide 2-3 mm deep channel at least 5 cm long on an immobile work surface or workpiece. Gaps between floorboards, segments of a dining table or kitchen countertop work well for this. Alternatively, make your own channel in a piece of wood or other material. Next, find a ballpoint pen or any other tool with a relatively dull end (any dull part of a butter knife, spoon, or chopstick can work here as well). 
+Sabit bir çalışma yüzeyi ya da malzeme üzerinde en az 5 cm uzunluğunda 2-5 mm genişliğinde 2-3 mm derinliğinde bir oluk bulun. Döşeme tahtalarının ya da yemek masasının veya mutfak tezgahının birleşen parçaları arasındaki boşluklar işe yarayabilir. Alternatif olarak, kendi oluğunuzu bir parça tahta veya başka bir malzemeyle yapabilirsiniz. Ardından, bir tükenmez kalem veya nispeten küt bir uca sahip başka bir araç bulun (yemek bıçağının, kaşık veya çatalın herhangi bir küt kısmı iş görür).
 
-Using one hand to move the sheet as you might a piece of fabric through a sewing machine, use the other hand to repeatedly run the tool over the surface of the material over the channel, following one of the crease curves you have traced.
+Bir elinizle dikiş makinesinde bir parça bezi ilerletir gibi levhayı hareket ettirirken, öteki elinizle çizdiğiniz eğrilerden birini bulduğunuz araçla takip ederek tekrar tekrar oluğun üzerinden geçin. 
 
 ---
 
@@ -158,7 +158,7 @@ Using one hand to move the sheet as you might a piece of fabric through a sewing
 
 ![](./Assets/Output/Steps/11.jpg)
 
-Flip the shield over.
+Levhayı ters çevirin.
 
 ---
 
@@ -166,7 +166,7 @@ Flip the shield over.
 
 ![](./Assets/Output/Steps/12.jpg)
 
-Repeat step 6B for the other crease curve.
+6B adımını diğer eğri için tekrar edin.
 
 ---
 
@@ -174,7 +174,7 @@ Repeat step 6B for the other crease curve.
 
 ![](./Assets/Output/Steps/13.jpg)
 
-Starting on end of the crease curve, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. If some segments do not fold easily, repeat the creasing procedure. 
+Katlama eğrisinin bir ucundan başlayıp eğrinin diğer ucuna doğru ilerleyerek, eğri boyunca katlamak için levhayı yavaşça sıkıştırın. Bazı kısımlar kolayca katlanmıyorsa, katlama prosedürünü tekrarlayın. 
 
 
 ---
@@ -183,7 +183,7 @@ Starting on end of the crease curve, and working your way to the other end of th
 
 ![](./Assets/Output/Steps/14.jpg)
 
-Repeat step 9 for the other curve, but this time, fold the sheet in the other direction. 
+9. adımı diğer eğri için tekrar edin ancak bu sefer levhayı öteki yönde katlayın. 
 
 ---
 
@@ -191,7 +191,7 @@ Repeat step 9 for the other curve, but this time, fold the sheet in the other di
 
 ![](./Assets/Output/Steps/15.jpg)
 
-Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
+Kayışı tutacaklardan geçirin. Tutacakları siperliğin arka tarafından ön tarafına doğru deliklerden içeri sokun.
 
 
 
