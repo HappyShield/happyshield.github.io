@@ -1,10 +1,10 @@
 ﻿---
 layout: page
-dir: rtl
 title: الحز اليدوي
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/a7HmViDaAvk"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /hand-creasing/ar/
 language: ar
+textdirection: rtl
 ---
 
 <i class="em em-timer_clock" aria-role="presentation" aria-label=""></i>: 10-15′
