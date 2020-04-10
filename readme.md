@@ -59,7 +59,7 @@ You can also see this process explained nicely here! https://guides.github.com/a
 
 Please translate the following files from English (EN), into your language: 
 
-(Please note that because index.md is the English version of the homepage. When creating your translation for this page, please name your file `index_XX.md` where `XX` is your languages's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).)
+(Please note that because `index.md` is the English version of the homepage. When creating your translation for this page, please name your file `index_XX.md` where `XX` is your languages's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).)
 
 ```
 * index.md (Homepage)
@@ -69,19 +69,19 @@ Please translate the following files from English (EN), into your language:
 * Instructions/WaveShield/waveShield_XX.md (WaveShield production method instructions)
 ```
 
-When editing these files, please modify the header of the file to correspond to your language.
+When translating these files, please also modify the header of the file to correspond to your language.
 
 For example, if we are translating `Instructions/HandCreasing/handCreasing_XX.md` the header we would see to begin with would be:
 
-```
+<pre>
 ---
 layout: page
-title: Hand Creasing
+title: <b>Hand Creasing</b>
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
-permalink: /hand-creasing/en/
-language: en
+permalink: /hand-creasing/<b>en</b>/
+language: <b>en</b>
 ---
-```
+</pre>
 
 Please translate the `title` field, and update the `permalink` and `language` fields to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
 
