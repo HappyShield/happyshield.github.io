@@ -94,7 +94,7 @@ Cortes os círculos. Se tiver, pode usar um furador de pele ou de papel.
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Fixe com fita adesiva o centro da faixa 1 e 2, confira a forma M que as duas faixas formam quando os círculos estão alinhados. Deve ficar simétrico.
+Fixe com fita adesiva o centro da faixa 1 e 2, confira a forma M que as duas faixas formam quando os círculos estão alinhados. Deve ficar simétrica.
 
 ---
 
