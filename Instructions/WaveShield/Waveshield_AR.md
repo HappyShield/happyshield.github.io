@@ -20,6 +20,8 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ---
 
+<div dir="rtl">
+
 ---
 
 ## إخلاء مسؤولية 
@@ -124,6 +126,8 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 كرر في الجانب المقابل. 
 
 ---
+
+</div>
 
 
 
