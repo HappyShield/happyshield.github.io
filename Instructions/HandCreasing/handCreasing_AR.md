@@ -112,6 +112,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 ![](./Assets/Output/Steps/06.jpg)
 
 باستخدام القلم والمسطرة قم بحز الورقة راسما الخطوط المستقيمة والتي تشكل المنحني وذلك بالضغط على القلم. للقيام بالحز, ربما تحتاج لتعليم الخط ثلاث او اربع مرات.
+
 ---
 
 # 7A
@@ -125,6 +126,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 # 8A
 
 ![](./Assets/Output/Steps/08.jpg)
+
 
  تتبع المنحنى الثاني بنفس الطريقة كما في الخطوة  قبل السابقة
 
