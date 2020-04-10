@@ -77,7 +77,7 @@ For example, if we are translating `Instructions/HandCreasing/handCreasing_XX.md
 ---
 layout: page
 title: <b>Hand Creasing</b>
-tagline: 📹 &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
+tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /hand-creasing/<b>en</b>/
 language: <b>en</b>
 ---
@@ -87,15 +87,16 @@ Please translate the `title` field, and update the `permalink` and `language` fi
 
 For example, for Portguese (ISO 639-1=`PT`), this would result in:
 
-```
+<pre>
 ---
 layout: page
-title: Vincar Manualmente
+title: <b>Vincar Manualmente</b>
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href="https://youtu.be/8RvlrtrebBE"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
-permalink: /hand-creasing/pt/
-language: pt
+permalink: /hand-creasing/<b>pt</b>/
+language: <b>pt</b>
 ---
-```
+</pre>
+
 
 ### 3. Submit a Pull Request for Your Translation
 
