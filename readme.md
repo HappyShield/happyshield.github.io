@@ -86,7 +86,7 @@ language: <b>en</b>
 
 Please translate the `title` field, and update the `permalink` and `language` fields to the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language.
 
-For example, for Portguese (ISO 639-1=`PT`), this would result in:
+For example, for Portguese ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)=`PT`), this would result in:
 
 <pre>
 ---
