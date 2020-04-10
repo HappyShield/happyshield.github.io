@@ -6,8 +6,8 @@ permalink: /languages/
 
 ## 🌐
 
-[EN](../)
-[ZH](../tr/)
-[AR](../tr/)
-[TH](../tr/)
-[PT](../tr/)
+[EN](../en)
+[ZH](../zh/)
+[AR](../ar/)
+[TH](../th/)
+[PT](../pt/)
