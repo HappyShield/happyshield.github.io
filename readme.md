@@ -152,7 +152,7 @@ language: <b>lt</b>
 
 ### 3. Submit a Pull Request for Your Translation
 
-When you are ready for your work to be incorporated into the main repository, you will submit a pull request, which is a request to have these changes incorporated into the live website.
+When you are ready for your work to be incorporated into the main repository, you will submit a **"Pull request"**, which is a request to have these changes incorporated into the live website.
 
 Watch [our video explaining how to submit a pull request for your translations files for HappyShield.Github.io here!](https://youtu.be/eBnob0MgYTU) 
 
