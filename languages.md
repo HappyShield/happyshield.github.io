@@ -4,6 +4,10 @@ title: <i class="em em-globe_with_meridians" aria-role="presentation" aria-label
 permalink: /languages/
 ---
 
+## 🌐
 
 [EN](../)
-[TR](../tr/)
+[ZH](../tr/)
+[AR](../tr/)
+[TH](../tr/)
+[PT](../tr/)
