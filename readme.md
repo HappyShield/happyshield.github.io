@@ -63,11 +63,11 @@ Please translate the following files from English (EN), into your language:
 (Please note that the English version of the homepage (`index.md`) has no `_EN` ending. When creating your translation for this page, please name your new, translated copy of the home page `index_XX.md` where `XX` is your languages's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).)
 
 <pre>
-* index_<b>XX</b>.md (Homepage)
-* Instructions/HandCreasing/handCreasing_<b>XX</b>.md (Hand creasing method instructions)
-* Instructions/LaserCut/laserCut_<b>XX</b>.md (Laser-cut method instructions)
-* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_<b>XX</b>.md (Laser-cut and pressure-creasing method instructions)
-* Instructions/WaveShield/waveShield_<b>XX</b>.md (WaveShield production method instructions)
+* index_<b>XX</b>.md <i>(Homepage)</i>
+* Instructions/HandCreasing/handCreasing_<b>XX</b>.md <i>(Hand creasing method instructions)</i>
+* Instructions/LaserCut/laserCut_<b>XX</b>.md <i>(Laser-cut method instructions)</i>
+* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_<b>XX</b>.md  <i>(Laser-cut and pressure-creasing method instructions) </i>
+* Instructions/WaveShield/waveShield_<b>XX</b>.md <i>(WaveShield production method instructions) </i>
 </pre>
 
 When translating these files, please also modify the header of the file to correspond to your language.
