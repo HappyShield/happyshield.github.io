@@ -8,13 +8,14 @@ Thanks for your help translating the HappyShield website and instructions!
 
 We hope to translate the following files in this website (XX is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language): 
 
-```
-* index_XX.md (Homepage)
-* Instructions/HandCreasing/handCreasing_XX.md (Hand creasing method instructions)
-* Instructions/LaserCut/laserCut_XX.md (Laser-cut method instructions)
-* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_XX.md (Laser-cut and pressure-creasing method instructions)
-* Instructions/WaveShield/waveShield_XX.md (WaveShield production method instructions)
-```
+<pre>
+* index_<b>XX</b>.md (Homepage)
+* Instructions/HandCreasing/handCreasing_<b>XX</b>.md (Hand creasing method instructions)
+* Instructions/LaserCut/laserCut_<b>XX</b>.md (Laser-cut method instructions)
+* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_<b>XX</b>.md (Laser-cut and pressure-creasing method instructions)
+* Instructions/WaveShield/waveShield_<b>XX</b>.md (WaveShield production method instructions)
+</pre>
+
 
 ### Instructions
 
@@ -59,15 +60,15 @@ You can also see this process explained nicely here! https://guides.github.com/a
 
 Please translate the following files from English (EN), into your language: 
 
-(Please note that because `index.md` is the English version of the homepage. When creating your translation for this page, please name your file `index_XX.md` where `XX` is your languages's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).)
+(Please note that the English version of the homepage (`index.md`) has no `_EN` ending. When creating your translation for this page, please name your new, translated copy of the home page `index_XX.md` where `XX` is your languages's [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).)
 
-```
-* index.md (Homepage)
-* Instructions/HandCreasing/handCreasing_XX.md (Hand creasing method instructions)
-* Instructions/LaserCut/laserCut_XX.md (Laser-cut method instructions)
-* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_XX.md (Laser-cut and pressure-creasing method instructions)
-* Instructions/WaveShield/waveShield_XX.md (WaveShield production method instructions)
-```
+<pre>
+* index_<b>XX</b>.md (Homepage)
+* Instructions/HandCreasing/handCreasing_<b>XX</b>.md (Hand creasing method instructions)
+* Instructions/LaserCut/laserCut_<b>XX</b>.md (Laser-cut method instructions)
+* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_<b>XX</b>.md (Laser-cut and pressure-creasing method instructions)
+* Instructions/WaveShield/waveShield_<b>XX</b>.md (WaveShield production method instructions)
+</pre>
 
 When translating these files, please also modify the header of the file to correspond to your language.
 
