@@ -4,7 +4,7 @@ title: القص بالليزر
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /laser-cut/ar/
 language: ar
-dir: rtl
+textdirection: rtl
 ---
 
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
