@@ -4,6 +4,7 @@ title: WaveSHIELD
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href=""><i class="em em-video_camera" aria-role="" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /wave-shield/ar/
 language: ar
+dir: rtl
 ---
 
 <i class="em em-timer_clock" aria-role="presentation" aria-label=""></i>: 10-15′
