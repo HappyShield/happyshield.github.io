@@ -56,7 +56,7 @@ You can also see this process explained nicely here! https://guides.github.com/a
 6. Click create new file, and choose the appropriate name: `Instructions/HandCreasing/handCreasing_TR.md` for "Hand Creasing" instructions in Turkish (TR), for example.
 7. Paste.
 8. Edit this text, replacing English with your translated text.
-7. If you want to save your progress at any point, commit the changes, and provide a description of the changed made since the previous commit.  
+7. If you want to save your progress at any point, commit the changes, and provide a description of the changes made since the previous commit.  
 
 
 
