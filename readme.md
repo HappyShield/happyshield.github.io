@@ -4,16 +4,16 @@
 
 ### Introduction
 
-Thanks for your help translating the HappyShield website and instructions!
+Thank you so much for your help translating the HappyShield website and instructions!
 
 We hope to translate the following files in this website (XX is the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the language): 
 
 <pre>
-* index_<b>XX</b>.md (Homepage)
-* Instructions/HandCreasing/handCreasing_<b>XX</b>.md (Hand creasing method instructions)
-* Instructions/LaserCut/laserCut_<b>XX</b>.md (Laser-cut method instructions)
-* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_<b>XX</b>.md (Laser-cut and pressure-creasing method instructions)
-* Instructions/WaveShield/waveShield_<b>XX</b>.md (WaveShield production method instructions)
+* index_<b>XX</b>.md <i>(Homepage)</i>
+* Instructions/HandCreasing/handCreasing_<b>XX</b>.md <i>(Hand creasing method instructions)</i>
+* Instructions/LaserCut/laserCut_<b>XX</b>.md <i>(Laser-cut method instructions)</i>
+* Instructions/LaserCutAndPressureCreasing/laserCutAndPressureCreasing_<b>XX</b>.md  <i>(Laser-cut and pressure-creasing method instructions) </i>
+* Instructions/WaveShield/waveShield_<b>XX</b>.md <i>(WaveShield production method instructions) </i>
 </pre>
 
 
@@ -23,8 +23,8 @@ Here's how to contribute translations!
 
 ### 1. Create a Free GitHub Account
 
-1. Create a free GitHub account. (If you sign up using an academic email address you are eligible for a free 2-year upgrade to GitHub Pro, but this is not necessary for creating and editing translations to happyshield.github.io).
-2. Navigate to this repository, making sure that you are viewing the main version of the repository: "HappyShield/happyshield.github.io" 
+1. If you don't have one already, [create a free GitHub account](https://github.com/join). (If you sign up using an academic email address you are eligible for a free 2-year upgrade to GitHub Pro, but this is not necessary for creating and editing translations to happyshield.github.io).
+2. Navigate to [this repository](https://github.com/HappyShield/happyshield.github.io), making sure that you are viewing the main version of the repository: "HappyShield/happyshield.github.io" 
 
 To translate (or edit an existing translation):
 
