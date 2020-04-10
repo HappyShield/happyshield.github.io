@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Laser-Cut 
+title: เลเซอร์คัท
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
-permalink: /laser-cut/en/
+permalink: /laser-cut/th/
 ---
 
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
@@ -20,29 +20,29 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-## Tools
+## เครื่องมือ
 
 ---
 
-* Laser-cutter
-* Scissors or razor blade
+* เครื่องตัดเลเซอร์
+* กรรไกรหรือใบมีดโกน
 
 ---
 
-## Materials
+## วัสดุ
 
 ---
 
-**Shield**
+**หน้ากาก**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-
----
+* แผ่นพลาสติกใส Polyethylene terephthalate (PET) หรือแผ่นอะซิเตท หนาอย่างน้อย 0.5 มิลลิเมตร
+* สายยางยืดถักกว้าง 20 มม. (70% โพลีเอสเตอร์ 30% ยาง)
 
 ---
 
-# Instructions
+---
+
+# คำแนะนำ
 
 ---
 
@@ -50,7 +50,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Laser-cut the clear plastic sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+ใช้เลเซอร์ตัดวัสดุแผ่นพลาสติกใสโดยใช้ไฟล์แม่แบบ โดยต้องมั่นใจว่าการตั้งค่าพลังงานและความเร็วของเครื่อง มีความเหมาะสม และสามารถตัดแผ่นพลาสติกใสที่มีความหนาตามที่ต้องการได้
 
 ---
 
@@ -58,7 +58,7 @@ Laser-cut the clear plastic sheet material using the template file, ensuring tha
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Starting on end of one of the crease curves, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. 
+ไล่พับตามรอบพับ จากมุมด้านหนึ่งไปยังมุมอีกด้านหนึ่ง จนหมดแนวโค้ง
 
 --- 
 
@@ -66,7 +66,7 @@ Starting on end of one of the crease curves, and working your way to the other e
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Fold the second curve using the same procedure as in Step 2.
+พับเส้นโค้งที่สองโดยใช้ขั้นตอนเดียวกับในขั้นตอนที่ 2
 
 ---
 
@@ -74,6 +74,6 @@ Fold the second curve using the same procedure as in Step 2.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
+ร้อยยางยืดจากด้านหลังของหน้ากากไปด้านหน้าของหน้ากาก แล้วใช้คลิปหนีบไว้
 
 
