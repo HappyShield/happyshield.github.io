@@ -5,4 +5,4 @@ permalink: /languages/
 language: 
 ---
 
-# [EN](../en) [ZH](../zh/) [AR](../ar/) [TH](../th/) [PT](../pt/)
+# [EN](../en) [AR](../ar/)  [PT](../pt/) [TH](../th/) [TR](../tr/) [ZH](../zh/) 
