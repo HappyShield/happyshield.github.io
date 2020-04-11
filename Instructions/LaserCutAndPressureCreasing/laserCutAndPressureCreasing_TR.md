@@ -65,28 +65,27 @@ Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın t
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Laser kesicinizin yatağına uyacak 3 parçalı baskı Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) Laser-cut the MDF using the template file.
+Lazer kesicinizin yatağına uyacak 3 parçalı baskı şablonunu sitemizden indirin. (Baskı şablonlarının ölçüleri dosya isimlerinde belirtilmiştir.) MDF'yi şablonu kullanarak kesin.
 
 ---
-
 # 2
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Remove the 3 parts of the press jig from the laser-cutter. Cut the wire rope to the length of the dashed curves in parts A and C of the template.
-Tape the metal wire onto the dashed curve the groove of the parts A and C of the press jig, being sure not to deviate from the dashed curve, and not to extend beyond the ends of the dashed curve. 
+Baskı şablonunun 3 parçasını lazer kesiciden çıkarın. Çelik kabloyu şablonun A ve C kısımlarındaki kesikli çizgili eğrilerin uzunluğunda kesin. Çelik kabloyu baskı şablonunun A ve C kısımlarındaki çizgili eğrilerin olukları boyunca bantlayın. Çizgili eğrinin hizasından taşmadığınızdan ve eğrinin bittiği yerde bitirdiğinizden emin olun.
+
+
 
 ---
-
 # 3
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Attach Part B to top A using short wood screws. Attach the combined Part A and B to a block as needed to distribute pressure evenly across the jig surface. Do the same for Part C.
+B parçasını A parçasının üstüne gelecek şekilde ahşap vidalarla birleştirin. Birleştirilmiş A ve B parçalarını şablon yüzeyinde basıncı eşit yayması için bir bloğa ekleyin. C parçası için de aynısını yapın.
+
 
 --- 
-
-## Shield
+## Siperlik
 
 ---
 
@@ -94,7 +93,7 @@ Attach Part B to top A using short wood screws. Attach the combined Part A and B
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Download the HappyShield laser-cutting template which fits in the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.)
+Lazer kesicinizin yatağına uyacak şablonu sitemizden indirin. (Baskı şablonlarının ölçüleri dosya isimlerinde belirtilmiştir.)D
 
 ---
 
@@ -102,9 +101,9 @@ Download the HappyShield laser-cutting template which fits in the bed of your la
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Laser-cut the clear plastic sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+Şeffaf plastik levhayı şablonu kullanarak lazer kesiciyle kesin. Lazer kesici güç ve hız ayarlarının malzemeyi derinliğince tamamen kesecek şekilde ayarlandığından emin olun. 
 
-Once cut, remove the resulting shields and friction clips from the laser-cutter bed. If desired, wipe the edges of the shields and clips with alcohol, or wash with any soap to remove any laser-cutting residues from the sheet. 
+Kesilmiş siperlikleri ve sıkıştırma klipslerini lazer kesicinin yatağından çıkarın. Isterseniz, lazer kesim artıklarını gidermek için siperliklerin ve klipslerin köşelerini alkolle silebilir ya da sabunla yıkayabilirsiniz. 
 
 --- 
 
@@ -112,7 +111,7 @@ Once cut, remove the resulting shields and friction clips from the laser-cutter 
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Insert shield into the 3-part press jig and press to create the curved creases.
+Siperliği 3 parçalı baskı şablonuna yerleştirin ve eğrili katlarmaları oluşturmak için bastırın.
 
 ---
 
@@ -120,7 +119,7 @@ Insert shield into the 3-part press jig and press to create the curved creases.
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Cut a 400 mm length of elastic strap. Thread the strap through the friction clips on both ends.
+400 mm uzunluğunda bir elastik bant kesin. Bantın 2 ucunu sıkıştırma klipslerinden geçirin.
 
 ---
 
@@ -128,4 +127,4 @@ Cut a 400 mm length of elastic strap. Thread the strap through the friction clip
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Pass the threaded friction clips through the holes in the shield from back to front. 
+Dişli klipsleri sperliğin üzerindeki deliklerden arkadan öne doğru geçirin. 
