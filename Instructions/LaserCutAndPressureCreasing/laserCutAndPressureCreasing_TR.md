@@ -93,7 +93,7 @@ B parçasını A parçasının üstüne gelecek şekilde ahşap vidalarla birle�
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Lazer kesicinizin yatağına uyacak şablonu sitemizden indirin. (Baskı şablonlarının ölçüleri dosya isimlerinde belirtilmiştir.)D
+Lazer kesicinizin yatağına uyacak şablonu sitemizden indirin. (Baskı şablonlarının ölçüleri dosya isimlerinde belirtilmiştir.)
 
 ---
 
