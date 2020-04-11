@@ -26,7 +26,7 @@ HappyShield, Covid-19 salgını bağlamında enfeksiyon kontrolüne yönelik **b
 
 ---
 
-Sağlık çalışanları, yüksek riskli tıbbi prosedürler ve durumlar sırasında Covid-19 hastalarının enfekte vücut sıvılarının sıçramalarına ve püskürmelerine karşı koruma sağlamak için maskelere ve gözlüklere ek olarak yüz kalkanlarına ihtiyaç duyarlar. Şu anda **dünya genelinde önemli bir yüz siperi sıkıntısı var**. Bu durum, varlıklı ülkeler kadar kolay ya da çabuk şekilde gerekli Kişisel Koruyucu Ekipmanı (KKE) satın alma veya üretme imkanı olmayan  **daha az varlıklı bölgelerde daha ciddi seyredebilir.** 
+Sağlık çalışanları, yüksek riskli tıbbi prosedürler ve durumlar sırasında Covid-19 hastalarının enfekte vücut sıvılarının sıçramalarına ve püskürmelerine karşı koruma sağlamak için maskelere ve gözlüklere ek olarak yüz siperliklerine ihtiyaç duyarlar. Şu anda **dünya genelinde önemli bir yüz siperliği sıkıntısı var**. Bu durum, varlıklı ülkeler kadar kolay ya da çabuk şekilde gerekli Kişisel Koruyucu Ekipmanı (KKE) satın alma veya üretme imkanı olmayan  **daha az varlıklı bölgelerde daha ciddi seyredebilir.** 
 
 ---
 
@@ -34,7 +34,7 @@ Sağlık çalışanları, yüksek riskli tıbbi prosedürler ve durumlar sıras�
 
 ---
 
-Bu projenin amacı,  **güvenli**, **ucuz**, **az ve orta gelirli bölgelerde bulunan malzeme, ekipman ve işçilik** hızlıca kullanılarak **seri üretilmesi kolay**, **yeniden kullanımı kolay** ve sağlık çalışanları tarafından ağrı veya rahatsızlık yaratmadan uzun süre giyilebilecek kadar **rahat** yüz siperleri için bir dizi tasarım geliştirmek, yaymak ve seri üretmektir. Bu projenin ilk aşaması olan bir prototip tasarımın geliştirilmesi, bu tasarım hedeflerini başarıyla karşılayan **HappyShield** ile sonuçlanmıştır. HappyShield tasarımının özellikleri aşağıda listelenmiştir:
+Bu projenin amacı,  **güvenli**, **ucuz**, **az ve orta gelirli bölgelerde bulunan malzeme, ekipman ve işçilik** hızlıca kullanılarak **seri üretilmesi kolay**, **yeniden kullanımı kolay** ve sağlık çalışanları tarafından ağrı veya rahatsızlık yaratmadan uzun süre giyilebilecek kadar **rahat** yüz siperlikleri için bir dizi tasarım geliştirmek, yaymak ve seri üretmektir. Bu projenin ilk aşaması olan bir prototip tasarımın geliştirilmesi, bu tasarım hedeflerini başarıyla karşılayan **HappyShield** ile sonuçlanmıştır. HappyShield tasarımının özellikleri aşağıda listelenmiştir:
 
 ---
 
@@ -83,9 +83,9 @@ Bu projenin amacı,  **güvenli**, **ucuz**, **az ve orta gelirli bölgelerde bu
 
 ## 1. 🏭 Üreticiler ve Makerlar
 
-Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
+**Lazer kesici, masa üstü hidrolik pres, kalıp kesme makinesine erişim**'iniz ya da bunları kullanan kurum ya da işletmelerle bağlantınız var mı? Olabildiğince hızlı bir şekilde **Happyshield seri üretimine yerel olarak başlamanıza** yardımcı olabilmek için [iletişime geçmeyi çok isteriz](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing).
 
-Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways (shown below) for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
+**Maker / DIY meraklısı** mısınız? HappyShield için az sayıda çeşitli üretim yolları (aşağıda gösterilmiştir) geliştirdik ve belgeledik, ancak tasarımın basitliği nedeniyle, bunları yerel olarak mevcut malzemeler, ekipman ve işçilik kullanarak üretmenin birçok etkili yolu olduğunu öngörüyoruz. Dünya çapındaki makerların ve üreticilerin halihazırda sahip oldukları malzeme ve ekipmanları kullanarak üretimi artırabilmeleri için **bu yeni yöntemleri geliştirmek ve belgelemek** için yardımınıza ihtiyacımız var. Bütün [belgelerimiz](https://github.com/HappyShield/happyshield.github.io) ve [şablon dosyalarımız](https://github.com/HappyShield/HappyShield) açık kaynak olarak GitHub'da erişime açık. Pull request'leri teşvik ediyoruz!
 
 ---
 
@@ -99,23 +99,23 @@ Are you a **maker / DIY enthusiast**? We have developed and documented a small n
 
 ---
 
-## 2. 🏥 Healthcare Workers
+## 2. 🏥 Sağlık Çalışanları
 
 ---
 
-Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
+**Sağlık çalışanları için KKD tedariki**nden mi sorumlusunuz ve yüz siperliklerine ihtiyaç duyulduğunu mu tahmin ediyorsunuz (veya bu kriterleri karşılayan birini mi tanıyorsunuz)? Sizi sizin için yerel olarak HappyShield üretebilecek üreticilerle [iletişime geçirmeyi çok isteriz](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare). Gerekli herhangi bir test ve onay için **5-10 HappyShield içeren bir paket**i size hemen gönderebiliriz.
 
 ---
 
-## 3. 🌐 Translators
+## 3. 🌐 Çevirmenler
 
 ---
 
-Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
+Teknik olarak İngilizce dışında bir dilde rahat yazabilir misiniz? Bu tasarımların ve üretim yöntemlerinin dünyada, özellikle de daha az varlıklı bölgelerde, mümkün olduğunca çok insana ulaşabilmesi için **ana sayfamızı, talimatlarımızı ve video altyazılarımızı** mümkün olduğunca çok dile çevirmek için yardımınıza ihtiyacımız var.  **Çevirmenlik için lütfen [buradan](https://forms.gle/9vHc2FbVvhA7nnZM7)** kayıt olunuz. Şu anda çevirmenlere ihtiyaç duyduğumuz bir dili konuşuyorsanız, sizinle iletişime geçeceğiz! 
 
 ---
 
-#### 🙏 **_Thank you and looking forward to connecting!_**
+#### 🙏 **_Teşekkürler ve iletişime geçmek için sabırsızlanıyoruz!_**
 
 ---
 ---
@@ -128,7 +128,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-#### Project Credits
+#### Katkıda Bulunanlar
 
 University of Cambridge, Department of Architecture  
 Centre for Natural Material Innovation
