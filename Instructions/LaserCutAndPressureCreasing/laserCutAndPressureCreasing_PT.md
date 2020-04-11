@@ -37,27 +37,27 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ---
 
-**3-Part Press Jig**
+**Estrutura de 3 partes para a prensa**
 
-* 4 mm MDF
-* 1 mm steel wire rope   
-* 6-20 mm wood screws
-* Clear plastic tape
+* MDF de 4 mm
+* Cabo de aço com 1 mm   
+* Parafusos de madeira de 6-20 mm
+* Fita adesiva transparente
 
-**Shield**
+**Viseira**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-
----
+* Polietileno tereftalato (PET) com 0,5 mm de espessura ou como alternativa uma folha de acetato
+* Fita elástica larga de 20 mm (70% poliéster 30% borracha)
 
 ---
 
-# Instructions
+---
+
+# Instruções
 
 ---
 
-## 3-Part Press Jig 
+## Estrutura de 3 peças para a prensa
 
 ---
 
@@ -65,7 +65,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) Laser-cut the MDF using the template file.
+Descarregue o modelo da estrutura de 3 peças para a prensa com as dimensões apropriadas para a o seu cortador a laser. (As dimensões dos modelos de corte estão descritas no nome do ficheiro.) Corte a laser o MDF usando o modelo do ficheiro.
 
 ---
 
@@ -73,8 +73,8 @@ Download the laser-cutting template for the 3-part press jig which fits the bed 
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Remove the 3 parts of the press jig from the laser-cutter. Cut the wire rope to the length of the dashed curves in parts A and C of the template.
-Tape the metal wire onto the dashed curve the groove of the parts A and C of the press jig, being sure not to deviate from the dashed curve, and not to extend beyond the ends of the dashed curve. 
+Remova a estrutura de 3 peças para a prensa do cortador a laser. Corte o cabo de aço com o comprimento das curvas dobráveis das partes A e C do modelo.
+Com a fita adesiva, prenda o cabo de aço na ranhura da curva dobrável das partes A e C da estrutura da prensa, garantindo que o cabo de aço não se desvia da curva dobrável, nem se estende para além da mesma. 
 
 ---
 
@@ -82,11 +82,11 @@ Tape the metal wire onto the dashed curve the groove of the parts A and C of the
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Attach Part B to top A using short wood screws. Attach the combined Part A and B to a block as needed to distribute pressure evenly across the jig surface. Do the same for Part C.
+Junte a parte B ao topo da parte A usando parafusos de madeira curtos. Junte a combinação das partes A e B a um bloco distribuindo a pressão uniformemente pela superfície da estrutura. Faça o mesmo para a parte C.
 
 --- 
 
-## Shield
+## Viseira
 
 ---
 
@@ -94,7 +94,7 @@ Attach Part B to top A using short wood screws. Attach the combined Part A and B
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Download the HappyShield laser-cutting template which fits in the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.)
+Descarregue o modelo da viseira com as dimensões apropriadas para a o seu cortador a laser. (As dimensões dos modelos de corte estão descritas no mome do ficheiro.)
 
 ---
 
@@ -102,9 +102,9 @@ Download the HappyShield laser-cutting template which fits in the bed of your la
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Laser-cut the clear plastic sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+Corte a laser a folha transparente usando o modelo do ficheiro, assegurando que as configurações da potência e velocidade do cortador a laser são as indicadas para cortar completamente o material na sua profundidade. 
 
-Once cut, remove the resulting shields and friction clips from the laser-cutter bed. If desired, wipe the edges of the shields and clips with alcohol, or wash with any soap to remove any laser-cutting residues from the sheet. 
+Uma vez cortado, remova a viseira e os clipes de fricção do cortador a laser. Se desejar, limpe as margens da viseira e dos clipes de fricção com álcool, ou lave com água e sabão para remover quaisquer resíduos do cortador a laser. 
 
 --- 
 
@@ -112,7 +112,7 @@ Once cut, remove the resulting shields and friction clips from the laser-cutter 
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Insert shield into the 3-part press jig and press to create the curved creases.
+Insira a viseira na estrutura de três partes da prensa e prense para criar as curvas dobráveis. 
 
 ---
 
@@ -120,7 +120,7 @@ Insert shield into the 3-part press jig and press to create the curved creases.
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Cut a 400 mm length of elastic strap. Thread the strap through the friction clips on both ends.
+Corte 400 mm de comprimento de fita elástica. Passe as duas pontas do elástico pelos clipes de fricção.
 
 ---
 
@@ -128,5 +128,5 @@ Cut a 400 mm length of elastic strap. Thread the strap through the friction clip
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Pass the threaded friction clips through the holes in the shield from back to front. 
+Passe os clipes de fricção pelos orifícios na viseira de trás para a frente 
 
