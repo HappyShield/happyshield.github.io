@@ -50,7 +50,7 @@ Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın t
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Şeffaf plastik levhayı şablonu kullanarak lazer kesiciyle kesin. Lazer kesici güç ve hız ayarlarının malzemeyi derinliğince tamamen kesecek şekilde ayarladığından emin olun. 
+Şeffaf plastik levhayı şablonu kullanarak lazer kesiciyle kesin. Lazer kesici güç ve hız ayarlarının malzemeyi derinliğince tamamen kesecek şekilde ayarlandığından emin olun. 
 
 
 ---
