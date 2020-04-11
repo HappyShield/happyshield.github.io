@@ -18,11 +18,11 @@ language: tr
 
 ---
 
-## Feragatname
+## Sorumluluk Reddi
 
 ---
 
-Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın tasarımı, özellikleri, dayanıklılığı, uygun kullanımı veya performansı hakkında, satılabilirlik ve belirli bir amaca uygunluk hakkındaki zımni garantiyle sınırlı kalmamak üzere, açık veya zımni hiçbir garanti vermemektedir. HappyShield, sıvılara ve spreylere maruz kalmayı en aza indirecek şekilde tasarlanmıştır, ancak UC ve UQ, HappyShield'ın kullanıcıları COVID-19 enfeksiyonundan veya başka bulaşıcı hastalıklardan koruyacağını garanti etmez. Bu materyaldeki hiçbir şey tıbbi tavsiye oluşturmaz ve kullanıcılar HappyShield'in amaçladıkları kullanıma uygun olup olmadığı ve diğer tıbbi veya başka türden stratejilerle birlikte kullanmaları gerekip gerekmediği konusunda kendi tıbbi tavsiyelerini takip etmelidirler. Yasaların izin verdiği azami ölçüde, UC ve UQ tüm zımni garantileri, güvenceleri, şartları ve koşulları hariç tutar. UC ve UQ, HappyShield'ın kullanımından kaynaklanan mülki hasar, bedensel yaralanma veya hastalık, ölüm, dolaylı, özel veya buna bağlı zararlar (“Talepler”) dahil ancak bunlarla sınırlı olmamak üzere herhangi bir hak, talep, hasar veya yaralanmadan sorumlu değildir, ve HappyShield kullanıcıları UC ve UQ'yu ve memurlarını, çalışanlarını, yüklenicilerini ve temsilcilerini tüm Taleplerden azade kılar.
+Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın tasarımı, özellikleri, dayanıklılığı, uygun kullanımı veya performansı hakkında, satılabilirlik ve belirli bir amaca uygunluk hakkındaki zımni garantiyle sınırlı kalmamak üzere, açık veya zımni hiçbir garanti vermemektedir. HappyShield, sıvılara ve spreylere maruz kalmayı en aza indirecek şekilde tasarlanmıştır, ancak UC ve UQ, HappyShield'ın kullanıcıları COVID-19 enfeksiyonundan veya başka bulaşıcı hastalıklardan koruyacağını garanti etmez. Bu materyaldeki hiçbir şey tıbbi tavsiye oluşturmaz ve kullanıcılar HappyShield'in amaçladıkları kullanıma uygun olup olmadığı ve diğer tıbbi veya başka türden stratejilerle birlikte kullanmaları gerekip gerekmediği konusunda kendi tıbbi tavsiyelerini takip etmelidirler. Yasaların izin verdiği azami ölçüde, UC ve UQ tüm zımni garantileri, güvenceleri, şartları ve koşulları hariç tutar. UC ve UQ, HappyShield'ın kullanımından kaynaklanan mülki hasar, bedensel yaralanma veya hastalık, ölüm, dolaylı, özel veya buna bağlı zararlar (“Talepler”) dahil ancak bunlarla sınırlı olmamak üzere herhangi bir hak, talep, hasar veya yaralanmadan sorumlu değildir, ve HappyShield kullanıcıları UC ve UQ'yu ve memurlarını, çalışanlarını, yüklenicilerini ve temsilcilerini tüm Taleplerden muaf tutar.
 
 ---
 
