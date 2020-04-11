@@ -35,7 +35,7 @@ Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın t
 
 **Siperlik**
 
-* 0.5 mm kalınlığında Polyethylene terephthalate (PET) or Asetat Sayfa
+* 0.5 mm kalınlığında Polyethylene terephthalate (PET) veya Asetat Sayfa
 * 20 mm genişliğinde elastik bant (70% polyester 30% lastik)
 
 ---
