@@ -111,7 +111,7 @@ Kesilmiş siperlikleri ve sıkıştırma klipslerini lazer kesicinin yatağında
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Siperliği 3 parçalı baskı şablonuna yerleştirin ve eğrili katlarmaları oluşturmak için bastırın.
+Siperliği 3 parçalı baskı şablonuna yerleştirin ve eğrili katlamaları oluşturmak için bastırın.
 
 ---
 
