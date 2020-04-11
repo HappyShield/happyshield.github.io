@@ -66,7 +66,7 @@ Eğriyi başından sonuna doğru sıkıştırarak eğri boyunca katlayın.
 
 ![](./Assets/Output/Steps/03.jpg)
 
-2. aşamda anlatılan teknikle ikinci eğriyi de katlayın.
+2. aşamada anlatılan teknikle ikinci eğriyi de katlayın.
 
 ---
 
