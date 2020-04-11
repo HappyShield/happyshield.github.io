@@ -74,7 +74,7 @@ Eğriyi başından sonuna doğru sıkıştırarak eğri boyunca katlayın.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Elastik bantı sıkıştırma klipslerinden geçirdikten sonra klipsleri sperliğin üzerindeki deliklerden arkadan öne doğru geçirin.
+Elastik bantı sıkıştıma klipslerinden geçirdikten sonra klipsleri sperliğin üzerindeki deliklerden arkadan öne doğru geçirin.
 
 
 
