@@ -11,7 +11,7 @@ redirect_from: /
 
 ---
 
-![HappyShieldGif](./assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
+![HappyShieldGif](../assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
 
 
 # What? 
