@@ -1,9 +1,9 @@
 
 ---
 layout: page
-title: Laser-cut and Pressure Creasing
+title: Laser Kesim ve Basınçlı Katlama
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href = "https://youtu.be/IPKiPi-Tne8"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
-permalink: /pressure-creasing/en/
+permalink: /pressure-creasing/tr/
 ---
 
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
@@ -11,53 +11,53 @@ permalink: /pressure-creasing/en/
 
 ---
 
-## Disclaimer
+##  Sorumluluk Reddi
 
 ---
 
-The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
+Cambridge Üniversitesi (UC) ve Queensland Üniversitesi (UQ), HappyShield'ın tasarımı, özellikleri, dayanıklılığı, uygun kullanımı veya performansı hakkında, satılabilirlik ve belirli bir amaca uygunluk hakkındaki zımni garantiyle sınırlı kalmamak üzere, açık veya zımni hiçbir garanti vermemektedir. HappyShield, sıvılara ve spreylere maruz kalmayı en aza indirecek şekilde tasarlanmıştır, ancak UC ve UQ, HappyShield'ın kullanıcıları COVID-19 enfeksiyonundan veya başka bulaşıcı hastalıklardan koruyacağını garanti etmez. Bu materyaldeki hiçbir şey tıbbi tavsiye oluşturmaz ve kullanıcılar HappyShield'in amaçladıkları kullanıma uygun olup olmadığı ve diğer tıbbi veya başka türden stratejilerle birlikte kullanmaları gerekip gerekmediği konusunda kendi tıbbi tavsiyelerini takip etmelidirler. Yasaların izin verdiği azami ölçüde, UC ve UQ tüm zımni garantileri, güvenceleri, şartları ve koşulları hariç tutar. UC ve UQ, HappyShield'ın kullanımından kaynaklanan mülki hasar, bedensel yaralanma veya hastalık, ölüm, dolaylı, özel veya buna bağlı zararlar (“Talepler”) dahil ancak bunlarla sınırlı olmamak üzere herhangi bir hak, talep, hasar veya yaralanmadan sorumlu değildir, ve HappyShield kullanıcıları UC ve UQ'yu ve memurlarını, çalışanlarını, yüklenicilerini ve temsilcilerini tüm taleplerden muaf tutar.
 
 ---
 
 --- 
 
-## Tools
+## Aletler
 
 ---
 
-* Laser-cutter
-* 10-tonne press
-* Pliers capable of cutting 1 mm steel wire rope
-* Scissors or razor blade
-* Drill or screw-driver
+* Lazer kesici
+* 10 tonluk baskı makinesi
+* 1mm'lik çelik tel kabloyu kesebilecek pense
+* Makas veya maket bıçağı
+* Matkap veya tornavida
 
 ---
 
-## Materials
+## Malzemeler
 
 ---
 
-**3-Part Press Jig**
+**3-Parçalı Baskı Şablonu**
 
 * 4 mm MDF
-* 1 mm steel wire rope   
-* 6-20 mm wood screws
-* Clear plastic tape
+* 1 mm çelik tel kablo
+* 6-20 mm ahşap vida
+* Şeffaf plastik bant
 
-**Shield**
+**Siperlik**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-
----
+* 0.5 mm kalınlığında Polyethylene terephthalate (PET) veya Asetat Sayfa
+* 20 mm genişliğinde elastik bant (70% polyester 30% lastik)
 
 ---
 
-# Instructions
+---
+
+# Açıklamalar
 
 ---
 
-## 3-Part Press Jig 
+## 3-Parçalı Baskı Şablonu
 
 ---
 
@@ -65,7 +65,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) Laser-cut the MDF using the template file.
+Laser kesicinizin yatağına uyacak 3 parçalı baskı Download the laser-cutting template for the 3-part press jig which fits the bed of your laser-cutting machine. (The dimensions of the cutting templates are given in the filenames.) Laser-cut the MDF using the template file.
 
 ---
 
