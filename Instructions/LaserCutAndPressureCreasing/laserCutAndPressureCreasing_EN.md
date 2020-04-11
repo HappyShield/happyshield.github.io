@@ -128,4 +128,4 @@ Cut a 400 mm length of elastic strap. Thread the strap through the friction clip
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Pass the threaded friction clips through the holes in the shield from back to front. 
+Klipsleri siperliğin üzerindeki deliklerden arkadan öne doğru geçirin.
