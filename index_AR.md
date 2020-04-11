@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HappyShield
-tagline: Curved Crease Origami Face Shield For Infection Control
+tagline: غطاء للوجه قابل للطي 
 permalink: /ar/
 language: ar
 dir: rtl
@@ -14,52 +14,52 @@ dir: rtl
 ![HappyShieldGif](../assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
 
 
-# What? 
+# ماذا؟ 
 
 ---
 
-HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control in the context of the Covid-19 pandemic. 
+ HappyShield هو تصميم جديد مفتوح المصدر لدرع وجه بسيط وقابل للطي للتحكم في العدوى في سياق جائحة Covid-19.
 
 ---
 
-# Why?
+# لماذا ؟
 
 ---
 
-Healthcare workers need face shields in addition to masks and goggles to provide protection from splashes and sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. There is currently a **significant shortage of face shields globally**, which is likely to be **particularly severe in less wealthy regions** without the ability to buy or manufacture necessary Personal Protective Equipment (PPE) as easily or quickly as wealthy countries. 
+يحتاج العاملون في مجال الرعاية الصحية إلى واقيات للوجه بالإضافة إلى الأقنعة والنظارات الواقية لتوفير الحماية من الرذاذ والبقع للسوائل الجسدية  التي قد تخرج من مرضى Covid-19 خلال الاجراءات الطبية عالية. يوجد حاليًا **نقص كبير في أغطية الوجه على مستوى العالم** ، والتي من المرجح أن تكون شديدة بشكل خاص في **المناطق التي لا تملك المصادر الكافية والقدرة على شراء أو تصنيع معدات الحماية الشخصية الضرورية** (PPE) كما تفعل العديد من الدول حالياً
 
 ---
 
-# How? 
+# كيف؟
 
 ---
 
-The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are **safe**, **cheap**, **easy to mass-produce** quickly using **materials, equipment, and labour available in low and middle-income regions**, are **easy to reuse**, and are **comfortable** enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded **HappyShield**, which successfully meets these design goals. The features of the HappyShield design are listed below:
+الهدف من هذا المشروع هو تطوير ونشر وتصنيع مجموعة من التصميمات الواقية للوجه التي تكون **آمنة ورخيصة وسهلة الإنتاج بكميات كبيرة بسرعة باستخدام المواد والمعدات والعمالة المتاحة في كل البلدان وخصوصاً تلك ذات الدخل  المنخفض والمتوسط.** نتطلع إلى أغطية وجه يسهل إعادة استخدامها ، وهي **مريحة** بما يكفي لارتدائها لفترات طويلة من قبل العاملين في مجال الرعاية الصحية دون التسبب بالألم أو الانزعاج. أسفرت المرحلة الأولى من هذا المشروع ، وهي تطوير تصميم النموذج الأولي ، عن إنتاج HappyShield الذي حقق أهداف التصميم هذه بنجاح. يتم سرد ميزات تصميم HappyShield أدناه:
 
 ---
 
-## Features
+## المميزات
 
 ---
 
-* Single-sheet fluid-impermeable design with **extra protection from fluids and sprays from above**.   
+* **تصميم من ورقة واحدة غير منفذة للسوائل مع **حماية إضافية من السوائل والرذاذ من الأعلى
 
 ---
 
-* Easy **decontamination for reuse** over high numbers of shifts.   
+* أمكانية **الغسل و إزالة التلوث** بسهولة **لإعادة استخدامها**
 
 ---
 
-* Form-fitting and adjustable shape allowing for **comfortable wearing for extended periods**.   
+* شكل مناسب وقابل للتعديل يسمح بارتداء **مريح لفترات طويلة**  
 
 ---
 
-* **Fast, flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions.  
+* **نهج تصنيع جماعي سريع ومرن وقابل للتطوير** للمساعدة في تلبية الطلب العالمي  
 
 ---
 ---
 
-## Gallery
+## صالة عرض
 
 ---
 
@@ -69,58 +69,58 @@ The aim of this project is to develop, disseminate, and mass-manufacture a set o
 ---
 ---
 
-# How can I help? 
+# كيف يمكنني أن أقدم المساعدة؟ 
 
 ---
 
-We have **begun production of HappyShields in the UK**, and are hoping to **rapidly expand** our production and distribution capacity here. Most especially, however, we are **currently seeking partnerships and collaborations** which can help us to disseminate the HappyShield design and related production methods to **less wealthy countries** and jump-start mass-production of face shields there as quickly as possible.
+لقد بدأنا في **إنتاج HappyShields في المملكة المتحدة** ، ونأمل في توسيع قدرتنا على الإنتاج والتوزيع بسرعة. ومع ذلك ، نحن نسعى بشكل خاص حاليًا إلى شراكات وتعاون يمكن أن تساعدنا في نشر تصميم HappyShield إلى **البلدان الأقل ثراء و التي بحاجة لأغطية وجه**  والبدء في الإنتاج الجماعي للدروع الواقية هناك بأسرع ما يمكن.
 
 ---
 
-### _Here's how you can help:_
+### _إليك كيفية المساعدة:_
 
 ---
 
-## 1. 🏭 Manufacturers and Makers
+## 1. 🏭 المصنعين والورشات
 
-Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
+هل لديك إمكانية الوصول إلى قاطع الليزر ، أو مكبس هيدروليكي، أو آلات قطع القوالب ، أو لديك اتصالات بمؤسسة أو شركة تعمل؟ [نود أن نكون على اتصال](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) حتى نتمكن من مساعدتك في بدء **تصنيع HappyShields بكميات كبيرة محليًا بأسرع وقت ممكن**
 
-Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways (shown below) for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
+Aهل أنت متحمس **لصنع القناع يدويا ؟** لقد طورنا ووثقنا عددًا صغيرًا من مسارات التصنيع المتنوعة (كما هو موضح أدناه) لـ HappyShield ، ولكن نظرًا لبساطة التصميم ، نتوقع وجود العديد من الطرق الفعالة لإنتاجها باستخدام المواد والمعدات والعمالة المتاحة محليًا. نحن بحاجة لمساعدتكم **لتطوير وتوثيق هذه الأساليب الجديدة** حتى يتمكن المصنعون والمصنعون في جميع أنحاء العالم من زيادة الإنتاج باستخدام المواد والمعدات التي لديهم بالفعل. تتوفر جميع  [ملفات الوثائق](https://github.com/HappyShield/happyshield.github.io) و [المخططات](https://github.com/HappyShield/HappyShield)  مفتوحة المصدر على موقع GitHub
 
 ---
 
 | Production Method                     | Web                                                                                                                    | Print | Video | Templates |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
-| Hand Creasing                         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../hand-creasing/{{page.language}}/)       |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/HandCreasing/Assets/Output/InstructionsPDF/Instructions.pdf)  |    [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/8RvlrtrebBE) |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
-| Laser-cut + Pressure Creasing         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
-| Laser-cut                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
-| Laminated                             |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
+| الحز اليدوي                         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../hand-creasing/{{page.language}}/)       |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/HandCreasing/Assets/Output/InstructionsPDF/Instructions.pdf)  |    [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/8RvlrtrebBE) |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
+| قص الليزر + الكبس         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
+| قطع ليزر                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
+| باستخدام ادوات التغليف                             |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
 | WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../wave-shield/{{page.language}}/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/9PSss8W73v0)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
 
 ---
 
-## 2. 🏥 Healthcare Workers
+## 2. 🏥 عمال الرعاية الصحية
 
 ---
 
-Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
+هل أنت مسؤول عن **شراء معدات الوقاية الشخصية** للعاملين في مجال الرعاية الصحية وهل تتوقع أن تحتاج إلى دروع للوجه (أو تعرف شخصًا يستوفي هذه المعايير)؟ [ نود أن](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) نوصلك بالمصنِّعين محليًا الذين يمكنهم إنتاج HappyShields لك. يمكننا إرسال **عينة من 5-10 HappyShields إليك فورًا** لإجراء أي اختبار أو موافقة ضرورية.
 
 ---
 
-## 3. 🌐 Translators
+## 3. 🌐 المترجمون
 
 ---
 
-Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
+هل أنت مرتاح في الكتابة من الناحية الفنية بلغة غير الإنجليزية؟ نحتاج إلى مساعدتك في ترجمة الصفحة الرئيسية والتعليمات وتسميات الفيديو إلى أكبر عدد ممكن من اللغات ، بحيث يمكن لهذه التصميمات وأساليب التصنيع الوصول إلى أكبر عدد ممكن من الأشخاص حول العالم ، لا سيما في المناطق الأقل ثراءً. يرجى الاشتراك كمترجم  [هنا](https://forms.gle/9vHc2FbVvhA7nnZM7)**.  إذا كنت تتحدث لغة نحتاج حاليًا إلى مترجمين لها ، فسنتواصل معك! 
 
 ---
 
-#### 🙏 **_Thank you and looking forward to connecting!_**
+#### 🙏 **_🙏 شكرا لكم ونتطلع إلى التواصل!_**
 
 ---
 ---
 
-## Disclaimer
+## Disclaimer اخلاء مسؤولية
 
 ---
 
@@ -128,7 +128,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-#### Project Credits
+#### Project Credits حقوق المشروع وفريق العمل
 
 University of Cambridge, Department of Architecture  
 Centre for Natural Material Innovation
