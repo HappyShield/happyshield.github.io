@@ -132,7 +132,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ---
 
-## Creasing Method B
+## طريقة الحز B
 
 ---
 
