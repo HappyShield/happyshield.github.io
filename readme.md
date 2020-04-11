@@ -56,7 +56,7 @@ You can also see this process explained nicely here! https://guides.github.com/a
 6. Click create new file, and choose the appropriate name: `Instructions/HandCreasing/handCreasing_TR.md` for "Hand Creasing" instructions in Turkish (TR), for example.
 7. Paste.
 8. Edit this text, replacing English with your translated text.
-7. If you want to save your progress at any point, commit the changes, and provide a description of the changed made since the previous commit.  
+7. If you want to save your progress at any point, commit the changes, and provide a description of the changes made since the previous commit.  
 
 
 
@@ -152,7 +152,7 @@ language: <b>lt</b>
 
 ### 3. Submit a Pull Request for Your Translation
 
-When you are ready for your work to be incorporated into the main repository, you will submit a pull request, which is a request to have these changes incorporated into the live website.
+When you are ready for your work to be incorporated into the main repository, you will submit a **"Pull request"**, which is a request to have these changes incorporated into the live website.
 
 Watch [our video explaining how to submit a pull request for your translations files for HappyShield.Github.io here!](https://youtu.be/eBnob0MgYTU) 
 
@@ -161,6 +161,6 @@ The instructions are also shown below:
 1. Click **Pull Request**. 
 2. Click **Create Pull Request**.
 3. Add any helpful description along with your Pull Request to explain to others what you have added or changed to the text.
-3. Submit your Pull Request. 
+3. **Submit your Pull Request**. 
 
 Auri (or whoever is managing the repository!) will review and approve the pull request, and then merge these into the main repository, where they should be rendered on the live website within 3-5 minutes. : ) 
