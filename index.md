@@ -89,8 +89,8 @@ Are you a **maker / DIY enthusiast**? We have developed and documented a small n
 
 **Issues / Feature Requests**: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an [Issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) to one of our GitHub repositories! We very much appreciate your help making these resources as clear and easy to use as possible! 
 
-[Submit an Issue for Documentation Files](https://github.com/HappyShield/happyshield.github.io/issues)
-[Submit an Issue for Template Files](https://github.com/HappyShield/HappyShield/issues)
+* [Submit an Issue for Documentation Files](https://github.com/HappyShield/happyshield.github.io/issues)    
+* [Submit an Issue for Template Files](https://github.com/HappyShield/HappyShield/issues)  
 
 
 ---
