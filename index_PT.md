@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HappyShield
-tagline: Viseira de Origami Vincada para Controle de Infeção 
+tagline: Viseira Origami Curva para Controlo de Infeção 
 permalink: /pt/
 language: pt
 ---
@@ -17,7 +17,7 @@ language: pt
 
 ---
 
-O HappyShield é um novo modelo **disponível para todos** de uma **viseira dobrável e simples** para o controle de infeção no contexto da pandemia do Covid-19. 
+O HappyShield é um novo modelo de uma **viseira dobrábel e simples** para o controlo de infeção no contexto da pandemia da Covid-19 **disponível para todos** . 
 
 ---
 
@@ -25,7 +25,7 @@ O HappyShield é um novo modelo **disponível para todos** de uma **viseira dobr
 
 ---
 
-Os profissionais de saúde, para além de máscaras e óculos, necessitam de viseiras para providenciar proteção contra fluídos e sprays de secreções corporais de pacientes infetados com Covid-19 durante o desempenho de procedimentos médicos e em situações de alto-risco. Atualmente, existe **uma escassez significativa de viseiras a nível mundial**, que possivelmente será **particularmente grave em regiões mais desfavorecidas** sem a possibilidade de comprar ou produzir o Equipamento de Proteção Individual (EPI) necessário tão rápido e facilmente como os países mais ricos. 
+Os profissionais de saúde, para além de máscaras e óculos, necessitam de viseiras para se protegerem contra fluídos e sprays de secreções corporais de pacientes infetados com Covid-19 durante o desempenho de atos médicos e em situações de alto-risco. Atualmente, existe **uma escassez significativa de viseiras a nível mundial**, que possivelmente será **mais acentuada em regiões menos favorecidas** que não dispõem de meios para comprar ou produzir o Equipamento de Proteção Individual (EPI) necessário de forma tão rápida e fácil como os países mais ricos. 
 
 ---
 
@@ -33,7 +33,7 @@ Os profissionais de saúde, para além de máscaras e óculos, necessitam de vis
 
 ---
 
-O objectivo deste projeto é desenvolver, disseminar, e produzir em massa um conjunto de modelos para viseiras de proteção que sejam **seguras**, **baratas**, **fáceis de produzir em massa** usando **material, equipamento e mão de obra disponível em regiões menos favorecidas**, que sejam **fáceis de reutilizar** e **confortávies** o suficiente para serem usadas durante longos períodos de tempo por profissionais de saúde sem causar dor ou desconforto. A primeira frase deste projeto, o desenvolvimento do modelo protótipo, resultou no **HappyShield**, que satisfaz os objectivos com enorme sucesso. As caraterísticas do design do HappyShield estão enumeradas em baixo:
+O objetivo deste projeto é desenvolver, disseminar e produzir em massa um conjunto de modelos para viseiras de proteção que sejam **seguras**, **baratas**, **fáceis de produzir em massa**, usando **material, equipamento e mão de obra disponível em regiões menos favorecidas**. Pretende-se também, que as viseiras sejam **fáceis de reutilizar** e **confortáveis** o suficiente para serem usadas durante longos períodos de tempo por profissionais de saúde sem causar dor ou desconforto. A primeira fase deste projeto, o desenvolvimento do modelo protótipo, resultou no **HappyShield**, que satisfaz os objetivos com enorme sucesso. As caraterísticas do design do HappyShield estão enumeradas a baixo:
 
 ---
 
@@ -41,7 +41,7 @@ O objectivo deste projeto é desenvolver, disseminar, e produzir em massa um con
 
 ---
 
-* Uma única folha transparente e impermeável desenhada com **proteção extra contra fluídos e sprays na parte superior**.   
+* Uma única folha transparente e impermeável cujo o design oferece **proteção extra contra fluídos e sprays na parte superior**.   
 
 ---
 
@@ -53,7 +53,7 @@ O objectivo deste projeto é desenvolver, disseminar, e produzir em massa um con
 
 ---
 
-* **Abordagens de produção em massa rápidas, flexíveis e escaláveis** para ajudar a suprimir a necessidade global apesar das interrupções na cadeia de suprimento.
+* **Abordagens de produção em massa rápidas, flexíveis e escaláveis** para dar resposta à necessidade global e contornar os constrangimentos de abastecimento e produção.
 
 ---
 ---
@@ -72,7 +72,7 @@ O objectivo deste projeto é desenvolver, disseminar, e produzir em massa um con
 
 ---
 
-Já iniciamos **a produção de HappyShields no Reino Unido**, e esperamos **expandir rapidamente** a nossa capacidade de produção e distribuição aqui. Mais especificamente, contudo, estamos **atualmente à procura de parcerias e colaborações** que nos possam ajudar a disseminar o design do HappyShield e os seus métodos de produção relacionados a **países menos favorecidos** e acelarar a produção em massa das viseiras de proteção o mais rapidamente possível.
+Já iniciamos **a produção de HappyShields no Reino Unido** e esperamos **expandir rapidamente** a nossa capacidade de produção e distribuição aqui. Mais especificamente, estamos **atualmente à procura de parcerias e colaborações** que nos possam ajudar a disseminar o design do HappyShield e os seus métodos de produção juntos dos **países menos favorecidos** e acelerar a produção em massa das viseiras de proteção o mais rapidamente possível.
 
 ---
 
@@ -82,9 +82,9 @@ Já iniciamos **a produção de HappyShields no Reino Unido**, e esperamos **exp
 
 ## 1. 🏭 Produtores e Criadores
 
-Tem **acesso a uma cortador a laser, uma prensa hidráulica de bancada, máquinas de corte e vinco**, ou tem contatos com uma instituição ou empresa que tem? [Esperamos anciosos pelo seu contato] (mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacture) para que o possamos ajudar a **iniciar a produção em massa dos HappyShields localmente** o mais rápido possível.
+Se tem **acesso a um cortador a laser, uma prensa hidráulica de bancada, máquinas de corte e vinco**, ou tem contatos com uma instituição ou empresa que tem, [Esperamos ansiosos pelo seu contacto] (mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacture) para que o possamos ajudar a **iniciar a produção em massa dos HappyShields localmente** o mais rápido possível.
 
-Tem **espírito criativo ou é um entusiasta de trabalhos manuais**? Nós desenvolvemos e documentamos um pequeno número de métodos de produção diversificados (ilustrados em baixo) para o HappyShield mas, devido à simplicidade do design, antecipamos que que existam muitas formas eficazes de os produzir usando materiais, equipamento e mão de obra disponível localmente. Precisamos da sua ajuda para **desenvolver e documentar esses novos métodos** para que os produtores a nível mundial possam produzir utilizando materiais e equipamento que já possuam.  Toda a nossa [documentação](https://github.com/HappyShield/happyshield.github.io) e [ficheiros](https://github.com/HappyShield/HappyShield) estão disponíveis gratuitamente em GitHub. "Pull requests" são encorajados!
+Se tem **espírito criativo ou é um entusiasta de trabalhos manuais**, nós desenvolvemos e documentamos um pequeno número de métodos de produção diversificados (ilustrados a baixo) para o HappyShield. Contudo, devido à simplicidade do design, antecipamos que existam muitas formas eficazes de os produzir, usando materiais, equipamento e mão de obra disponível localmente. Deste modo, precisamos da sua ajuda para **desenvolver e documentar esses novos métodos** que posteriormente seriam disponibilizados aos produtores a nível mundial para que estes pudessem produzir viseiras a partir de materiais e equipamento que tenham disponíveis. Toda a nossa [documentação](https://github.com/HappyShield/happyshield.github.io) e [ficheiros](https://github.com/HappyShield/HappyShield) estão disponíveis gratuitamente em GitHub. "Pull requests" são bem-vindos!
 
 ---
 
@@ -102,7 +102,7 @@ Tem **espírito criativo ou é um entusiasta de trabalhos manuais**? Nós desenv
 
 ---
 
-Está responsável por **adquirir EPI para profisionais de saúde** e antecipa a necessidade de viseiras de proteção (ou conhece alguém nessa posição)? [Queremos pôr-lo em contacto](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) com fabricantes locais que possam produzir HappyShields para si. Podemos enviar-lhe um **conjunto de 5-10 HappyShields** imediatamente para quaisquer testes e aprovações necessários. 
+Se é o responsável pela **adquisição EPI para profisionais de saúde** e antecipa a necessidade de viseiras de proteção (ou conhece alguém nessa situação) [Queremos pô-lo em contacto](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) com fabricantes locais que possam produzir HappyShields para si. Podemos enviar-lhe imediatamente um **conjunto de 5-10 HappyShields** para quaisquer testes e aprovações necessários. 
 
 ---
 
@@ -110,7 +110,7 @@ Está responsável por **adquirir EPI para profisionais de saúde** e antecipa a
 
 ---
 
-Sente-se confortável em escrever técnicamente num idioma que não o Inglês? Precisamos da sua ajuda para **traduzir o nosso site, instruções e legendas dos vídeos** no maior número possível de idiomas, para que este design e métodos de produção possam alcançar o maior número de pessoas possível a nível mundial, particularmente em regiões menos favorecidas. **Por favor, inscreva-se como tradutor [aqui](https://forms.gle/9vHc2FbVvhA7nnZM7)**. Se falar uma língua para a qual precisamos de tradutores, entraremos em contacto consigo! 
+Se se sente confortável em escrever tecnicamente num idioma que não o Inglês, precisamos da sua ajuda para **traduzir o nosso site, instruções e legendas dos vídeos** no maior número possível de idiomas, para que este design e métodos de produção possam alcançar o maior número de pessoas possível a nível mundial, particularmente em regiões menos favorecidas. **Por favor, inscreva-se como tradutor [aqui](https://forms.gle/9vHc2FbVvhA7nnZM7)**. Se falar uma língua para a qual precisamos de tradutores, entraremos em conctato consigo! 
 
 ---
 
@@ -119,7 +119,7 @@ Sente-se confortável em escrever técnicamente num idioma que não o Inglês? P
 ---
 ---
 
-## Disclaimer
+## Disclaimer (Aviso Legal)
 
 ---
 
@@ -127,7 +127,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-#### Project Credits
+#### Créditos do Projeto
 
 University of Cambridge, Department of Architecture  
 Centre for Natural Material Innovation
