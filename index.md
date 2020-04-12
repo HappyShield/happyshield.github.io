@@ -87,6 +87,12 @@ Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cut
 
 Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways (shown below) for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
 
+Note: if you find any errors / omissions in any of the documentation or template files, please feel free to submit an Issue on GitHub! We very much appreciate your help making these resources as clear and easy to use as possible! 
+
+[Submit an Issue for Documentation Files](https://github.com/HappyShield/happyshield.github.io/issues)
+[Submit an Issue for Template Files](https://github.com/HappyShield/HappyShield/issues)
+
+
 ---
 
 | Production Method                     | Web                                                                                                                    | Print | Video | Templates |
