@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HappyShield
-tagline: Curved Crease Origami Face Shield For Infection Control
+tagline: Enfeksiyon Kontrolü İçin Eğimli Katlanan Origami Yüz Siperliği
 permalink: /tr/
 language: tr
 ---
