@@ -71,7 +71,9 @@ The aim of this project is to develop a set of designs for face shields which ar
 ---
 ---
 
-## Documentation and Template Files
+## Documentation and Templates
+
+---
 
 All of our design [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
 
