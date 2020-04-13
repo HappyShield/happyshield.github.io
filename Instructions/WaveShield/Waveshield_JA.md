@@ -28,30 +28,30 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 --- 
 
-## Tools
+## ツール
 
 ---
 
-* Scissors or razor blade
-* Ballpoint pen
+* ハサミまたはカッター
+* ボールペン
 
 ---
 
-## Materials
+## 材料
 
 ---
 
-**Shield**
+**シールド**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-* Tape
-
----
+* 厚さ0.5 mmのPETまたはアセテートの板
+* 幅20 mmのゴムバンド (70% ポリエステル 30% ゴム)
+* 接着用のテープ
 
 ---
 
-# Instructions
+---
+
+# 制作手順
 
 ---
 
@@ -59,7 +59,8 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download your tracing template format (A4 for A3 shields, Letter for Tabloid shields). If you do not have access to printers, you can draw your own template. Our tracing templates have dimensions!
+テンプレートをプラ板に書き写すために、まず紙にパターンを印刷します。はじめにテンプレートをダウンロードしましょう。A3サイズのシールドを作りたいときはA4のテンプレート、タブロイドサイズのシールドを作りたいときはレターサイズのテンプレートを使います（日本で作る場合はA4のテンプレートをおすすめします）。プリンターがなければ、テンプレートに記載された通りにパターンを手描きします（テンプレートには各部の長さが記入されています）。
+
 
 ---
 
@@ -67,7 +68,7 @@ Download your tracing template format (A4 for A3 shields, Letter for Tabloid shi
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Place your transparent sheet on the template. 
+透明なプラ板をパターンの描かれた紙の上に置きます。
 
 ---
 
@@ -75,7 +76,7 @@ Place your transparent sheet on the template.
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. Mark the lines and the lower round corners for cutting. 
+ボールペンで穴の場所を書き写していきましょう。インクは最後にアルコールで拭けば消せるので、木にしなくて大丈夫です。ハサミを入れるために直線とまるいコーナーも書き写します。
 
 ---
 
@@ -83,7 +84,7 @@ Mark the holes’ location with a ballpoint pen. Don’t worry about the ink, it
 
 ![](./Assets/Output/Steps/04.jpg)
 
-With scissors or a cutter cut the sheets and trim the corners of the shield.
+ハサミかカッターを使ってシールドのふちを切り出していきます。
 
 ---
 
@@ -92,7 +93,7 @@ With scissors or a cutter cut the sheets and trim the corners of the shield.
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Cut the holes. You can use a paper or leather punch¬er if you have.
+穴を開けます。穴あけパンチを使うと簡単ですが、カッターでもできます。
 
 ---
 
@@ -100,7 +101,7 @@ Cut the holes. You can use a paper or leather punch¬er if you have.
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Tape the middle of strip 1 and 2, check the M shape the two strips made when the holes are aligned. It should be symmetrical.
+短冊型のパーツ1と2の真ん中をテープでとめます。うまくできていれば、2つのパーツの穴を同じ位置に揃えた時に、全体が左右対称のM字に曲がります。
 
 ---
 
@@ -108,7 +109,7 @@ Tape the middle of strip 1 and 2, check the M shape the two strips made when the
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Align the holes together strips. The order from inside to outside is: 1,2,3, face-shield, and top cover. Tie the sheets with the elastic band. It should come out from upper hole and go in the lower hole.
+短冊型のパーツ1,2,3,大きなフェイスシールドのパーツ、Cが内側から外側に並ぶように配置します。穴の中にゴムバンドを通して固定します。上の穴からゴムバンドが外に出て、下の穴からゴムバンドが内側に戻るようにします。
 
 ---
 
@@ -116,7 +117,7 @@ Align the holes together strips. The order from inside to outside is: 1,2,3, fac
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Your mask is ready now.
+シールドの完成です！
 
 ---
 
