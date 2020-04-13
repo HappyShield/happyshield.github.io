@@ -97,7 +97,7 @@ All of our design [documentation](https://github.com/HappyShield/happyshield.git
 
 ---
 
-# How can I Help?
+# How can I help?
 
 ---
 
