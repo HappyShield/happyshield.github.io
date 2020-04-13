@@ -105,7 +105,7 @@ All of our design [documentation](https://github.com/HappyShield/happyshield.git
 
 ---
 
-Are you responsible for **procurement of PPE for healthcare workers**? We would very much appreciate your support with obtaining certification for HappyShield for use as personal protective equipment. Please feel free to reach us [here](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Clinical Approval)!
+Are you responsible for **procurement of PPE for healthcare workers**? We would very much appreciate your support with obtaining certification for HappyShield for use as personal protective equipment. Please feel free to reach us [here](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Certification)!
 
 ---
 
