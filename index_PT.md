@@ -33,7 +33,7 @@ Os profissionais de saúde precisam de escudos faciais como complemento a másca
 
 ---
 
-O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um conjunto de desenhos para escudos faciais que sejam **seguros**, **baratos**, **fáceis de produzir em massa** rapidamente usando **materiais, equipamento e mao-de-obra disponíveis em regiões de baixo e médio rendimento**, e **fáceis de usar**, e que sejam **confortáveis** o suficiente para serem usados por períodos longos por profissionais de saúde sem induzir dôr ou desconforto. A primeira fase deste projecto, o desenho de um protótipo, resultou no **HappyShield**, que cumpre con sucesso estes objectivos. As funcionalidades do desenho HappyShield são listadas abaixo:
+O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um conjunto de desenhos para escudos faciais que sejam **seguros**, **baratos**, **fáceis de produzir em massa** rapidamente usando **materiais, equipamento e mao-de-obra disponíveis em regiões de baixo e médio rendimento**, e **fáceis de usar**, e que sejam **confortáveis** o suficiente para serem usados por períodos longos por profissionais de saúde sem induzir dôr ou desconforto. A primeira fase deste projecto, o desenho de um protótipo, resultou no **HappyShield**, que cumpre com sucesso estes objectivos. As funcionalidades do desenho HappyShield são listadas abaixo:
 
 ---
 
@@ -41,7 +41,7 @@ O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um co
 
 ---
 
-* Desenho de folha única impermeável a fluidos com **protecção extra contra fluidos e aspersões vindas de cima**.   
+* Desenho de folha única impermeável a fluidos com **protecção extra contra fluidos e aspersões vindos de cima**.   
 
 ---
 
@@ -53,7 +53,7 @@ O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um co
 
 ---
 
-* **Abordagens rápidas, flexíveis e escaláveis orientadas a produção em série** de modo a responder à procura mundial face mesmo com quebras das cadeis logísticas.
+* **Abordagens rápidas, flexíveis e escaláveis orientadas a produção em série** de modo a responder à procura mundial mesmo com quebras das cadeias logísticas.
 
 ---
 ---
@@ -82,7 +82,7 @@ Já **iniciámos a produção do HappyShield no Reino Unido**, e esperamos **exp
 
 ## 1. 🏭 Fabricantes e criadores
 
-Você tem **accesso a uma cortadora laser, ou uma pensa hidráulica de bancada, ou maquinaria de corte**, ou tem contactos com uma instituição ou empresa com esse acesso? [Seria óptimo estabelecermos esse contacto](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) no sentido de podermos ajudá-lo a **iniciar a produção em massa de HappyShields localmente** o mais depressa possível.
+Você tem **acesso a uma cortadora laser, ou uma pensa hidráulica de bancada, ou maquinaria de corte**, ou tem contactos com uma instituição ou empresa com esse acesso? [Seria óptimo estabelecermos esse contacto](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) no sentido de podermos ajudá-lo a **iniciar a produção em massa de HappyShields localmente** o mais depressa possível.
 
 Você é um **criador / entusiasta do faça-você-mesmo**? Nós desenvolvemos e documentámos alguns processos de fabrico diferentes (mostrados abaixo) para o HappyShield, mas devido à simplicidade do desenho, antecipamos que haja muitos métodos efectivos de os produzir usando materials, equipamentos e mão-de-obra disponíveis localmente. Precisamos da sua ajuda pra **desenvolver e documentar esses novos métodos** para que criadores e fabricantes em todo o mundo possam escalar a produção usando materiais e equipamento já existentes. Toda a nossa [documentação](https://github.com/HappyShield/happyshield.github.io) e [ficheiros de template](https://github.com/HappyShield/HappyShield) estão disponíveis em código aberto no GitHub. Pull requests são encorajados!
 
@@ -91,7 +91,7 @@ Você é um **criador / entusiasta do faça-você-mesmo**? Nós desenvolvemos e 
 | Método de produção                    | Web                                                                                                                    | Print | Video | Templates |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
 | Vincagem manual                         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../hand-creasing/{{page.language}}/)       |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/HandCreasing/Assets/Output/InstructionsPDF/Instructions.pdf)  |    [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/8RvlrtrebBE) |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
-| Corte a laser + Vingagem por pressão         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
+| Corte a laser + Vincagem por pressão         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
 | Corte a laser                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
 | Laminado                             |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
 | WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../wave-shield/{{page.language}}/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/9PSss8W73v0)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
