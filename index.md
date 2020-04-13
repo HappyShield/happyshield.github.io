@@ -71,6 +71,8 @@ The aim of this project is to develop a set of designs for face shields which ar
 ---
 ---
 
+## Documentation and Template Files
+
 All of our design [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
 
 **Issues / Feature Requests**: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an [Issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) to one of our GitHub repositories! Thank you!
@@ -88,6 +90,12 @@ All of our design [documentation](https://github.com/HappyShield/happyshield.git
 | Laser-cut                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
 | Laminated                             |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
 | WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../wave-shield/{{page.language}}/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/9PSss8W73v0)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
+
+---
+
+---
+
+# How can I Help?
 
 ---
 
@@ -118,7 +126,7 @@ Are you comfortable writing technically in a language other than English? We nee
 
 The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
 
-**_Please note: HappyShield has not yet been certified for use in medical settings._**
+**_Please note: HappyShield has not yet been certified for use as personal protective equipment._**
 
 --- 
 
