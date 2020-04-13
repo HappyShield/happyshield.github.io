@@ -18,7 +18,9 @@ redirect_from: /
 
 ---
 
-HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control in the context of the Covid-19 pandemic. 
+HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control developed in response to the Covid-19 pandemic. 
+
+**_Please note: HappyShield has not yet been certified for use in medical settings._**
 
 ---
 
@@ -34,7 +36,7 @@ Healthcare workers need face shields in addition to masks and goggles to provide
 
 ---
 
-The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are **safe**, **cheap**, **easy to mass-produce** quickly using **materials, equipment, and labour available in low and middle-income regions**, are **easy to reuse**, and are **comfortable** enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded **HappyShield**, which successfully meets these design goals. The features of the HappyShield design are listed below:
+The aim of this project is to develop a set of designs for face shields which are **safe**, **cheap**, **easy to mass-produce** quickly using **materials, equipment, and labour available in low and middle-income regions**, are **easy to reuse**, and are **comfortable** enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. This effort has yielded **HappyShield**, which successfully meets these design goals. The features of the HappyShield design are listed below:
 
 ---
 
@@ -69,25 +71,9 @@ The aim of this project is to develop, disseminate, and mass-manufacture a set o
 ---
 ---
 
-# How can I help? 
+All of our design [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
 
----
-
-We have **begun production of HappyShields in the UK**, and are hoping to **rapidly expand** our production and distribution capacity here. Most especially, however, we are **currently seeking partnerships and collaborations** which can help us to disseminate the HappyShield design and related production methods to **less wealthy countries** and jump-start mass-production of face shields there as quickly as possible.
-
----
-
-### _Here's how you can help:_
-
----
-
-## 1. 🏭 Manufacturers and Makers
-
-Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
-
-Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways (shown below) for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
-
-**Issues / Feature Requests**: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an [Issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) to one of our GitHub repositories! We very much appreciate your help making these resources as clear and easy to use as possible! 
+**Issues / Feature Requests**: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an [Issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) to one of our GitHub repositories! Thank you!
 
 * [Submit an Issue for Documentation Files](https://github.com/HappyShield/happyshield.github.io/issues)    
 * [Submit an Issue for Template Files](https://github.com/HappyShield/HappyShield/issues)  
@@ -105,19 +91,19 @@ Are you a **maker / DIY enthusiast**? We have developed and documented a small n
 
 ---
 
-## 2. 🏥 Healthcare Workers
+## 1. 🏥 Healthcare Workers
 
 ---
 
-Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
+Are you responsible for **procurement of PPE for healthcare workers**? We would very much appreciate your support in securing clinical approval for HappyShield for use in medical settings. Please feel free to reach us [here](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Clinical Approval)!
 
 ---
 
-## 3. 🌐 Translators
+## 2. 🌐 Translators
 
 ---
 
-Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
+Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions**! **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
 
 ---
 
@@ -131,6 +117,8 @@ Are you comfortable writing technically in a language other than English? We nee
 ---
 
 The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
+
+**_Please note: HappyShield has not yet been certified for use in medical settings._**
 
 --- 
 
