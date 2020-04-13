@@ -25,8 +25,8 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ---
 
-* Laser-cutter
-* Scissors or razor blade
+* レーザーカッター
+* ハサミまたはカッター
 
 ---
 
