@@ -98,7 +98,7 @@ Você é um **criador / entusiasta do faça-você-mesmo**? Nós desenvolvemos e 
 
 ---
 
-## 2. 🏥 Profissionis de saúde
+## 2. 🏥 Profissionais de saúde
 
 ---
 
