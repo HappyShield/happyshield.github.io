@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HappyShield
-tagline: Curved Crease Origami Face Shield For Infection Control
+tagline: Escudo Facial para Controlo de Infecções usando Origami de Vinco Curvo
 permalink: /pt/
 language: pt
 ---
@@ -13,52 +13,52 @@ language: pt
 ![HappyShieldGif](../assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
 
 
-# What? 
+# O quê? 
 
 ---
 
-HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control in the context of the Covid-19 pandemic. 
+HappyShield é um novo design em **código aberto** para um **escudo facial dobrável simples** para controlo de infecções no contexto da pandemia  Covid-19.
 
 ---
 
-# Why?
+# Porquê?
 
 ---
 
-Healthcare workers need face shields in addition to masks and goggles to provide protection from splashes and sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. There is currently a **significant shortage of face shields globally**, which is likely to be **particularly severe in less wealthy regions** without the ability to buy or manufacture necessary Personal Protective Equipment (PPE) as easily or quickly as wealthy countries. 
+Os profissionais de saúde precisam de escudos faciais como complemento a máscaras e óculos de protecção no sentido de os proteger de salpicos e aspersões de fluidos corporais provenientes de pacientes com Covid-19 durante diversos procedimentos médicos e outras situações de alto risco. Verifica-se neste momento uma **escassez significativa de escudos faciais a nível global**, e que se prevê **particularmente grave em regiões mais desfavorecidas** onde a capacidade de aquisição ou de produção do Equipamento Pessoal de Protecção (EPP) necessário é menor comparativamente a países mais ricos.
 
 ---
 
-# How? 
+# Como? 
 
 ---
 
-The aim of this project is to develop, disseminate, and mass-manufacture a set of designs for face shields which are **safe**, **cheap**, **easy to mass-produce** quickly using **materials, equipment, and labour available in low and middle-income regions**, are **easy to reuse**, and are **comfortable** enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. The first phase of this project, the development of a prototype design, has yielded **HappyShield**, which successfully meets these design goals. The features of the HappyShield design are listed below:
+O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um conjunto de designs para escudos faciais que sejam **seguros**, **baratos**, **fáceis de produzir em massa** rapidamente usando **materiais, equipamento e mao-de-obra disponíveis em regiões de baixo e médio rendimento**, e **fáceis de usar**, e que sejam **confortáveis** o suficiente para serem usados por períodos longos por profissionais de saúde sem induzir dôr ou desconforto. A primeira fase deste projecto, o desenho de um protótipo, resultou no **HappyShield**, que cumpre con sucesso estes objectivos. As funcionalidades do desenho HappyShield são listadas abaixo:
 
 ---
 
-## Features
+## Funcionalidades
 
 ---
 
-* Single-sheet fluid-impermeable design with **extra protection from fluids and sprays from above**.   
+* Desenho de folha única impermeável a fluidos com **protecção extra contra fluidos e aspersões vindas de cima**.   
 
 ---
 
-* Easy **decontamination for reuse** over high numbers of shifts.   
+* Fácil **descontaminação para reutilização** durante vários turnos.
 
 ---
 
-* Form-fitting and adjustable shape allowing for **comfortable wearing for extended periods**.   
+* Forma ajustada e ajustável que permite uma **utilização confortável por longos períodos**. 
 
 ---
 
-* **Fast, flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions.  
+* **Abordagens rápidas, flexíveis e escaláveis orientadas a produção em série** de modo a responder à procura mundial face mesmo com quebras das cadeis logísticas.
 
 ---
 ---
 
-## Gallery
+## Galeria de imagens
 
 ---
 
