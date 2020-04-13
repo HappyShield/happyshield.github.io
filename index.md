@@ -18,7 +18,7 @@ redirect_from: /
 
 ---
 
-HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control developed in response to the Covid-19 pandemic. 
+HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control developed **in response to the Covid-19 pandemic**. 
 
 **_Please note: HappyShield has not yet been certified for use as personal protective equipment._**
 
