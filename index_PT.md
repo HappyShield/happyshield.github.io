@@ -33,7 +33,7 @@ Os profissionais de saúde precisam de escudos faciais como complemento a másca
 
 ---
 
-O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um conjunto de designs para escudos faciais que sejam **seguros**, **baratos**, **fáceis de produzir em massa** rapidamente usando **materiais, equipamento e mao-de-obra disponíveis em regiões de baixo e médio rendimento**, e **fáceis de usar**, e que sejam **confortáveis** o suficiente para serem usados por períodos longos por profissionais de saúde sem induzir dôr ou desconforto. A primeira fase deste projecto, o desenho de um protótipo, resultou no **HappyShield**, que cumpre con sucesso estes objectivos. As funcionalidades do desenho HappyShield são listadas abaixo:
+O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um conjunto de desenhos para escudos faciais que sejam **seguros**, **baratos**, **fáceis de produzir em massa** rapidamente usando **materiais, equipamento e mao-de-obra disponíveis em regiões de baixo e médio rendimento**, e **fáceis de usar**, e que sejam **confortáveis** o suficiente para serem usados por períodos longos por profissionais de saúde sem induzir dôr ou desconforto. A primeira fase deste projecto, o desenho de um protótipo, resultou no **HappyShield**, que cumpre con sucesso estes objectivos. As funcionalidades do desenho HappyShield são listadas abaixo:
 
 ---
 
@@ -68,66 +68,68 @@ O objectivo deste projecto é desenvolver, disseminar, e produzir em massa um co
 ---
 ---
 
-# How can I help? 
+# Como é que eu posso ajudar? 
 
 ---
 
-We have **begun production of HappyShields in the UK**, and are hoping to **rapidly expand** our production and distribution capacity here. Most especially, however, we are **currently seeking partnerships and collaborations** which can help us to disseminate the HappyShield design and related production methods to **less wealthy countries** and jump-start mass-production of face shields there as quickly as possible.
+Já **iniciámos a produção do HappyShield no Reino Unido**, e esperamos **expandir rapidamente** a nossa capacidade de produção e distribuição aqui. Em particular, no entanto, estamos **presentemente à procura de parcerias e colaborações** que possam ajudar à disseminação do design e dos métodos de produção relacionados com o HappyShield em **países mais desfavorecidos** de modo a iniciar a produção em massa de escudos faciais nesses países o mais cedo possível.
 
 ---
 
-### _Here's how you can help:_
+### _Formas como pode ajudar:_
 
 ---
 
-## 1. 🏭 Manufacturers and Makers
+## 1. 🏭 Fabricantes e criadores
 
-Do you have **access to a laser-cutter, a bench-mounted hydraulic press, die-cutting machinery**, or have connections to an institution or business which does? [We would love to be connected](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) so that we can help you to **start mass-manufacturing HappyShields locally** as quickly as possible.
+Você tem **accesso a uma cortadora laser, ou uma pensa hidráulica de bancada, ou maquinaria de corte**, ou tem contactos com uma instituição ou empresa com esse acesso? [Seria óptimo estabelecermos esse contacto](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Manufacturing) no sentido de podermos ajudá-lo a **iniciar a produção em massa de HappyShields localmente** o mais depressa possível.
 
-Are you a **maker / DIY enthusiast**? We have developed and documented a small number of diverse manufacturing pathways (shown below) for HappyShield, but because of the simplicity of the design, we anticipate there being many effective ways to produce them using locally available materials, equipment, and labor. We need your help to **develop and document these new methods** so that makers and manufacturers worldwide can scale up production using materials and equipment that they already have. All of our [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
+Você é um **criador / entusiasta do faça-você-mesmo**? Nós desenvolvemos e documentámos alguns processos de fabrico diferentes (mostrados abaixo) para o HappyShield, mas devido à simplicidade do desenho, antecipamos que haja muitos métodos efectivos de os produzir usando materials, equipamentos e mão-de-obra disponíveis localmente. Precisamos da sua ajuda pra **desenvolver e documentar esses novos métodos** para que criadores e fabricantes em todo o mundo possam escalar a produção usando materiais e equipamento já existentes. Toda a nossa [documentação](https://github.com/HappyShield/happyshield.github.io) e [ficheiros de template](https://github.com/HappyShield/HappyShield) estão disponíveis em código aberto no GitHub. Pull requests são encorajados!
 
 ---
 
-| Production Method                     | Web                                                                                                                    | Print | Video | Templates |
+| Método de produção                    | Web                                                                                                                    | Print | Video | Templates |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
-| Hand Creasing                         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../hand-creasing/{{page.language}}/)       |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/HandCreasing/Assets/Output/InstructionsPDF/Instructions.pdf)  |    [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/8RvlrtrebBE) |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
-| Laser-cut + Pressure Creasing         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
-| Laser-cut                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
-| Laminated                             |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
+| Vincagem manual                         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../hand-creasing/{{page.language}}/)       |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/HandCreasing/Assets/Output/InstructionsPDF/Instructions.pdf)  |    [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/8RvlrtrebBE) |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
+| Corte a laser + Vingagem por pressão         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
+| Corte a laser                             | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
+| Laminado                             |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
 | WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../wave-shield/{{page.language}}/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/9PSss8W73v0)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
 
 ---
 
-## 2. 🏥 Healthcare Workers
+## 2. 🏥 Profissionis de saúde
 
 ---
 
-Are you responsible for **procurement of PPE for healthcare workers** and do you anticipate needing face shields (or know someone who meets these criteria)? [We would love to connect you](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) with manufacturers locally who can produce HappyShields for you. We can send a **pack of 5-10 HappyShields** to you straight away for any necessary testing and approval.
+Você é responsável pela **aquisição de EPP para profissonais de saúde** e antecipa vir a precisar de escudos faciais (ou conhece alguém que corresponda a estes critérios)? [Seria óptimo estabelecermos contacto entre si](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Healthcare) e fabricantes locais capazes de produzir HappyShields para si. Nós podemos enviar-lhe um **pacote de 5-10 HappyShields** imediatamente para efeitos de teste e aprovação.
 
 ---
 
-## 3. 🌐 Translators
+## 3. 🌐 Tradutores
 
 ---
 
-Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions** into as many languages as possible, so that these designs and manufacturing methods can reach as many people around the world as possible, particularly in less-wealthy regions. **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
+Você sente-se confortável para escrever tecnicamente numa linguagem que não Inglês? Precisamos da sua ajuda para traduzir a nossa página de entrada, instruções, e legendas de video no maior número possível de línguas, para que estes desenhos e métodos de produção cheguem ao maior número possível de pessoas em todo o mundo, particularmente em áreas mais desfavorecidas. **Por favor registe-se como tradutor [aqui](https://forms.gle/9vHc2FbVvhA7nnZM7)**. Se você fala uma língua para a qual estivermos a precisar de tradutores, entraremos em contacto consigo!
 
 ---
 
-#### 🙏 **_Thank you and looking forward to connecting!_**
+#### 🙏 **_Muito obrigado e estamos ansiosos por estabelecermos contacto!_**
 
 ---
 ---
 
-## Disclaimer
+## Aviso legal
 
 ---
+
+A Universidade de Cambridge (UC) e a Universidade de Queensland (UQ) não oferecem nenhuma garantia, expressa ou implícita, sobre o design, características, durabilidade, uso ou desempenho adequado do HappyShield, incluindo, sem limitação, garantias implícitas de comercialização e adequação a qualquer finalidade específica. O HappyShield foi projetado para minimizar a exposição a fluidos e sprays, mas UC e UQ não garantem que o HappyShield proteja os usuários contra infecções por COVID-19 ou qualquer outra doença infecciosa. Nada neste material constitui aconselhamento médico, e os utilizdores devem procurar aconselhamento médico sobre se o HappyShield é adequado para o uso pretendido e se devem usá-lo em conjunto com outras estratégias médicas ou outras. Na extensão máxima permitida por lei, a UC e a UQ excluem todas as garantias implícitas, garantias, termos e condições. A UC e a UQ não são responsáveis por reivindicações, demandas, danos ou ferimentos, incluindo, entre outros, danos materiais, lesões corporais ou doenças, morte, danos indiretos, especiais ou consequentes ("as Reivindicações") decorrentes do uso do HappyShield, e os utilizadores do HappyShield liberam UC e UQ e seus funcionários, empregados, contratados e agentes de todas as Reivindicações.
 
 The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
 
 --- 
 
-#### Project Credits
+#### Créditos do projecto
 
 University of Cambridge, Department of Architecture  
 Centre for Natural Material Innovation
