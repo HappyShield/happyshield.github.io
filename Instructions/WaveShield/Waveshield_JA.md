@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WaveSHIELD
+title: なみなみシールド
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /wave-shield/ja/
 language: ja
