@@ -13,7 +13,7 @@ language: ja
 ![HappyShieldGif](../assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
 
 
-# これはなに? 
+# このプロジェクトについて
 
 ---
 
