@@ -43,11 +43,11 @@ La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen 
 
 ---
 
-**Shield**
+**Escudo**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-* Tape
+* Hoja de 0.5mm de grosor de Tereftalato de Polietileno (PET) o, por lo menos, Acetato 
+* Banda de tejido elástico de 20 mm (70% poliester 30% goma)
+* Cinta adhesiva
 
 ---
 
