@@ -31,7 +31,7 @@ La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen 
 
 ---
 
-* Tijeras o navaja
+* Tijeras o cuchilla
 * Bolígrafo
 * Regla
 * Cuchillo de mantequilla
@@ -45,8 +45,8 @@ La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen 
 
 **Escudo**
 
-* Hoja de 0.5mm de grosor de Tereftalato de Polietileno (PET) o, por lo menos, Acetato 
-* Banda de tejido elástico de 20 mm (70% poliester 30% goma)
+* Hoja de 0.5mm de grosor de Tereftalato de Polietileno (PET) o, por lo menos, Acetato
+* Banda de tejido elástico de 20 mm (70% poliéster 30% goma)
 * Cinta adhesiva
 
 ---
@@ -61,7 +61,7 @@ La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen 
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Download your tracing template. A4-sized templates are available for A3-sized shields. Letter-sized templates are available for Tabloid-sized shields. If you do not have access to a printer, you can draw your own template using the dimensions shown on the template.
+Descarga la plantilla de trazado. Las plantillas en formato A4 están disponibles para escudos tamaño A3. Las plantillas en tamaño Carta están disponibles para escudos tamaño Tabloide. Si no tienes acceso a una impresora, puedes dibujar tu propia platilla usando las dimensiones mostradas en la plantilla.
 
 ---
 
@@ -69,7 +69,7 @@ Download your tracing template. A4-sized templates are available for A3-sized sh
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Place your transparent sheet on the template. Mark the location of the strap holes with your pen or marker. Don’t worry about the ink, it can be removed with a cloth damped with alcohol. 
+Coloca la hoja transparente sobre la plantilla. Marca la posición de los orificios donde irá la correa con un bolígrafo o marcador. No te preocupes por la tinta, puede ser eliminada con un paño empapado en alcohol. 
 
 ---
 
@@ -77,7 +77,7 @@ Place your transparent sheet on the template. Mark the location of the strap hol
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Trace out the boundary of the shield for cutting out. 
+Delinea el perímetro del escudo para cortarlo. 
 
 ---
 
@@ -85,17 +85,17 @@ Trace out the boundary of the shield for cutting out.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Cut the boundary shape of the shield out using scissors or a razor blade. Cut out the strap holes. You can use a hole-puncher as well to make these holes. 
+Corta a lo largo del perímetro del escudo usando tijeras o una cuchilla. Corta los orificios de la correa. También puedes usar una perforadora de papel para hacer estos orificios. 
 
-Next, cut out the friction clips using a razor blade.
+Posteriormente, corta los clips de fricción usando una cuchilla.
 
-Now, let’s score a smile on that face!
+¡Ahora, dibujemos una sonrisa en esa cara!
 
 ---
 
 
 
-## Creasing Method A
+## Método de Plegado A
 
 ---
 
@@ -103,7 +103,7 @@ Now, let’s score a smile on that face!
 
 ![](./Assets/Output/Steps/05.jpg)
 
-Place your transparent sheet on the template. Fix with clips or tape for precise tracing.
+Coloca la hoja transparente sobre la plantilla. Fíjala con clips o cinta adhesiva para un trazado preciso.
 
 ---
 
