@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Laser Kesim ve Basınçlı Katlama
