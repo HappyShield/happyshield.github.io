@@ -3,6 +3,7 @@ layout: page
 title: การตัดด้วยเลเซอร์และการกดเพื่อให้เกิดรอยพับ
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href = "https://youtu.be/IPKiPi-Tne8"><i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i></a> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /pressure-creasing/th/
+language: th
 ---
 
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
