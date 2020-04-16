@@ -11,53 +11,53 @@ language: es
 
 ---
 
-## Disclaimer
+## Aviso Legal
 
 ---
 
-The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
+La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen garantía de ningún tipo, de manera explícita o implícita, sobre el diseño, características y durabilidad, uso o desempeño apropiado del HappyShield, incluido, pero no limitado a las garantías tácitas de comercialización y adaptabilidad para cualquier propósito particular. El HappyShield fue diseñado para minimizar la exposición a fluidos y aerosoles, pero la UC y la UQ no garantizan que el HappyShield proteja a los usuarios frente a infecciones por COVID-19 o cualquier otra enfermedad infecciosa. Este texto no constituye asesoramiento médico, y los usuarios deberán obtener asesoramiento médico por sus propios medios para definir si el uso del HappyShield es apropiado para sus fines, y, o si es necesario utilizarlo conjuntamente con otras estrategias médicas o de cualquier tipo. En la máxima medida permitida por la ley, la UC y la UQ excluyen todas las garantías, términos y condiciones, ya sean explícitos o implícitos. La UC y la UQ no se responsabilizan por reclamaciones, demandas, daños o perjuicios, incluyendo, pero no limitando a daños a la propiedad, lesiones corporales o enfermedad, muerte, daños indirectos, especiales o resultantes (“las Reclamaciones”) que surjan por el uso del HappyShield, y los usuarios del HappyShield liberan a la UC, a la UQ y a sus oficiales, empleados, proveedores y agentes de cualquier Reclamación.
 
 ---
 
 --- 
 
-## Tools
+## Herramientas
 
 ---
 
-* Laser-cutter
-* 10-tonne press
-* Pliers capable of cutting 1 mm steel wire rope
-* Scissors or razor blade
-* Drill or screw-driver
+* Cortador láser
+* Prensa de 10 toneladas
+* Alicates con capacidad de cortar cable de acero de 1 mm
+* Tijeras o cuchilla
+* Taladro o destornillador 
 
 ---
 
-## Materials
+## Materiales
 
 ---
 
-**3-Part Press Jig**
+**Plantilla de Presión de 3 Partes**
 
-* 4 mm MDF
-* 1 mm steel wire rope   
-* 6-20 mm wood screws
-* Clear plastic tape
+* Fibra de densidad media (MDF) de 4 mm
+* Cable de acero de 1 mm
+* Tornillos de madera de 6-20 mm
+* Cinta adhesiva de plástico transparente
 
-**Shield**
+**Escudo**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-
----
+* Hoja de 0.5mm de grosor de Tereftalato de Polietileno (PET) o, por lo menos, Acetato 
+* banda de tejido elástico de 20 mm (70% poliéster 30% goma)
 
 ---
 
-# Instructions
+---
+
+# Instrucciones
 
 ---
 
-## 3-Part Press Jig 
+## Plantilla de Presión de 3 Partes 
 
 ---
 
@@ -128,4 +128,4 @@ Cut a 400 mm length of elastic strap. Thread the strap through the friction clip
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Pass the threaded friction clips through the holes in the shield from back to front. 
+Pasa los clips de fricción a través de los orificios en el escudo por la parte trasera del escudo hacia la parte delantera.
