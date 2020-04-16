@@ -15,35 +15,35 @@ language: es
 
 ---
 
-The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
+La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen garantía de ningún tipo, de manera explícita o implícita, sobre el diseño, características y durabilidad, uso o desempeño apropiado del HappyShield, incluido, pero no limitado a las garantías tácitas de comercialización y adaptabilidad para cualquier propósito particular. El HappyShield fue diseñado para minimizar la exposición a fluidos y aerosoles, pero la UC y la UQ no garantizan que el HappyShield proteja a los usuarios frente a infecciones por COVID-19 o cualquier otra enfermedad infecciosa. Este texto no constituye asesoramiento médico, y los usuarios deberán obtener asesoramiento médico por sus propios medios para definir si el uso del HappyShield es apropiado para sus fines, y, o si es necesario utilizarlo conjuntamente con otras estrategias médicas o de cualquier tipo. En la máxima medida permitida por la ley, la UC y la UQ excluyen todas las garantías, términos y condiciones, ya sean explícitos o implícitos. La UC y la UQ no se responsabilizan por reclamaciones, demandas, daños o perjuicios, incluyendo, pero no limitando a daños a la propiedad, lesiones corporales o enfermedad, muerte, daños indirectos, especiales o resultantes (“las Reclamaciones”) que surjan por el uso del HappyShield, y los usuarios del HappyShield liberan a la UC, a la UQ y a sus oficiales, empleados, proveedores y agentes de cualquier Reclamación.
 
 ---
 
 --- 
 
-## Tools
+## Herramientas
 
 ---
 
-* Laser-cutter
-* Scissors or razor blade
+* Cortador láser
+* Tijeras o cuchilla
 
 ---
 
-## Materials
+## Materiales
 
 ---
 
-**Shield**
+**Escudo**
 
-* 0.5 mm thick Polyethylene terephthalate (PET) or Acetate sheet at least 
-* 20 mm wide knit elastic strap (70% polyester 30% rubber)
-
----
+* Hoja de 0.5mm de grosor de Tereftalato de Polietileno (PET) o, por lo menos, Acetato
+* Banda de tejido elástico de 20 mm (70% poliéster 30% goma)
 
 ---
 
-# Instructions
+---
+
+# Instrucciones
 
 ---
 
@@ -51,7 +51,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Laser-cut the clear plastic sheet material using the template file, ensuring that your laser-cutter power and speed settings ensure a cut completely through the depth of the material.
+Corta a láser la lámina de material plástico transparente usando el archivo de la platilla, asegurándote que la potencia y configuraciones de velocidad garanticen el cortado a través del grosor del material. 
 
 ---
 
@@ -59,7 +59,7 @@ Laser-cut the clear plastic sheet material using the template file, ensuring tha
 
 ![](./Assets/Output/Steps/02.jpg)
 
-Starting on end of one of the crease curves, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. 
+Comenzando por un extremo de la curva de plegado, y trabajando hacia el otro extremo de la curva, dobla cuidadosamente la lámina para plegarla a lo largo de la curva. 
 
 --- 
 
@@ -67,7 +67,7 @@ Starting on end of one of the crease curves, and working your way to the other e
 
 ![](./Assets/Output/Steps/03.jpg)
 
-Fold the second curve using the same procedure as in Step 2.
+Dobla la segunda curva siguiendo el mismo procedimiento del Paso 2.
 
 ---
 
@@ -75,6 +75,6 @@ Fold the second curve using the same procedure as in Step 2.
 
 ![](./Assets/Output/Steps/04.jpg)
 
-Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
+Entrelaza la correa a través de los clips de fricción. Pasa los clips de fricción a través de los orificios en el escudo por la parte trasera del escudo hacia la parte delantera.
 
 
