@@ -61,7 +61,7 @@ La Universidad de Cambridge (UC) y la Universidad de Queensland (UQ) no ofrecen 
 
 ![](./Assets/Output/Steps/01.jpg)
 
-Descarga la plantilla de trazado. Las plantillas en formato A4 están disponibles para escudos tamaño A3. Las plantillas en tamaño Carta están disponibles para escudos tamaño Tabloide. Si no tienes acceso a una impresora, puedes dibujar tu propia platilla usando las dimensiones mostradas en la plantilla.
+Descarga la plantilla de trazado. Las plantillas en formato A4 están disponibles para escudos tamaño A3. Las plantillas en tamaño Carta están disponibles para escudos tamaño Tabloide. Si no tienes acceso a una impresora, puedes dibujar tu propia plantilla usando las dimensiones mostradas en la plantilla.
 
 ---
 
@@ -147,7 +147,7 @@ Traza las curvas de plegado con un bolígrafo (no precisa presión adicional en 
 
 ![](./Assets/Output/Steps/10.jpg)
 
-Encuentra una hendidura de 2-5 mm de ancho y al menos 5 cm de largo en una superficie o pieza de trabajo fija. El espacio entre las tarimas del suelo, los segmentos de una mesa de comedor o la encimera de la cocina son buenas opciones. Como alternativa haz tu propia hendidura en una pieza de madera u otro material. Posteriormente toma un bolígrafo o cualquier otra herramienta con una punta relativamente redondeada (cualquier parte redondeada de un cuchillo de mantequilla, cuchara o palillo pueden funcionar).
+Encuentra una hendidura de 2-5 mm de ancho y al menos 5 cm de largo en una superficie o pieza de trabajo fija. El espacio entre las tarimas del suelo, los segmentos de una mesa de comedor o la encimera de la cocina son buenas opciones. Como alternativa, haz tu propia hendidura en una pieza de madera u otro material. Posteriormente toma un bolígrafo o cualquier otra herramienta con una punta relativamente redondeada (cualquier parte redondeada de un cuchillo de mantequilla, cuchara o palillo pueden funcionar).
 
 Usando una mano para mover la hoja como lo harías con una pieza de tela a través de una máquina de coser, usa la otra mano para pasar de manera repetida la herramienta sobre la superficie del material sobre la hendidura, siguiendo una de las curvas de plegado que has trazado.
 
