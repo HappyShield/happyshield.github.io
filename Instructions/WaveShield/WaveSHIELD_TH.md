@@ -3,6 +3,7 @@ layout: page
 title: WaveSHIELD
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"> <a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
 permalink: /wave-shield/th/
+language: th
 ---
 
 <i class="em em-timer_clock" aria-role="presentation" aria-label=""></i>: 10-15′
