@@ -111,7 +111,7 @@ Coloca la hoja transparente sobre la plantilla. Fíjala con clips o cinta adhesi
 
 ![](./Assets/Output/Steps/06.jpg)
 
-Using a ruler, and applying pressure, trace the straight segments between each consecutive point, using 2-3 strokes as needed until you see a visible indentation in the sheet.
+Usando una regla y aplicando presión, traza los segmentos rectos entre cada punto consecutivo, usando 2-3 trazos según sea necesario hasta que perciba una hendidura en la hoja.
 
 ---
 
@@ -119,7 +119,7 @@ Using a ruler, and applying pressure, trace the straight segments between each c
 
 ![](./Assets/Output/Steps/07.jpg)
 
-Flip the transparent sheet.  Fix the sheet and the template again.
+Dale la vuelta a la hoja transparente. Fija la hoja y la plantilla de nuevo.
 
 ---
 
@@ -127,7 +127,7 @@ Flip the transparent sheet.  Fix the sheet and the template again.
 
 ![](./Assets/Output/Steps/08.jpg)
 
-Trace the second curve in the same way as in step **6A**.
+Traza la segunda curva del mismo modo que hiciste en el paso **6A**.
 
 ---
 
@@ -139,7 +139,7 @@ Trace the second curve in the same way as in step **6A**.
 
 ![](./Assets/Output/Steps/09.jpg)
 
-Trace the folding curves with a pen (no additional pressure is required here). If desired, fix the sheet to the template with clips or tape for more precise tracing.
+Traza las curvas de plegado con un bolígrafo (no precisa presión adicional en este paso). Si lo deseas, fija la hoja a la plantilla con clips o cinta adhesiva para un trazado más preciso.
 
 ---
 
@@ -147,9 +147,9 @@ Trace the folding curves with a pen (no additional pressure is required here). I
 
 ![](./Assets/Output/Steps/10.jpg)
 
-Find a 2-5 mm wide 2-3 mm deep channel at least 5 cm long on an immobile work surface or workpiece. Gaps between floorboards, segments of a dining table or kitchen countertop work well for this. Alternatively, make your own channel in a piece of wood or other material. Next, find a ballpoint pen or any other tool with a relatively dull end (any dull part of a butter knife, spoon, or chopstick can work here as well). 
+Encuentra una hendidura de 2-5 mm de ancho y al menos 5 cm de largo en una superficie o pieza de trabajo fija. El espacio entre las tarimas del suelo, los segmentos de una mesa de comedor o la encimera de la cocina son buenas opciones. Como alternativa haz tu propia hendidura en una pieza de madera u otro material. Posteriormente toma un bolígrafo o cualquier otra herramienta con una punta relativamente redondeada (cualquier parte redondeada de un cuchillo de mantequilla, cuchara o palillo pueden funcionar).
 
-Using one hand to move the sheet as you might a piece of fabric through a sewing machine, use the other hand to repeatedly run the tool over the surface of the material over the channel, following one of the crease curves you have traced.
+Usando una mano para mover la hoja como lo harías con una pieza de tela a través de una máquina de coser, usa la otra mano para pasar de manera repetida la herramienta sobre la superficie del material sobre la hendidura, siguiendo una de las curvas de plegado que has trazado.
 
 ---
 
@@ -157,7 +157,7 @@ Using one hand to move the sheet as you might a piece of fabric through a sewing
 
 ![](./Assets/Output/Steps/11.jpg)
 
-Flip the shield over.
+Dale la vuelta al escudo.
 
 ---
 
@@ -165,7 +165,7 @@ Flip the shield over.
 
 ![](./Assets/Output/Steps/12.jpg)
 
-Repeat step 6B for the other crease curve.
+Repite el paso 6B para la otra curva de plegado.
 
 ---
 
@@ -173,7 +173,7 @@ Repeat step 6B for the other crease curve.
 
 ![](./Assets/Output/Steps/13.jpg)
 
-Starting on end of the crease curve, and working your way to the other end of the curve, gently pinch the sheet to fold it along the curve. If some segments do not fold easily, repeat the creasing procedure. 
+Comenzando por un extremo de la curva de plegado, y trabajando hacia el otro extremo de la curva, dobla cuidadosamente la hoja para plegarla a lo largo de la curva. Si alguno de los segmentos no se pliega fácilmente, repite el procedimiento de plegado. 
 
 
 ---
@@ -182,7 +182,7 @@ Starting on end of the crease curve, and working your way to the other end of th
 
 ![](./Assets/Output/Steps/14.jpg)
 
-Repeat step 9 for the other curve, but this time, fold the sheet in the other direction. 
+Repite el paso 9 para la otra curva, pero en esta ocasión, dobla la hoja en la dirección opuesta. 
 
 ---
 
@@ -190,7 +190,7 @@ Repeat step 9 for the other curve, but this time, fold the sheet in the other di
 
 ![](./Assets/Output/Steps/15.jpg)
 
-Thread the strap through the friction clips. Pass the friction clips through the holes in the shield from the back side of the shield to the front.
+Entrelaza la correa a través de los clips de fricción. Pasa los clips de fricción a través de los orificios en el escudo por la parte trasera del escudo hacia la parte delantera.
 
 
 
