@@ -1,9 +1,9 @@
 ---
 layout: page
-title: HappyShield
+title: HappyShield [DEPRECATED]
 tagline: 感染を防ぐための曲線折り紙フェイスシールド
-permalink: /ja/
-language: ja
+permalink: /ja-DEPRECATED/
+language: ja-DEPRECATED
 ---
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//NzHtaLhImxM' frameborder='0' allowfullscreen></iframe></div>
@@ -16,6 +16,8 @@ language: ja
 # このプロジェクトについて
 
 ---
+
+# 2020 04 23: Please Note: This translation of the HappyShield homepage is out of date and should not be considered current. Please refer to the [English version of the homepage](https://happyshield.github.io/en/) for the most up to date version.. 
 
 HappyShield（ハッピーシールド）は、Covid-19のパンデミックを受けて新たに立ち上げられた、**簡単に折ることができる**、**オープンソース**のフェイスシールドです。
 
