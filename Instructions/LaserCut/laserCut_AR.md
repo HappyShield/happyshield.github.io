@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: القص بالليزر 
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
