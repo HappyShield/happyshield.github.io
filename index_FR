@@ -1,0 +1,172 @@
+---
+layout: page
+title: HappyShield
+tagline: Ecran facial Origami à pli incurvé pour le contrôle des infections
+permalink: /fr/
+language: fr
+---
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//NzHtaLhImxM' frameborder='0' allowfullscreen></iframe></div>
+
+---
+
+![HappyShieldGif](../assets/0_MD_Instruction Files/HS_Cover GIF/HS_GIF_01.gif)
+
+
+# Quoi ? 
+
+---
+
+HappyShield est une nouvelle conception **open source** pour un **écran facial pliable simple ** pour le contrôle des infections, développé **en réponse à la pandémie de Covid-19**. 
+
+**Veuillez noter : HappyShield n'a pas encore été certifié pour être utilisé comme équipement de protection individuelle.
+
+---
+
+# Pourquoi ?
+
+---
+
+Les travailleurs de la santé ont besoin d'écrans faciaux en plus de masques et de lunettes pour se protéger des éclaboussures et des projections de fluides corporels infectés par les patients atteints de Covid-19, lors d'un certain nombre d'interventions et de situations médicales à haut risque. Il y a actuellement une pénurie **significative d'écrans faciaux dans le monde**, qui risque d'être **particulièrement grave dans les régions les moins riches** sans qu'il soit possible d'acheter ou de fabriquer les Equipements de Protection Individuelle (EPI) nécessaires aussi facilement ou rapidement que dans les pays riches. 
+
+---
+
+# Comment ? 
+
+---
+
+L'objectif de ce projet est de développer un ensemble de modèles d'écrans faciaux qui soient **sûrs**, **économiques**, **faciles à produire en masse** rapidement en utilisant **les matériaux, l'équipement et la main d'œuvre disponibles dans les régions à faibles et moyens revenus**, **faciles à réutiliser** et suffisamment **confortables** pour être portés pendant de longues périodes par les travailleurs de la santé sans provoquer de douleur ou d'inconfort. Cet effort a donné naissance à **HappyShield**, qui répond avec succès à ces objectifs de conception. Les caractéristiques de la conception de HappyShield sont énumérées ci-dessous :
+
+---
+
+## Caractéristiques
+
+---
+
+* Conception imperméable aux fluides à une seule feuille avec **protection supplémentaire contre les fluides et les pulvérisations par le haut**.   
+
+---
+
+* Décontamination facile pour réutilisation** sur un grand nombre d'équipes.   
+
+---
+
+* Forme ajustée et ajustable permettant un port **confortable pendant de longues périodes**.   
+
+---
+
+* **Des approches rapides, flexibles et évolutives de la fabrication en série** pour aider à répondre à la demande mondiale malgré les perturbations de la chaîne d'approvisionnement.  
+
+---
+---
+
+## Galerie
+
+---
+
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/810063" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+
+---
+---
+
+## Documentation et modèles
+
+---
+
+Toute notre documentation (https://github.com/HappyShield/happyshield.github.io) et nos fichiers modèles (https://github.com/HappyShield/HappyShield) sont disponibles en open-source sur GitHub. Nous encourageons les pull requests!
+
+**Problèmes / demandes de fonctionnalités (issues / feature requests)** : si vous trouvez des erreurs ou des omissions dans la documentation ou les fichiers modèles, ou si vous souhaitez demander un ajout ou une fonctionnalité, n'hésitez pas à soumettre une [issue] (https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) à l'un de nos repositories GitHub ! Nous vous remercions !
+
+* [Soumettre un problème pour les fichiers de documentation](https://github.com/HappyShield/happyshield.github.io/issues)    
+* [Soumettre un problème pour les fichiers modèles](https://github.com/HappyShield/HappyShield/issues)  
+
+
+---
+
+| Méthode de production                 | Web                                                                                                                    | Imprimer | Vidéo | Modèles |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|-------|-----------|
+| Pliage à main                         | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../hand-creasing/{{page.language}}/)       |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/HandCreasing/Assets/Output/InstructionsPDF/Instructions.pdf)  |    [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/8RvlrtrebBE) |       [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/HandCreasing)    |
+| Découpe au laser + pliage pression    | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../pressure-creasing/{{page.language}}/)   | [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCutAndPressureCreasing/Assets/Output/InstructionsPDF/Instructions.pdf) |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/IPKiPi-Tne8)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCutAndPressureCreasing)  |
+| Découpe au laser                      | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../laser-cut/{{page.language}}/)           |  [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/LaserCut/Assets/Output/InstructionsPDF/Instructions.pdf) |       |        [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut)   |
+| Laminé                                |                                                                                                                        |       |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/yBTCImOzLss)    |           |
+| WaveShield                            | [<i class="em em-iphone" aria-role="presentation" aria-label="MOBILE PHONE"></i>](../wave-shield/{{page.language}}/)     |   [<i class="em em-page_facing_up" aria-role="presentation" aria-label="PAGE FACING UP"></i>](./Instructions/WaveShield/Assets/Output/InstructionsPDF/Instructions.pdf)    |   [<i class="em em-video_camera" aria-role="presentation" aria-label="VIDEO CAMERA"></i>](https://youtu.be/9PSss8W73v0)    |         [<i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i>](https://github.com/HappyShield/HappyShield/tree/master/Templates/Waveshield)  |
+
+---
+
+---
+
+
+---
+
+## 1. 🏥 Travailleurs de la santé
+
+---
+
+Êtes-vous responsable de **l'achat d'EPI pour les travailleurs de la santé** ? Nous vous serions très reconnaissants de nous aider à obtenir la certification de HappyShield pour son utilisation en tant qu'équipement de protection individuelle. N'hésitez pas à nous contacter [ici](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Certification)!
+
+---
+
+## 2. 🌐 Traducteurs
+
+---
+
+Êtes-vous à l'aise pour écrire techniquement dans une langue autre que l'anglais ? Nous avons besoin de votre aide **pour traduire notre page d'accueil, les instructions et les légendes des vidéos** ! **Veuillez vous inscrire comme traducteur [ici](https://forms.gle/9vHc2FbVvhA7nnZM7)**. Si vous parlez une langue pour laquelle nous cherchons des traducteurs, nous vous contacterons! 
+
+---
+
+#### 🙏 **_Merci et au plaisir de se connecter!_**
+
+---
+---
+
+## Décharge de responsabilité
+
+---
+
+L'Université de Cambridge (UC) et l'Université du Queensland (UQ) ne donnent aucune garantie d'aucune sorte, expresse ou implicite, sur la conception, les caractéristiques, la durabilité, le bon usage ou les performances du HappyShield, y compris, mais sans s'y limiter, les garanties implicites de qualité marchande et d'adéquation à un usage particulier. Le HappyShield est conçu pour minimiser l'exposition aux liquides et aux sprays, mais l'UC et l'UQ ne garantissent pas que le HappyShield protégera les utilisateurs contre l'infection par COVID-19 ou toute autre maladie infectieuse. Rien dans ce matériel ne constitue un avis médical, et les utilisateurs doivent demander leur propre avis médical pour savoir si HappyShield est adapté à l'usage qu'ils en ont l'intention, et s'ils doivent l'utiliser en conjonction avec d'autres stratégies médicales ou autres. Dans toute la mesure permise par la loi, l'UC et l'UQ excluent toutes les garanties implicites, les garanties, les termes et les conditions. L'UC et l'UQ ne sont pas responsables des réclamations, demandes, dommages ou blessures, y compris, mais sans s'y limiter, les dommages matériels, les blessures ou maladies corporelles, la mort, les dommages indirects, spéciaux ou consécutifs ("les Réclamations") découlant de l'utilisation de HappyShield, et les utilisateurs de HappyShield libèrent l'UC et l'UQ et leurs dirigeants, employés, entrepreneurs et agents de toutes les Réclamations.
+
+**_Attention : HappyShield n'a pas encore été certifié pour être utilisé comme équipement de protection personnelle._**
+
+--- 
+
+#### Crédits du projet
+
+Université de Cambridge, Département d'architecture  
+Centre pour l'innovation dans les matériaux naturels
+
+
+Université du Queensland, École de génie civil  
+Laboratoire des structures pliées  
+
+Wesam Al Asali  
+Tom Bashford  
+Aurimas Bukauskas  
+Mutsuko Grant  
+Joe Gattas  
+Ana Gatoo  
+Yelda Gin  
+Will Hawkins  
+Millie Hood  
+Aftab Jalia  
+Antiopi Koronaki  
+Jeff Lee  
+Ana Maia  
+Andy Conway Morris  
+Josh Newman  
+Daniel Ott  
+Michael Ramage  
+Darshil Shah  
+
+---
+
+<script src="https://kit.fontawesome.com/688367e949.js" crossorigin="anonymous"></script>
+<div class="socialMediaIconsFooter">
+        <a href = "https://twitter.com/happy_PPE">
+            <i class="fab fa-twitter" style="font-size:24px; color:black; display: inline-block;"></i> 
+        </a>
+        <a href ="https://www.instagram.com/happyppe/">
+            <i class="fab fa-instagram" style="font-size:24px; color:black; display: inline-block;"></i>
+        </a>  
+        <a href="mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry">  natmat@aha.cam.ac.uk</a>
+</div>
