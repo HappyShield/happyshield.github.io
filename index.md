@@ -20,7 +20,7 @@ redirect_from: /
 
 HappyShield is a new **open-source** design for a **simple, foldable face shield** for infection control developed **in response to the Covid-19 pandemic**. 
 
-**_Please note: HappyShield has not yet been certified for use as personal protective equipment._**
+**_Update: HappyShield, as manufactured by the University of Cambridge Department of Architecture using the "Laser-cut and Pressure Creasing" manufacturing method, has now recieved CE marking certification. Please note this approval applies only in the context of the Covid-19 pandemic, and does not apply to other manufacturing methods, and production by manufacturers other than the University of Cambridge Department of Architecture. If you do manufacture and distribute based on the HappyShield design, please know that the University of Cambridge and the University of Queensland will not accept any liability related to this. Please also note that while we “The University of Cambridge Department of Architecture” have received CE marking approval for manufacturing and distributing HappyShields, you as a manufacturer are responsible for obtaining and maintaining the relevant approvals for manufacturing and distribution in your jurisdiction. Finally, as a manufacturer, you are responsible for maintaining your own suitable insurance appropriate for your activities manufacturing and distributing face shields._**
 
 ---
 
@@ -75,7 +75,7 @@ The aim of this project is to develop a set of designs for face shields which ar
 
 ---
 
-All of our design [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub. Pull requests are encouraged!
+All of our design [documentation](https://github.com/HappyShield/happyshield.github.io) and [template files](https://github.com/HappyShield/HappyShield) are available open-source on GitHub, licensed under the [Creative Commons “Attribution-NonCommercial-ShareAlike 4.0 International” License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Pull requests are encouraged!
 
 **Issues / Feature Requests**: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an [Issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) to one of our GitHub repositories! Thank you!
 
@@ -97,38 +97,11 @@ All of our design [documentation](https://github.com/HappyShield/happyshield.git
 
 ---
 
-# How can I help?
-
----
-
-## 1. 🏥 Healthcare Workers
-
----
-
-Are you responsible for **procurement of PPE for healthcare workers**? We would very much appreciate your support with obtaining certification for HappyShield for use as personal protective equipment. Please feel free to reach us [here](mailto:natmat@aha.cam.ac.uk?Subject=HappyShield Inquiry: Certification)!
-
----
-
-## 2. 🌐 Translators
-
----
-
-Are you comfortable writing technically in a language other than English? We need your help **translating our homepage, instructions, and video captions**! **Please sign up as a translator [here](https://forms.gle/9vHc2FbVvhA7nnZM7)**. If you speak a language which we currently need translators for, we will reach out to you! 
-
----
-
-#### 🙏 **_Thank you and looking forward to connecting!_**
-
----
----
-
 ## Disclaimer
 
 ---
 
-The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims.
-
-**_Please note: HappyShield has not yet been certified for use as personal protective equipment._**
+The University of Cambridge (UC) and the University of Queensland (UQ) make no warranty of any kind, express or implied, about the design, characteristics, durability, proper use or performance of the HappyShield, including but not limited to implied warranties of merchantability and fitness for any particular purpose. The HappyShield is designed to minimise exposure to fluids and sprays, but UC and UQ do not warrant that HappyShield will protect users from COVID-19 infection or any other infectious disease. Nothing in this material constitutes medical advice, and users should seek their own medical advice about whether HappyShield is suitable for the use they intend, and whether they should use it in conjunction with any other medical or other strategies. To the fullest extent allowed by law, UC and UQ exclude all implied warranties, guarantees, terms and conditions. UC and UQ are not liable for any claims, demands, damages or injuries, including but not limited to property damage, bodily injury or illness, death, indirect, special or consequential damages (“the Claims”) arising out of using the HappyShield, and users of HappyShield release UC and UQ and their officers, employees, contractors and agents from all Claims. Manufacturers shall indemnify UC and UQ and each of their respective affiliates, and the trustees, council members, directors, officers, employees, students, contractors, consultants, and other researchers of each of UC, UQ, and each of their respective affiliates (together, “the Indemnified Parties”) from and against any and all losses, damages, fines, penalties, liabilities, charges, and any other costs, fees, and expenses of any nature whatsoever suffered or incurred by any of the Indemnified Parties in connection with any Claim, demand, proceeding, judgment, or any other action of any nature whatsoever arising out of or in connection with (a) any use of the Happy Shield designs by the manufacturer; and/or (b) the design, development, manufacture, use, marketing, promotion, selling or supplying of, or any other dealing in, any of the manufacturer’s products.
 
 --- 
 
