@@ -1,10 +1,9 @@
 ---
 layout: page
-title: القص بالليزر 
+title: レーザーカッターを使う方法
 tagline: &nbsp <span class="instructionsTaglineEmojiLinks"><a href = "https://github.com/HappyShield/HappyShield/tree/master/Templates/LaserCut" ><i class="em em-triangular_ruler" aria-role="presentation" aria-label="TRIANGULAR RULER"></i></a></span>
-permalink: /laser-cut/ar/
-language: ar
-textdirection: rtl
+permalink: /laser-cut/ja/
+language: ja
 ---
 
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
@@ -12,7 +11,7 @@ textdirection: rtl
 
 ---
 
-## إخلاء مسؤولية (Disclaimer)
+## 免責事項 (Disclaimer)
 
 ---
 
@@ -20,32 +19,31 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ---
 
----
+--- 
 
-
-## الادوات
----
-
-* قاطع ليزري
-* مقص او مشرط
+## ツール
 
 ---
 
-## المواد
+* レーザーカッター
+* ハサミまたはカッター
 
 ---
 
-**غطاء الوجه**
+## 材料
 
-* نصف مم سماكة لوح بت البولي ايثيلين تيريفثاليت,  أو لوح شفاف اسيتات
-* شريط مطاطي بعرض 20 مم . 70 بوليستر 30٪ مطاط
+---
 
+**シールド**
+
+* 厚さ0.5 mmのPETまたはアセテートの板
+* 幅20 mmのゴムバンド (70% ポリエステル 30% ゴム)
 
 ---
 
 ---
 
-# التعليمات
+# 制作手順
 
 ---
 
@@ -53,7 +51,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/01.jpg)
 
-قم بتنزيل مخطط قص الليزر من موقعنا.  قم بقص اللوح البلاستيكي الشفاف باستخدام بالليزر ، تأكد أن إعدادات طاقة وسرعة القاطع بالليزر مناسبة لعمق ونوع المادة. 
+テンプレートファイルを使って透明なプラ板をレーザーカットします。この時、レーザーカッターのパワーとスピードが、板をきっちりと切れるような値になるように気をつけましょう。
 
 ---
 
@@ -61,7 +59,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/02.jpg)
 
-قم بطي الغطاء, ابدأ من نهاية منحني الحز, اصغط برفق على طرفي الغطاء وقم بالطي حتى النهاية الاخرى للمنحني 
+折り線を手で折ります。線の端から丁寧につまんでいき、折り目にそって反対側まで進んでいきます。
 
 --- 
 
@@ -69,7 +67,7 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/03.jpg)
 
-كرر الخطوة 9 لمنحنى الحز الآخر ، ولكن هذه المرة ، قم بطي الورقة في الاتجاه الآخر
+ステップ2と同様に、2つめの折り線を折ります。
 
 ---
 
@@ -77,6 +75,4 @@ The University of Cambridge (UC) and the University of Queensland (UQ) make no w
 
 ![](./Assets/Output/Steps/04.jpg)
 
-مرر الشريط من خلال مستطيلات التثبيت. مرر المستطيلات عبر الفتحات الموجودة في غطاء من الجانب الخلفي إلى الأمام.
-
-
+長さ400 mmのゴムバンドを切り、クリップに装着します。シールドの穴に対して後ろから前にクリップを通します。
